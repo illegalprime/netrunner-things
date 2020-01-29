@@ -31,6 +31,10 @@ def shorten_name(name):
     }.get(short, short)
 
 
+def card_key(a):
+    return ('Z' if a[1][1] else 'A') + a[0]
+
+
 def markdown_deck(identity, annotated):
     # print the identity as a title
     lines = [
@@ -46,7 +50,7 @@ def markdown_deck(identity, annotated):
             '{}x {}'.format(count, shorten_name(owner))
             for owner, count in others.items()
         ])))
-        for card, (count, others) in annotated.items()
+        for card, (count, others) in sorted(annotated.items(), key=card_key)
     ]
     return '\n'.join(lines)
 
