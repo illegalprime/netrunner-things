@@ -1,0 +1,36 @@
+-frankfurt30-los-hq-drill
+Los: Data Hijacker (Station One)
+
+Event (16)
+2x Exploit (Daedalus Complex) 
+2x Forged Activation Orders (Revised Core Set) 
+2x Inside Job (Revised Core Set) 
+2x Credit Kiting (Down the White Nile) 
+3x Corporate "Grant" (Council of the Crest) 
+2x Embezzle (Whispers in Nalubaale) 
+3x Diversion of Funds (Kampala Ascendent) 
+
+Hardware (4)
+2x Rubicon Switch (Earth's Scion) 
+2x Māui (Blood and Water) 
+
+Resource (13)
+3x Aeneas Informant (Earth's Scion) 
+2x Crash Space (Revised Core Set) 
+3x Rogue Trading (The Devil and the Dragon) 
+2x Slipstream (Whispers in Nalubaale) 
+3x PAD Tap (Kampala Ascendent) 
+
+Icebreaker (6)
+2x Aumakua (Crimson Dust) 
+1x Aurora (Revised Core Set) 
+2x Femme Fatale (Revised Core Set) 
+1x Amina (Kampala Ascendent) 
+
+Program (6)
+3x Wari (Down the White Nile) 
+3x Gorman Drip v1 (Opening Moves) 
+
+0 influence spent (max 15, available 15)
+45 cards (min 45)
+Cards up to Kampala Ascendent
