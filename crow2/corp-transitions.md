@@ -25,18 +25,18 @@ Total: 49
 
 ### Transition
 
-- **-2** _SSL Endorsement_
-- **-1** _Neural Katana_
-- **+3** _Slot Machine_
-- **-3** _Yagura_
-- **-1** _Hunter_
-- **+3** _Excalibur_
 - **-2** _Reversed Accounts_
-- **-1** _Priority Requisition_
-- **+3** _Obokata Protocol_
-- **+3** _La Costa Grid_
+- **-1** _Neural Katana_
 - **-1** _Tollbooth_
+- **-1** _Hunter_
+- **-2** _SSL Endorsement_
 - **-1** _Tsurugi_
+- **-1** _Priority Requisition_
+- **-3** _Yagura_
+- **+3** _Obokata Protocol_
+- **+3** _Slot Machine_
+- **+3** _La Costa Grid_
+- **+3** _Excalibur_
 
 ## Pālanā Foods: What Costa the World?
 
@@ -64,15 +64,15 @@ Total: 49
 
 ### Transition
 
+- **-3** _Enigma_
+- **-1** _Tollbooth_
+- **-3** _Snare!_
+- **-2** _Hunter_
+- **-2** _Tsurugi_
+- **-1** _Excalibur_
+- **+2** _Thimblerig_
 - **+3** _Anansi_
 - **+3** _Bio Vault_
-- **-2** _Hunter_
-- **-1** _Excalibur_
-- **-3** _Snare!_
-- **-3** _Enigma_
-- **+2** _Thimblerig_
-- **-1** _Tollbooth_
-- **-2** _Tsurugi_
 - **+3** _Scarcity of Resources_
 - **+1** _DNA Tracker_
 

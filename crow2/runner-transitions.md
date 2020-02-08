@@ -24,16 +24,16 @@ Total: 40
 
 ### Transition
 
-- **+3** _Pelangi_
-- **+1** _Ika_
+- **-1** _Gordian Blade_
+- **-1** _Mimic_
+- **-2** _Dirty Laundry_
 - **-1** _Datasucker_
-- **+2** _Cyber-Cypher_
 - **-2** _Armitage Codebusting_
 - **+3** _Cache_
-- **-2** _Dirty Laundry_
-- **-1** _Mimic_
+- **+1** _Ika_
+- **+3** _Pelangi_
+- **+2** _Cyber-Cypher_
 - **+3** _Akamatsu Mem Chip_
-- **-1** _Gordian Blade_
 
 ## Hayley Kaplan: Install Cycy, install Pelangi, go
 
@@ -61,12 +61,12 @@ Total: 45
 
 ### Transition
 
-- **+2** _Ika_
-- **-1** _Datasucker_
-- **+1** _Beth Kilrain-Chang_
-- **+1** _Political Operative_
 - **-1** _Imp_
 - **-3** _Ice Analyzer_
+- **-1** _Datasucker_
+- **+2** _Ika_
+- **+1** _Beth Kilrain-Chang_
+- **+1** _Political Operative_
 - **+1** _Surfer_
 
 ## Hayley Kaplan: Cowabunga, dude!
@@ -95,14 +95,14 @@ Total: 45
 
 ### Transition
 
-- **+2** _Astrolabe_
-- **-2** _Ika_
-- **+1** _Misdirection_
 - **-1** _Legwork_
-- **+1** _Clot_
-- **+2** _Paricia_
-- **-2** _Akamatsu Mem Chip_
 - **-1** _Diesel_
+- **-2** _Ika_
+- **-2** _Akamatsu Mem Chip_
+- **+2** _Astrolabe_
+- **+1** _Clot_
+- **+1** _Misdirection_
+- **+2** _Paricia_
 
 ## Hayley Kaplan: Surfing Rainbows
 
