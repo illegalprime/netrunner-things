@@ -48,7 +48,7 @@ def markdown_transition(diff):
             ('+' if count > 0 else '') + str(count),
             card
         )
-        for card, count in diff.items()
+        for card, count in sorted(diff.items(), key=lambda c: c[1] > 0)
     ])
 
 
@@ -56,7 +56,7 @@ def transition(a, b):
     return {
         card: b.get(card, 0) - a.get(card, 0)
         for card in set(a.keys()).union(b.keys())
-        if b.get(card, 0) != a.get(card, 0)
+        if b.get(card) != a.get(card)
     }
 
 

@@ -24,20 +24,20 @@ Total: 49
 
 ### Transition
 
-- **+1** _Preemptive Action_
 - **-1** _Psychographics_
-- **-1** _Priority Requisition_
-- **+1** _15 Minutes_
-- **+3** _Calibration Testing_
-- **+3** _Quantum Predictive Model_
 - **-2** _Red Herrings_
-- **-1** _IPO_
-- **+3** _Team Sponsorship_
-- **+1** _Exchange of Information_
+- **-1** _Explode-a-palooza_
+- **-1** _Priority Requisition_
 - **-1** _Tollbooth_
 - **-3** _Ash 2X3ZB9CY_
-- **-1** _Explode-a-palooza_
+- **-1** _IPO_
 - **-2** _Wraparound_
+- **+1** _Preemptive Action_
+- **+1** _Exchange of Information_
+- **+3** _Calibration Testing_
+- **+3** _Quantum Predictive Model_
+- **+1** _15 Minutes_
+- **+3** _Team Sponsorship_
 
 ## Making News: Recursion is Everything
 
@@ -68,15 +68,15 @@ Total: 49
 ### Transition
 
 - **-3** _PAD Campaign_
-- **-2** _Priority Requisition_
-- **-1** _15 Minutes_
-- **-2** _IPO_
-- **+3** _Commercial Bankers Group_
-- **+3** _IP Block_
-- **+3** _Mumbad Virtual Tour_
-- **-3** _Eli 1.0_
 - **-1** _Explode-a-palooza_
+- **-1** _15 Minutes_
+- **-2** _Priority Requisition_
+- **-3** _Eli 1.0_
+- **-2** _IPO_
+- **+3** _Mumbad Virtual Tour_
+- **+3** _Commercial Bankers Group_
 - **+3** _Global Food Initiative_
+- **+3** _IP Block_
 
 ## Controlling the Message: Enter the Bankers
 
@@ -105,15 +105,15 @@ Total: 49
 
 ### Transition
 
-- **+2** _Resistor_
-- **+1** _15 Minutes_
-- **-2** _Quantum Predictive Model_
 - **-2** _Hunter_
-- **-3** _Data Raven_
-- **+1** _Market Forces_
-- **+1** _Turnpike_
 - **-1** _Explode-a-palooza_
+- **-2** _Quantum Predictive Model_
+- **-3** _Data Raven_
 - **+3** _AR-Enhanced Security_
+- **+1** _15 Minutes_
+- **+1** _Turnpike_
+- **+1** _Market Forces_
+- **+2** _Resistor_
 
 ## Controlling the Message: AMERICA
 
