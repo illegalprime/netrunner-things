@@ -16,71 +16,71 @@
 
 ## Cards Used
 
-Here are all the cards used in Project CROW (by cycle):
+Here are all the cards used in Project CROW by cycle (Total 149):
 
-| Count | Name                     | Cycle                    |
-| :---: | ------------------------ | ------------------------ |
-|    2x | Clone Chip               | Creation and Control, 38 |
-|    3x | Daily Casts              | Creation and Control, 53 |
-|    2x | D4v1d                    | Lunar, 33                |
-|    3x | Inject                   | Lunar, 73                |
-|    3x | I've Had Worse           | Order and Chaos, 32      |
-|    3x | Hacktivist Meeting       | SanSan, 21               |
-|    1x | Turntable                | SanSan, 43               |
-|    3x | Team Sponsorship         | SanSan, 110              |
-|    1x | 15 Minutes               | Data and Destiny, 4      |
-|    3x | Quantum Predictive Model | Data and Destiny, 7      |
-|    2x | Resistor                 | Data and Destiny, 15     |
-|    1x | Turnpike                 | Data and Destiny, 18     |
-|    3x | Global Food Initiative   | Data and Destiny, 26     |
-|    3x | Commercial Bankers Group | Mumbad, 54               |
-|    3x | Mumbad Virtual Tour      | Mumbad, 76               |
-|    1x | Rebirth                  | Mumbad, 83               |
-|    2x | The Turning Wheel        | Mumbad, 85               |
-|    1x | Exchange of Information  | Mumbad, 92               |
-|    3x | Hard-Hitting News        | Flashpoint, 16           |
-|    2x | Paperclip                | Flashpoint, 24           |
-|    3x | Black Orchestra          | Flashpoint, 42           |
-|    1x | Preemptive Action        | Flashpoint, 80           |
-|    2x | MKUltra                  | Flashpoint, 81           |
-|    3x | IP Block                 | Flashpoint, 94           |
-|    3x | Mining Accident          | Red Sand, 101            |
-|    2x | Aumakua                  | Red Sand, 104            |
-|    3x | AR-Enhanced Security     | Red Sand, 115            |
-|    3x | Priority Construction    | Red Sand, 118            |
-|    3x | Calibration Testing      | Kitara, 17               |
-|    1x | No One Home              | Kitara, 45               |
-|    2x | Falsified Credentials    | Kitara, 64               |
-|    3x | Rashida Jaheem           | Kitara, 80               |
-|    1x | Market Forces            | Kitara, 117              |
-|    3x | Stimhack                 | System Core 2019, 7      |
-|    3x | Patchwork                | System Core 2019, 9      |
-|    3x | Ice Carver               | System Core 2019, 16     |
-|    3x | Liberated Account        | System Core 2019, 17     |
-|    2x | Scrubber                 | System Core 2019, 18     |
-|    3x | Career Fair              | System Core 2019, 22     |
-|    1x | Legwork                  | System Core 2019, 27     |
-|    3x | Diesel                   | System Core 2019, 42     |
-|    2x | The Maker's Eye          | System Core 2019, 46     |
-|    3x | Sure Gamble              | System Core 2019, 59     |
-|    3x | Dirty Laundry            | System Core 2019, 60     |
-|    3x | Earthrise Hotel          | System Core 2019, 63     |
-|    2x | Kati Jones               | System Core 2019, 65     |
-|    3x | Eli 1.0                  | System Core 2019, 73     |
-|    3x | Ash 2X3ZB9CY             | System Core 2019, 82     |
-|    3x | Explode-a-palooza        | System Core 2019, 106    |
-|    3x | Project Beale            | System Core 2019, 107    |
-|    3x | Daily Business Show      | System Core 2019, 108    |
-|    3x | Data Raven               | System Core 2019, 112    |
-|    2x | Tollbooth                | System Core 2019, 115    |
-|    2x | Wraparound               | System Core 2019, 116    |
-|    2x | Psychographics           | System Core 2019, 118    |
-|    2x | Red Herrings             | System Core 2019, 121    |
-|    3x | PAD Campaign             | System Core 2019, 142    |
-|    3x | Enigma                   | System Core 2019, 143    |
-|    2x | Hunter                   | System Core 2019, 144    |
-|    3x | Hedge Fund               | System Core 2019, 146    |
-|    3x | IPO                      | System Core 2019, 147    |
+| Count | Name | Cycle | Type |
+| :---: | ---- | ---- | ---- |
+| **2x** | [Clone Chip](https://netrunnerdb.com/en/card/03038) | _Creation and Control, 38_ | _Hardware_ |
+| **3x** | [Daily Casts](https://netrunnerdb.com/en/card/03053) | _Creation and Control, 53_ | _Resource_ |
+| **2x** | [D4v1d](https://netrunnerdb.com/en/card/06033) | _Lunar, 33_ | _Program_ |
+| **3x** | [Inject](https://netrunnerdb.com/en/card/06073) | _Lunar, 73_ | _Event_ |
+| **3x** | [I've Had Worse](https://netrunnerdb.com/en/card/07032) | _Order and Chaos, 32_ | _Event_ |
+| **3x** | [Hacktivist Meeting](https://netrunnerdb.com/en/card/08021) | _SanSan, 21_ | _Event_ |
+| **1x** | [Turntable](https://netrunnerdb.com/en/card/08043) | _SanSan, 43_ | _Hardware_ |
+| **3x** | [Team Sponsorship](https://netrunnerdb.com/en/card/08110) | _SanSan, 110_ | _Asset_ |
+| **1x** | [15 Minutes](https://netrunnerdb.com/en/card/09004) | _Data and Destiny, 4_ | _Agenda_ |
+| **3x** | [Quantum Predictive Model](https://netrunnerdb.com/en/card/09007) | _Data and Destiny, 7_ | _Agenda_ |
+| **2x** | [Resistor](https://netrunnerdb.com/en/card/09015) | _Data and Destiny, 15_ | _ICE_ |
+| **1x** | [Turnpike](https://netrunnerdb.com/en/card/09018) | _Data and Destiny, 18_ | _ICE_ |
+| **3x** | [Global Food Initiative](https://netrunnerdb.com/en/card/09026) | _Data and Destiny, 26_ | _Agenda_ |
+| **3x** | [Commercial Bankers Group](https://netrunnerdb.com/en/card/10054) | _Mumbad, 54_ | _Asset_ |
+| **3x** | [Mumbad Virtual Tour](https://netrunnerdb.com/en/card/10076) | _Mumbad, 76_ | _Upgrade_ |
+| **1x** | [Rebirth](https://netrunnerdb.com/en/card/10083) | _Mumbad, 83_ | _Event_ |
+| **2x** | [The Turning Wheel](https://netrunnerdb.com/en/card/10085) | _Mumbad, 85_ | _Resource_ |
+| **1x** | [Exchange of Information](https://netrunnerdb.com/en/card/10092) | _Mumbad, 92_ | _Operation_ |
+| **3x** | [Hard-Hitting News](https://netrunnerdb.com/en/card/11016) | _Flashpoint, 16_ | _Operation_ |
+| **2x** | [Paperclip](https://netrunnerdb.com/en/card/11024) | _Flashpoint, 24_ | _Program_ |
+| **3x** | [Black Orchestra](https://netrunnerdb.com/en/card/11042) | _Flashpoint, 42_ | _Program_ |
+| **1x** | [Preemptive Action](https://netrunnerdb.com/en/card/11080) | _Flashpoint, 80_ | _Operation_ |
+| **2x** | [MKUltra](https://netrunnerdb.com/en/card/11081) | _Flashpoint, 81_ | _Program_ |
+| **3x** | [IP Block](https://netrunnerdb.com/en/card/11094) | _Flashpoint, 94_ | _ICE_ |
+| **3x** | [Mining Accident](https://netrunnerdb.com/en/card/12101) | _Red Sand, 101_ | _Event_ |
+| **2x** | [Aumakua](https://netrunnerdb.com/en/card/12104) | _Red Sand, 104_ | _Program_ |
+| **3x** | [AR-Enhanced Security](https://netrunnerdb.com/en/card/12115) | _Red Sand, 115_ | _Agenda_ |
+| **3x** | [Priority Construction](https://netrunnerdb.com/en/card/12118) | _Red Sand, 118_ | _Operation_ |
+| **3x** | [Calibration Testing](https://netrunnerdb.com/en/card/21017) | _Kitara, 17_ | _Upgrade_ |
+| **1x** | [No One Home](https://netrunnerdb.com/en/card/21045) | _Kitara, 45_ | _Resource_ |
+| **2x** | [Falsified Credentials](https://netrunnerdb.com/en/card/21064) | _Kitara, 64_ | _Event_ |
+| **3x** | [Rashida Jaheem](https://netrunnerdb.com/en/card/21080) | _Kitara, 80_ | _Asset_ |
+| **1x** | [Market Forces](https://netrunnerdb.com/en/card/21117) | _Kitara, 117_ | _Operation_ |
+| **3x** | [Stimhack](https://netrunnerdb.com/en/card/25007) | _System Core 2019, 7_ | _Event_ |
+| **3x** | [Patchwork](https://netrunnerdb.com/en/card/25009) | _System Core 2019, 9_ | _Hardware_ |
+| **3x** | [Ice Carver](https://netrunnerdb.com/en/card/25016) | _System Core 2019, 16_ | _Resource_ |
+| **3x** | [Liberated Account](https://netrunnerdb.com/en/card/25017) | _System Core 2019, 17_ | _Resource_ |
+| **2x** | [Scrubber](https://netrunnerdb.com/en/card/25018) | _System Core 2019, 18_ | _Resource_ |
+| **3x** | [Career Fair](https://netrunnerdb.com/en/card/25022) | _System Core 2019, 22_ | _Event_ |
+| **1x** | [Legwork](https://netrunnerdb.com/en/card/25027) | _System Core 2019, 27_ | _Event_ |
+| **3x** | [Diesel](https://netrunnerdb.com/en/card/25042) | _System Core 2019, 42_ | _Event_ |
+| **2x** | [The Maker's Eye](https://netrunnerdb.com/en/card/25046) | _System Core 2019, 46_ | _Event_ |
+| **3x** | [Sure Gamble](https://netrunnerdb.com/en/card/25059) | _System Core 2019, 59_ | _Event_ |
+| **3x** | [Dirty Laundry](https://netrunnerdb.com/en/card/25060) | _System Core 2019, 60_ | _Event_ |
+| **3x** | [Earthrise Hotel](https://netrunnerdb.com/en/card/25063) | _System Core 2019, 63_ | _Resource_ |
+| **2x** | [Kati Jones](https://netrunnerdb.com/en/card/25065) | _System Core 2019, 65_ | _Resource_ |
+| **3x** | [Eli 1.0](https://netrunnerdb.com/en/card/25073) | _System Core 2019, 73_ | _ICE_ |
+| **3x** | [Ash 2X3ZB9CY](https://netrunnerdb.com/en/card/25082) | _System Core 2019, 82_ | _Upgrade_ |
+| **3x** | [Explode-a-palooza](https://netrunnerdb.com/en/card/25106) | _System Core 2019, 106_ | _Agenda_ |
+| **3x** | [Project Beale](https://netrunnerdb.com/en/card/25107) | _System Core 2019, 107_ | _Agenda_ |
+| **3x** | [Daily Business Show](https://netrunnerdb.com/en/card/25108) | _System Core 2019, 108_ | _Asset_ |
+| **3x** | [Data Raven](https://netrunnerdb.com/en/card/25112) | _System Core 2019, 112_ | _ICE_ |
+| **2x** | [Tollbooth](https://netrunnerdb.com/en/card/25115) | _System Core 2019, 115_ | _ICE_ |
+| **2x** | [Wraparound](https://netrunnerdb.com/en/card/25116) | _System Core 2019, 116_ | _ICE_ |
+| **2x** | [Psychographics](https://netrunnerdb.com/en/card/25118) | _System Core 2019, 118_ | _Operation_ |
+| **2x** | [Red Herrings](https://netrunnerdb.com/en/card/25121) | _System Core 2019, 121_ | _Upgrade_ |
+| **3x** | [PAD Campaign](https://netrunnerdb.com/en/card/25142) | _System Core 2019, 142_ | _Asset_ |
+| **3x** | [Enigma](https://netrunnerdb.com/en/card/25143) | _System Core 2019, 143_ | _ICE_ |
+| **2x** | [Hunter](https://netrunnerdb.com/en/card/25144) | _System Core 2019, 144_ | _ICE_ |
+| **3x** | [Hedge Fund](https://netrunnerdb.com/en/card/25146) | _System Core 2019, 146_ | _Operation_ |
+| **3x** | [IPO](https://netrunnerdb.com/en/card/25147) | _System Core 2019, 147_ | _Operation_ |
 
 # Level 1
 

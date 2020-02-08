@@ -52,6 +52,11 @@ class Deck():
             sort_by='type',
             columns=[('type', 'Type', card_type)]
     ):
+        def sorter(card):
+            if type(card[sort_by]) is dict:
+                return card[sort_by]['sort']
+            return card[sort_by]
+
         return '\n'.join(([
             '',
             '## ' + self.identity if title == True else title
@@ -82,7 +87,7 @@ class Deck():
                     for key, _, f in columns
                 ])
                 for card, count in self.cards.items()
-            ], key=lambda i: i[sort_by]['sort'])
+            ], key=sorter)
         ])
 
 
