@@ -1,0 +1,45 @@
+-project-crow-runner-all-cards
+The Masque: Cyber General (Draft)
+
+Event (33)
+1x Rebirth (The Liberated Mind) 
+3x Mining Accident (Crimson Dust) ••••• •
+2x Falsified Credentials (The Devil and the Dragon) ••••
+3x Stimhack (System Core 2019) •••
+3x Career Fair (System Core 2019) •••
+1x Legwork (System Core 2019) ••
+3x Diesel (System Core 2019) ••••• •
+2x The Maker's Eye (System Core 2019) ••••
+3x Sure Gamble (System Core 2019) 
+3x Dirty Laundry (System Core 2019) 
+3x Inject (Up and Over) ••••• •
+3x I've Had Worse (Order and Chaos) ••••• •
+3x Hacktivist Meeting (Breaker Bay) ••••• •
+
+Hardware (6)
+3x Patchwork (System Core 2019) ••••• ••••
+2x Clone Chip (Creation and Control) ••••
+1x Turntable (Chrome City) ••
+
+Resource (19)
+2x The Turning Wheel (The Liberated Mind) 
+1x No One Home (Council of the Crest) •
+3x Ice Carver (System Core 2019) ••••• ••••
+3x Liberated Account (System Core 2019) ••••• •
+2x Scrubber (System Core 2019) ••
+3x Earthrise Hotel (System Core 2019) 
+2x Kati Jones (System Core 2019) 
+3x Daily Casts (Creation and Control) 
+
+Icebreaker (9)
+2x Paperclip (Blood Money) ••••• •
+3x Black Orchestra (Escalation) ••••• •
+2x MKUltra (Martial Law) ••••
+2x Aumakua (Crimson Dust) ••
+
+Program (2)
+2x D4v1d (The Spaces Between) ••••• •••
+
+105 influence spent (max infinite, available 0)
+69 cards (min 30)
+Cards up to System Core 2019
