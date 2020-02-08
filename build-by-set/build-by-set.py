@@ -8,7 +8,6 @@ from os import path
 
 PACK_BAN = [
     'core2.json',
-    # 'sc19.json',
 ]
 ROOT = pathlib.Path(__file__).parent
 
