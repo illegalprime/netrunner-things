@@ -3,12 +3,10 @@ import re
 import os
 import json
 import pathlib
+import argparse
 from os import path
 
 
-PACK_BAN = [
-    'core2.json',
-]
 ROOT = pathlib.Path(__file__).parent
 
 
@@ -36,7 +34,8 @@ def sort_packs(packs, cycles, files):
     return sorted(files, key=pack_key)
 
 
-def build_card_db():
+def build_card_db(pack_ban):
+    pack_ban = list(map(lambda p: p + '.json', pack_ban))
     db = {
         'cycles': {
             cycle['code']: cycle
@@ -55,7 +54,7 @@ def build_card_db():
     db['cards'] = {
         card['title']: card
         for pack in ordered_packs
-        if pack not in PACK_BAN
+        if pack not in pack_ban
         for card in json.load(open(path.join(ROOT, 'packs', pack), 'r'))
     }
     return db
@@ -84,11 +83,11 @@ def key_cycle(card):
     return (card['cycle_pos'], card['position'])
 
 
-def main(deck_paths):
+def main(deck_paths, pack_ban):
     # parse files for deck info
     decks = map(import_txt_deck, deck_paths)
     # build card "database"
-    db = build_card_db()
+    db = build_card_db(pack_ban)
     # map cards in deck to cards in db
     cards = [
         card
@@ -116,5 +115,20 @@ def main(deck_paths):
 
 
 if __name__ == '__main__':
-    import sys
-    main(sys.argv[1:])
+    parser = argparse.ArgumentParser(
+        description='list cards needed by given decks by set'
+    )
+    parser.add_argument(
+        'decks',
+        metavar='DECK',
+        type=str,
+        nargs='+',
+        help='paths to all decklists to consider'
+    )
+    parser.add_argument(
+        '--exclude',
+        help='exclude data packs by code, e.g. core2,sc19,ur'
+    )
+    args = parser.parse_args()
+    exclude = args.exclude.split(',') if args.exclude else []
+    main(args.decks, exclude)
