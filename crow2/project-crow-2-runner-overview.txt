@@ -1,0 +1,46 @@
+-project-crow-2-runner-overview
+The Masque: Cyber General (Draft)
+
+Event (12)
+2x Stimhack (System Core 2019) ••
+2x Legwork (System Core 2019) ••••
+3x Diesel (System Core 2019) ••••• •
+3x Sure Gamble (System Core 2019) 
+2x Dirty Laundry (System Core 2019) 
+
+Hardware (10)
+3x Akamatsu Mem Chip (System Core 2019) •••
+2x R&D Interface (System Core 2019) ••••
+3x Clone Chip (Creation and Control) ••••• •
+2x Astrolabe (Up and Over) ••••
+
+Resource (16)
+1x Political Operative (Democracy and Dogma) •
+1x Beth Kilrain-Chang (Blood Money) •••
+3x Aesop's Pawnshop (System Core 2019) ♘ ••••• •
+3x Ice Analyzer (System Core 2019) •••
+3x Professional Contacts (System Core 2019) ••••• •
+2x Armitage Codebusting (System Core 2019) 
+3x Daily Casts (Creation and Control) 
+
+Icebreaker (8)
+3x Ika (Reign and Reverie) ••••• •
+1x Corroder (System Core 2019) ••
+1x Mimic (System Core 2019) •
+1x Gordian Blade (System Core 2019) •••
+2x Cyber-Cypher (Creation and Control) ••••• •
+
+Program (17)
+1x Misdirection (Martial Law) ••
+2x Datasucker (System Core 2019) ••
+1x Imp (System Core 2019) •••
+3x Pelangi (Downfall) ••••• ••••
+2x Paricia (Creation and Control) ••
+3x Self-modifying Code (Creation and Control) ••••• ••••
+3x Cache (The Spaces Between) •••
+1x Clot (The Valley) ••
+1x Surfer (The Universe of Tomorrow) •••
+
+101 influence spent (max infinite, available 0)
+63 cards (min 30)
+Cards up to Downfall
