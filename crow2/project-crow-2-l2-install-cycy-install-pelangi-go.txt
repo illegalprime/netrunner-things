@@ -1,0 +1,35 @@
+-project-crow-2-l2-install-cycy-install-pelangi-go
+Hayley Kaplan: Install Cycy, install Pelangi, go
+
+Event (10)
+2x Stimhack (System Core 2019) ••
+2x Legwork (System Core 2019) ••••
+3x Diesel (System Core 2019) 
+3x Sure Gamble (System Core 2019) 
+
+Hardware (8)
+3x Akamatsu Mem Chip (System Core 2019) 
+2x R&D Interface (System Core 2019) 
+3x Clone Chip (Creation and Control) 
+
+Resource (12)
+3x Aesop's Pawnshop (System Core 2019) ♘
+3x Ice Analyzer (System Core 2019) 
+3x Professional Contacts (System Core 2019) 
+3x Daily Casts (Creation and Control) 
+
+Icebreaker (4)
+1x Ika (Reign and Reverie) 
+1x Corroder (System Core 2019) ••
+2x Cyber-Cypher (Creation and Control) 
+
+Program (11)
+1x Datasucker (System Core 2019) •
+1x Imp (System Core 2019) •••
+3x Pelangi (Downfall) 
+3x Self-modifying Code (Creation and Control) 
+3x Cache (The Spaces Between) •••
+
+15 influence spent (max 15, available 0)
+45 cards (min 45)
+Cards up to Downfall
