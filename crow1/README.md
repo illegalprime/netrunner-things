@@ -1,5 +1,7 @@
 # Project CROW v1
 
+Credits to [@lostgeek](https://netrunnerdb.com/en/profile/24742/lostgeek) for the decks!
+
 - [Cards Used](#cards-used)
 - [Level 1](#level-1)
   * [Reina Roja: Getting to Know the Basics](#reina-roja-getting-to-know-the-basics)
