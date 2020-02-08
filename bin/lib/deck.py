@@ -31,13 +31,17 @@ class Deck():
             if self.cards.get(card) != deck.cards.get(card)
         })
 
-    def sort_by_type(card):
-        card, count, kind = card
-        return kind
+    def card_type(db, card):
+        name = db.types[db.cards[card]['type_code']]['name']
+        return { 'display': name, 'sort': name }
 
-    def sort_by_count(card):
-        card, count, kind = card
-        return count
+    def card_cycle(db, card):
+        info = db.cards[card]
+        pack = db.packs[info['pack_code']]
+        cycle = db.cycles[pack['cycle_code']]
+        name = '{}, {}'.format(cycle['name'], info['position'])
+        sort = (cycle['position'], info['position'])
+        return { 'display': name, 'sort': sort }
 
     def to_markdown(
             self,
@@ -45,7 +49,8 @@ class Deck():
             title=True,
             total=True,
             diff=False,
-            sort=sort_by_type,
+            sort_by='type',
+            columns=[('type', 'Type', card_type)]
     ):
         return '\n'.join(([
             '',
@@ -55,19 +60,29 @@ class Deck():
             'Total: {}'.format(sum(self.cards.values())),
         ] if total else []) + [
             '',
-            '| Count | Name | Type |',
-            '| :---: | ---- | ---- |',
+            '| Count | Name | ' + ' | '.join([
+                name for _, name, _ in columns
+            ]) + ' |',
+            '| :---: | ---- |' + (' ---- |' * len(columns)),
         ] + [
-            '| **{}x** | [{}]({}) | _{}_ |'.format(
-                ('+' if diff and count > 0 else '') + str(count),
-                card,
-                'https://netrunnerdb.com/en/card/{}'.format(db.cards[card]['code']),
-                kind,
-            )
-            for card, count, kind in sorted([
-                (card, count,
-                 db.types[db.cards[card]['type_code']]['name'])
+            '| **{}x** | [{}]({}) |'.format(
+                ('+' if diff and info['count'] > 0 else '') + str(info['count']),
+                info['name'],
+                'https://netrunnerdb.com/en/card/{}'.format(db.cards[info['name']]['code']),
+            ) + '|'.join([
+                ' _{}_ '.format(info[key]['display'])
+                for key, _, _ in columns
+            ] + [''])
+            for info in sorted([
+                dict([
+                    ('count', count),
+                    ('name', card),
+                ] + [
+                    (key, f(db, card))
+                    for key, _, f in columns
+                ])
                 for card, count in self.cards.items()
-            ], key=sort)
+            ], key=lambda i: i[sort_by]['sort'])
         ])
+
 
