@@ -31,14 +31,14 @@ def import_txt_deck(path):
         return (identity, cards)
 
 
+def sort_packs(packs, cycles, files):
+    def pack_key(name):
+        return cycles[packs[path.splitext(name)[0]]['cycle_code']]['position']
+    return sorted(files, key=pack_key)
+
+
 def build_card_db():
-    return {
-        'cards': {
-            card['title']: card
-            for pack in os.listdir(path.join(ROOT, 'packs'))
-            if pack not in PACK_BAN
-            for card in json.load(open(path.join(ROOT, 'packs', pack), 'r'))
-        },
+    db = {
         'cycles': {
             cycle['code']: cycle
             for cycle in json.load(open(path.join(ROOT, 'cycles.json')))
@@ -48,6 +48,18 @@ def build_card_db():
             for pack in json.load(open(path.join(ROOT, 'packs.json')))
         },
     }
+    ordered_packs = sort_packs(
+        db['packs'],
+        db['cycles'],
+        os.listdir(path.join(ROOT, 'packs'))
+    )
+    db['cards'] = {
+        card['title']: card
+        for pack in ordered_packs
+        if pack not in PACK_BAN
+        for card in json.load(open(path.join(ROOT, 'packs', pack), 'r'))
+    }
+    return db
 
 
 def lookup_deck(db, deck):
