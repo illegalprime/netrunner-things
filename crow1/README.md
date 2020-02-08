@@ -2,17 +2,17 @@
 
 - [Cards Used](#cards-used)
 - [Level 1](#level-1)
-  * [Reina Roja: Getting to Know the Basics](#reina-roja--getting-to-know-the-basics)
-  * [Making News: Hard Hitting Times](#making-news--hard-hitting-times)
+  * [Reina Roja: Getting to Know the Basics](#reina-roja-getting-to-know-the-basics)
+  * [Making News: Hard Hitting Times](#making-news-hard-hitting-times)
 - [Level 2](#level-2)
-  * [Valencia Estevez: I Can Make News As Well](#valencia-estevez--i-can-make-news-as-well)
-  * [Making News: Recursion is Everything](#making-news--recursion-is-everything)
+  * [Valencia Estevez: I Can Make News As Well](#valencia-estevez-i-can-make-news-as-well)
+  * [Making News: Recursion is Everything](#making-news-recursion-is-everything)
 - [Level 3](#level-3)
-  * [Valencia Estevez: There Has Been a T E R R I B L E Accident](#valencia-estevez--there-has-been-a-t-e-r-r-i-b-l-e-accident)
-  * [Controlling the Message: Enter the Bankers](#controlling-the-message--enter-the-bankers)
+  * [Valencia Estevez: There Has Been a T E R R I B L E Accident](#valencia-estevez-there-has-been-a-t-e-r-r-i-b-l-e-accident)
+  * [Controlling the Message: Enter the Bankers](#controlling-the-message-enter-the-bankers)
 - [Level 4](#level-4)
-  * [Valencia Estevez: FREDPI-ish](#valencia-estevez--fredpi-ish)
-  * [Controlling the Message: AMERICA](#controlling-the-message--america)
+  * [Valencia Estevez: FREDPI-ish](#valencia-estevez-fredpi-ish)
+  * [Controlling the Message: AMERICA](#controlling-the-message-america)
 
 ## Cards Used
 
