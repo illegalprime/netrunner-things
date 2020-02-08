@@ -2,12 +2,15 @@
 import re
 import os
 import json
+import pathlib
+from os import path
 
 
 PACK_BAN = [
     'core2.json',
-    'sc19.json',
+    # 'sc19.json',
 ]
+ROOT = pathlib.Path(__file__).parent
 
 
 def import_txt_deck(path):
@@ -32,17 +35,17 @@ def build_card_db():
     return {
         'cards': {
             card['title']: card
-            for pack in os.listdir('packs')
+            for pack in os.listdir(path.join(ROOT, 'packs'))
             if pack not in PACK_BAN
-            for card in json.load(open('packs/' + pack, 'r'))
+            for card in json.load(open(path.join(ROOT, 'packs', pack), 'r'))
         },
         'cycles': {
             cycle['code']: cycle
-            for cycle in json.load(open('cycles.json'))
+            for cycle in json.load(open(path.join(ROOT, 'cycles.json')))
         },
         'packs': {
             pack['code']: pack
-            for pack in json.load(open('packs.json'))
+            for pack in json.load(open(path.join(ROOT, 'packs.json')))
         },
     }
 
