@@ -24,13 +24,13 @@ Total: 45
 
 ### Transition
 
-- **1** _Scrubber_
-- **1** _Rebirth_
-- **-2** _The Maker's Eye_
-- **3** _I've Had Worse_
 - **-1** _Legwork_
-- **2** _The Turning Wheel_
-- **1** _Ice Carver_
+- **+2** _The Turning Wheel_
+- **-2** _The Maker's Eye_
+- **+1** _Scrubber_
+- **+1** _Ice Carver_
+- **+3** _I've Had Worse_
+- **+1** _Rebirth_
 
 ## Valencia Estevez: I Can Make News As Well
 
@@ -58,17 +58,17 @@ Total: 50
 
 ### Transition
 
-- **-1** _Black Orchestra_
+- **+3** _Mining Accident_
+- **+1** _No One Home_
+- **+1** _Turntable_
+- **+2** _Aumakua_
 - **-1** _Scrubber_
-- **1** _No One Home_
-- **-3** _Diesel_
-- **1** _Turntable_
-- **2** _D4v1d_
-- **2** _Aumakua_
-- **-3** _Patchwork_
-- **2** _Clone Chip_
-- **3** _Mining Accident_
+- **+2** _D4v1d_
 - **-3** _Ice Carver_
+- **-3** _Diesel_
+- **-1** _Black Orchestra_
+- **-3** _Patchwork_
+- **+2** _Clone Chip_
 
 ## Valencia Estevez: There Has Been a T E R R I B L E Accident
 
@@ -99,13 +99,13 @@ Total: 50
 
 ### Transition
 
-- **-1** _Scrubber_
-- **-2** _Kati Jones_
-- **3** _Hacktivist Meeting_
-- **2** _Falsified Credentials_
-- **2** _Corroder_
-- **-2** _Career Fair_
 - **-2** _Paperclip_
+- **-2** _Career Fair_
+- **-1** _Scrubber_
+- **+2** _Corroder_
+- **+3** _Hacktivist Meeting_
+- **+2** _Falsified Credentials_
+- **-2** _Kati Jones_
 
 ## Valencia Estevez: FREDPI-ish
 

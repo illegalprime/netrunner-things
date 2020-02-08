@@ -44,7 +44,10 @@ def markdown_transition(diff):
         '### Transition',
         '',
     ] + [
-        '- **{}** _{}_'.format(count, card)
+        '- **{}** _{}_'.format(
+            ('+' if count > 0 else '') + str(count),
+            card
+        )
         for card, count in diff.items()
     ])
 
