@@ -6,16 +6,16 @@ Credits to [@lostgeek](https://netrunnerdb.com/en/profile/24742/lostgeek) for th
   * [Cards Used](#cards-used)
 - [Level 1](#level-1)
   * [Chaos Theory: Sellin everything and the kitchen sink](#chaos-theory-sellin-everything-and-the-kitchen-sink)
-  * [Replicating Perfection: Bröther, may I have some clïcks?](#replicating-perfection-br-ther-may-i-have-some-cl-cks-)
+  * [Replicating Perfection: Bröther, may I have some clïcks?](#replicating-perfection-bröther-may-i-have-some-clïcks)
 - [Level 2](#level-2)
   * [Hayley Kaplan: Install Cycy, install Pelangi, go](#hayley-kaplan-install-cycy-install-pelangi-go)
-  * [Pālanā Foods: What Costa the World?](#p-lan-foods-what-costa-the-world-)
+  * [Pālanā Foods: What Costa the World?](#pālanā-foods-what-costa-the-world)
 - [Level 3](#level-3)
-  * [Hayley Kaplan: Cowabunga, dude!](#hayley-kaplan-cowabunga-dude-)
-  * [Pālanā Foods: You thought this food was for you?](#p-lan-foods-you-thought-this-food-was-for-you-)
+  * [Hayley Kaplan: Cowabunga, dude!](#hayley-kaplan-cowabunga-dude)
+  * [Pālanā Foods: You thought this food was for you?](#pālanā-foods-you-thought-this-food-was-for-you)
 - [Level 4](#level-4)
   * [Hayley Kaplan: Surfing Rainbows](#hayley-kaplan-surfing-rainbows)
-  * [Pālanā Foods: 2 Grid for 2 Place](#p-lan-foods-2-grid-for-2-place)
+  * [Pālanā Foods: 2 Grid for 2 Place](#pālanā-foods-2-grid-for-2-place)
 
 ## Cards Used
 
