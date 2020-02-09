@@ -20,69 +20,69 @@ Credits to [@lostgeek](https://netrunnerdb.com/en/profile/24742/lostgeek) for th
 
 Here are all the cards used in Project CROW by cycle (Total 149):
 
-| Count | Name | Cycle | Type |
-| :---: | ---- | ---- | ---- |
-| **2x** | [Clone Chip](https://netrunnerdb.com/en/card/03038) | _Creation and Control, 38_ | _Hardware_ |
-| **3x** | [Daily Casts](https://netrunnerdb.com/en/card/03053) | _Creation and Control, 53_ | _Resource_ |
-| **2x** | [D4v1d](https://netrunnerdb.com/en/card/06033) | _Lunar, 33_ | _Program_ |
-| **3x** | [Inject](https://netrunnerdb.com/en/card/06073) | _Lunar, 73_ | _Event_ |
-| **3x** | [I've Had Worse](https://netrunnerdb.com/en/card/07032) | _Order and Chaos, 32_ | _Event_ |
-| **3x** | [Hacktivist Meeting](https://netrunnerdb.com/en/card/08021) | _SanSan, 21_ | _Event_ |
-| **1x** | [Turntable](https://netrunnerdb.com/en/card/08043) | _SanSan, 43_ | _Hardware_ |
-| **3x** | [Team Sponsorship](https://netrunnerdb.com/en/card/08110) | _SanSan, 110_ | _Asset_ |
-| **1x** | [15 Minutes](https://netrunnerdb.com/en/card/09004) | _Data and Destiny, 4_ | _Agenda_ |
-| **3x** | [Quantum Predictive Model](https://netrunnerdb.com/en/card/09007) | _Data and Destiny, 7_ | _Agenda_ |
-| **2x** | [Resistor](https://netrunnerdb.com/en/card/09015) | _Data and Destiny, 15_ | _ICE_ |
-| **1x** | [Turnpike](https://netrunnerdb.com/en/card/09018) | _Data and Destiny, 18_ | _ICE_ |
-| **3x** | [Global Food Initiative](https://netrunnerdb.com/en/card/09026) | _Data and Destiny, 26_ | _Agenda_ |
-| **3x** | [Commercial Bankers Group](https://netrunnerdb.com/en/card/10054) | _Mumbad, 54_ | _Asset_ |
-| **3x** | [Mumbad Virtual Tour](https://netrunnerdb.com/en/card/10076) | _Mumbad, 76_ | _Upgrade_ |
-| **1x** | [Rebirth](https://netrunnerdb.com/en/card/10083) | _Mumbad, 83_ | _Event_ |
-| **2x** | [The Turning Wheel](https://netrunnerdb.com/en/card/10085) | _Mumbad, 85_ | _Resource_ |
-| **1x** | [Exchange of Information](https://netrunnerdb.com/en/card/10092) | _Mumbad, 92_ | _Operation_ |
-| **3x** | [Hard-Hitting News](https://netrunnerdb.com/en/card/11016) | _Flashpoint, 16_ | _Operation_ |
-| **2x** | [Paperclip](https://netrunnerdb.com/en/card/11024) | _Flashpoint, 24_ | _Program_ |
-| **3x** | [Black Orchestra](https://netrunnerdb.com/en/card/11042) | _Flashpoint, 42_ | _Program_ |
-| **1x** | [Preemptive Action](https://netrunnerdb.com/en/card/11080) | _Flashpoint, 80_ | _Operation_ |
-| **2x** | [MKUltra](https://netrunnerdb.com/en/card/11081) | _Flashpoint, 81_ | _Program_ |
-| **3x** | [IP Block](https://netrunnerdb.com/en/card/11094) | _Flashpoint, 94_ | _ICE_ |
-| **3x** | [Mining Accident](https://netrunnerdb.com/en/card/12101) | _Red Sand, 101_ | _Event_ |
-| **2x** | [Aumakua](https://netrunnerdb.com/en/card/12104) | _Red Sand, 104_ | _Program_ |
-| **3x** | [AR-Enhanced Security](https://netrunnerdb.com/en/card/12115) | _Red Sand, 115_ | _Agenda_ |
-| **3x** | [Priority Construction](https://netrunnerdb.com/en/card/12118) | _Red Sand, 118_ | _Operation_ |
-| **3x** | [Calibration Testing](https://netrunnerdb.com/en/card/21017) | _Kitara, 17_ | _Upgrade_ |
-| **1x** | [No One Home](https://netrunnerdb.com/en/card/21045) | _Kitara, 45_ | _Resource_ |
-| **2x** | [Falsified Credentials](https://netrunnerdb.com/en/card/21064) | _Kitara, 64_ | _Event_ |
-| **3x** | [Rashida Jaheem](https://netrunnerdb.com/en/card/21080) | _Kitara, 80_ | _Asset_ |
-| **1x** | [Market Forces](https://netrunnerdb.com/en/card/21117) | _Kitara, 117_ | _Operation_ |
-| **3x** | [Stimhack](https://netrunnerdb.com/en/card/25007) | _System Core 2019, 7_ | _Event_ |
-| **3x** | [Patchwork](https://netrunnerdb.com/en/card/25009) | _System Core 2019, 9_ | _Hardware_ |
-| **3x** | [Ice Carver](https://netrunnerdb.com/en/card/25016) | _System Core 2019, 16_ | _Resource_ |
-| **3x** | [Liberated Account](https://netrunnerdb.com/en/card/25017) | _System Core 2019, 17_ | _Resource_ |
-| **2x** | [Scrubber](https://netrunnerdb.com/en/card/25018) | _System Core 2019, 18_ | _Resource_ |
-| **3x** | [Career Fair](https://netrunnerdb.com/en/card/25022) | _System Core 2019, 22_ | _Event_ |
-| **1x** | [Legwork](https://netrunnerdb.com/en/card/25027) | _System Core 2019, 27_ | _Event_ |
-| **3x** | [Diesel](https://netrunnerdb.com/en/card/25042) | _System Core 2019, 42_ | _Event_ |
-| **2x** | [The Maker's Eye](https://netrunnerdb.com/en/card/25046) | _System Core 2019, 46_ | _Event_ |
-| **3x** | [Sure Gamble](https://netrunnerdb.com/en/card/25059) | _System Core 2019, 59_ | _Event_ |
-| **3x** | [Dirty Laundry](https://netrunnerdb.com/en/card/25060) | _System Core 2019, 60_ | _Event_ |
-| **3x** | [Earthrise Hotel](https://netrunnerdb.com/en/card/25063) | _System Core 2019, 63_ | _Resource_ |
-| **2x** | [Kati Jones](https://netrunnerdb.com/en/card/25065) | _System Core 2019, 65_ | _Resource_ |
-| **3x** | [Eli 1.0](https://netrunnerdb.com/en/card/25073) | _System Core 2019, 73_ | _ICE_ |
-| **3x** | [Ash 2X3ZB9CY](https://netrunnerdb.com/en/card/25082) | _System Core 2019, 82_ | _Upgrade_ |
-| **3x** | [Explode-a-palooza](https://netrunnerdb.com/en/card/25106) | _System Core 2019, 106_ | _Agenda_ |
-| **3x** | [Project Beale](https://netrunnerdb.com/en/card/25107) | _System Core 2019, 107_ | _Agenda_ |
-| **3x** | [Daily Business Show](https://netrunnerdb.com/en/card/25108) | _System Core 2019, 108_ | _Asset_ |
-| **3x** | [Data Raven](https://netrunnerdb.com/en/card/25112) | _System Core 2019, 112_ | _ICE_ |
-| **2x** | [Tollbooth](https://netrunnerdb.com/en/card/25115) | _System Core 2019, 115_ | _ICE_ |
-| **2x** | [Wraparound](https://netrunnerdb.com/en/card/25116) | _System Core 2019, 116_ | _ICE_ |
-| **2x** | [Psychographics](https://netrunnerdb.com/en/card/25118) | _System Core 2019, 118_ | _Operation_ |
-| **2x** | [Red Herrings](https://netrunnerdb.com/en/card/25121) | _System Core 2019, 121_ | _Upgrade_ |
-| **3x** | [PAD Campaign](https://netrunnerdb.com/en/card/25142) | _System Core 2019, 142_ | _Asset_ |
-| **3x** | [Enigma](https://netrunnerdb.com/en/card/25143) | _System Core 2019, 143_ | _ICE_ |
-| **2x** | [Hunter](https://netrunnerdb.com/en/card/25144) | _System Core 2019, 144_ | _ICE_ |
-| **3x** | [Hedge Fund](https://netrunnerdb.com/en/card/25146) | _System Core 2019, 146_ | _Operation_ |
-| **3x** | [IPO](https://netrunnerdb.com/en/card/25147) | _System Core 2019, 147_ | _Operation_ |
+| Count  | Name                                                              | Cycle                      | Type        |
+| :---:  | ----                                                              | ----                       | ----        |
+| **2x** | [Clone Chip](https://netrunnerdb.com/en/card/03038)               | _Creation and Control, 38_ | _Hardware_  |
+| **3x** | [Daily Casts](https://netrunnerdb.com/en/card/03053)              | _Creation and Control, 53_ | _Resource_  |
+| **2x** | [D4v1d](https://netrunnerdb.com/en/card/06033)                    | _Lunar, 33_                | _Program_   |
+| **3x** | [Inject](https://netrunnerdb.com/en/card/06073)                   | _Lunar, 73_                | _Event_     |
+| **3x** | [I've Had Worse](https://netrunnerdb.com/en/card/07032)           | _Order and Chaos, 32_      | _Event_     |
+| **3x** | [Hacktivist Meeting](https://netrunnerdb.com/en/card/08021)       | _SanSan, 21_               | _Event_     |
+| **1x** | [Turntable](https://netrunnerdb.com/en/card/08043)                | _SanSan, 43_               | _Hardware_  |
+| **3x** | [Team Sponsorship](https://netrunnerdb.com/en/card/08110)         | _SanSan, 110_              | _Asset_     |
+| **1x** | [15 Minutes](https://netrunnerdb.com/en/card/09004)               | _Data and Destiny, 4_      | _Agenda_    |
+| **3x** | [Quantum Predictive Model](https://netrunnerdb.com/en/card/09007) | _Data and Destiny, 7_      | _Agenda_    |
+| **2x** | [Resistor](https://netrunnerdb.com/en/card/09015)                 | _Data and Destiny, 15_     | _ICE_       |
+| **1x** | [Turnpike](https://netrunnerdb.com/en/card/09018)                 | _Data and Destiny, 18_     | _ICE_       |
+| **3x** | [Global Food Initiative](https://netrunnerdb.com/en/card/09026)   | _Data and Destiny, 26_     | _Agenda_    |
+| **3x** | [Commercial Bankers Group](https://netrunnerdb.com/en/card/10054) | _Mumbad, 54_               | _Asset_     |
+| **3x** | [Mumbad Virtual Tour](https://netrunnerdb.com/en/card/10076)      | _Mumbad, 76_               | _Upgrade_   |
+| **1x** | [Rebirth](https://netrunnerdb.com/en/card/10083)                  | _Mumbad, 83_               | _Event_     |
+| **2x** | [The Turning Wheel](https://netrunnerdb.com/en/card/10085)        | _Mumbad, 85_               | _Resource_  |
+| **1x** | [Exchange of Information](https://netrunnerdb.com/en/card/10092)  | _Mumbad, 92_               | _Operation_ |
+| **3x** | [Hard-Hitting News](https://netrunnerdb.com/en/card/11016)        | _Flashpoint, 16_           | _Operation_ |
+| **2x** | [Paperclip](https://netrunnerdb.com/en/card/11024)                | _Flashpoint, 24_           | _Program_   |
+| **3x** | [Black Orchestra](https://netrunnerdb.com/en/card/11042)          | _Flashpoint, 42_           | _Program_   |
+| **1x** | [Preemptive Action](https://netrunnerdb.com/en/card/11080)        | _Flashpoint, 80_           | _Operation_ |
+| **2x** | [MKUltra](https://netrunnerdb.com/en/card/11081)                  | _Flashpoint, 81_           | _Program_   |
+| **3x** | [IP Block](https://netrunnerdb.com/en/card/11094)                 | _Flashpoint, 94_           | _ICE_       |
+| **3x** | [Mining Accident](https://netrunnerdb.com/en/card/12101)          | _Red Sand, 101_            | _Event_     |
+| **2x** | [Aumakua](https://netrunnerdb.com/en/card/12104)                  | _Red Sand, 104_            | _Program_   |
+| **3x** | [AR-Enhanced Security](https://netrunnerdb.com/en/card/12115)     | _Red Sand, 115_            | _Agenda_    |
+| **3x** | [Priority Construction](https://netrunnerdb.com/en/card/12118)    | _Red Sand, 118_            | _Operation_ |
+| **3x** | [Calibration Testing](https://netrunnerdb.com/en/card/21017)      | _Kitara, 17_               | _Upgrade_   |
+| **1x** | [No One Home](https://netrunnerdb.com/en/card/21045)              | _Kitara, 45_               | _Resource_  |
+| **2x** | [Falsified Credentials](https://netrunnerdb.com/en/card/21064)    | _Kitara, 64_               | _Event_     |
+| **3x** | [Rashida Jaheem](https://netrunnerdb.com/en/card/21080)           | _Kitara, 80_               | _Asset_     |
+| **1x** | [Market Forces](https://netrunnerdb.com/en/card/21117)            | _Kitara, 117_              | _Operation_ |
+| **3x** | [Stimhack](https://netrunnerdb.com/en/card/25007)                 | _System Core 2019, 7_      | _Event_     |
+| **3x** | [Patchwork](https://netrunnerdb.com/en/card/25009)                | _System Core 2019, 9_      | _Hardware_  |
+| **3x** | [Ice Carver](https://netrunnerdb.com/en/card/25016)               | _System Core 2019, 16_     | _Resource_  |
+| **3x** | [Liberated Account](https://netrunnerdb.com/en/card/25017)        | _System Core 2019, 17_     | _Resource_  |
+| **2x** | [Scrubber](https://netrunnerdb.com/en/card/25018)                 | _System Core 2019, 18_     | _Resource_  |
+| **3x** | [Career Fair](https://netrunnerdb.com/en/card/25022)              | _System Core 2019, 22_     | _Event_     |
+| **1x** | [Legwork](https://netrunnerdb.com/en/card/25027)                  | _System Core 2019, 27_     | _Event_     |
+| **3x** | [Diesel](https://netrunnerdb.com/en/card/25042)                   | _System Core 2019, 42_     | _Event_     |
+| **2x** | [The Maker's Eye](https://netrunnerdb.com/en/card/25046)          | _System Core 2019, 46_     | _Event_     |
+| **3x** | [Sure Gamble](https://netrunnerdb.com/en/card/25059)              | _System Core 2019, 59_     | _Event_     |
+| **3x** | [Dirty Laundry](https://netrunnerdb.com/en/card/25060)            | _System Core 2019, 60_     | _Event_     |
+| **3x** | [Earthrise Hotel](https://netrunnerdb.com/en/card/25063)          | _System Core 2019, 63_     | _Resource_  |
+| **2x** | [Kati Jones](https://netrunnerdb.com/en/card/25065)               | _System Core 2019, 65_     | _Resource_  |
+| **3x** | [Eli 1.0](https://netrunnerdb.com/en/card/25073)                  | _System Core 2019, 73_     | _ICE_       |
+| **3x** | [Ash 2X3ZB9CY](https://netrunnerdb.com/en/card/25082)             | _System Core 2019, 82_     | _Upgrade_   |
+| **3x** | [Explode-a-palooza](https://netrunnerdb.com/en/card/25106)        | _System Core 2019, 106_    | _Agenda_    |
+| **3x** | [Project Beale](https://netrunnerdb.com/en/card/25107)            | _System Core 2019, 107_    | _Agenda_    |
+| **3x** | [Daily Business Show](https://netrunnerdb.com/en/card/25108)      | _System Core 2019, 108_    | _Asset_     |
+| **3x** | [Data Raven](https://netrunnerdb.com/en/card/25112)               | _System Core 2019, 112_    | _ICE_       |
+| **2x** | [Tollbooth](https://netrunnerdb.com/en/card/25115)                | _System Core 2019, 115_    | _ICE_       |
+| **2x** | [Wraparound](https://netrunnerdb.com/en/card/25116)               | _System Core 2019, 116_    | _ICE_       |
+| **2x** | [Psychographics](https://netrunnerdb.com/en/card/25118)           | _System Core 2019, 118_    | _Operation_ |
+| **2x** | [Red Herrings](https://netrunnerdb.com/en/card/25121)             | _System Core 2019, 121_    | _Upgrade_   |
+| **3x** | [PAD Campaign](https://netrunnerdb.com/en/card/25142)             | _System Core 2019, 142_    | _Asset_     |
+| **3x** | [Enigma](https://netrunnerdb.com/en/card/25143)                   | _System Core 2019, 143_    | _ICE_       |
+| **2x** | [Hunter](https://netrunnerdb.com/en/card/25144)                   | _System Core 2019, 144_    | _ICE_       |
+| **3x** | [Hedge Fund](https://netrunnerdb.com/en/card/25146)               | _System Core 2019, 146_    | _Operation_ |
+| **3x** | [IPO](https://netrunnerdb.com/en/card/25147)                      | _System Core 2019, 147_    | _Operation_ |
 
 # Level 1
 
@@ -110,38 +110,38 @@ And one final thing: You can use Stimhacks liberally. This Corp deck is designed
 
 Total: 45
 
-| Count | Name | Type |
-| :---: | ---- | ---- |
-| **3x** | [Stimhack](https://netrunnerdb.com/en/card/25007) | _Event_ |
-| **3x** | [Career Fair](https://netrunnerdb.com/en/card/25022) | _Event_ |
-| **1x** | [Legwork](https://netrunnerdb.com/en/card/25027) | _Event_ |
-| **3x** | [Diesel](https://netrunnerdb.com/en/card/25042) | _Event_ |
-| **2x** | [The Maker's Eye](https://netrunnerdb.com/en/card/25046) | _Event_ |
-| **3x** | [Sure Gamble](https://netrunnerdb.com/en/card/25059) | _Event_ |
-| **3x** | [Dirty Laundry](https://netrunnerdb.com/en/card/25060) | _Event_ |
-| **3x** | [Inject](https://netrunnerdb.com/en/card/06073) | _Event_ |
-| **3x** | [Patchwork](https://netrunnerdb.com/en/card/25009) | _Hardware_ |
-| **2x** | [Paperclip](https://netrunnerdb.com/en/card/11024) | _Program_ |
-| **3x** | [Black Orchestra](https://netrunnerdb.com/en/card/11042) | _Program_ |
-| **2x** | [MKUltra](https://netrunnerdb.com/en/card/11081) | _Program_ |
-| **2x** | [Ice Carver](https://netrunnerdb.com/en/card/25016) | _Resource_ |
+| Count  | Name                                                       | Type       |
+| :---:  | ----                                                       | ----       |
+| **3x** | [Stimhack](https://netrunnerdb.com/en/card/25007)          | _Event_    |
+| **3x** | [Career Fair](https://netrunnerdb.com/en/card/25022)       | _Event_    |
+| **1x** | [Legwork](https://netrunnerdb.com/en/card/25027)           | _Event_    |
+| **3x** | [Diesel](https://netrunnerdb.com/en/card/25042)            | _Event_    |
+| **2x** | [The Maker's Eye](https://netrunnerdb.com/en/card/25046)   | _Event_    |
+| **3x** | [Sure Gamble](https://netrunnerdb.com/en/card/25059)       | _Event_    |
+| **3x** | [Dirty Laundry](https://netrunnerdb.com/en/card/25060)     | _Event_    |
+| **3x** | [Inject](https://netrunnerdb.com/en/card/06073)            | _Event_    |
+| **3x** | [Patchwork](https://netrunnerdb.com/en/card/25009)         | _Hardware_ |
+| **2x** | [Paperclip](https://netrunnerdb.com/en/card/11024)         | _Program_  |
+| **3x** | [Black Orchestra](https://netrunnerdb.com/en/card/11042)   | _Program_  |
+| **2x** | [MKUltra](https://netrunnerdb.com/en/card/11081)           | _Program_  |
+| **2x** | [Ice Carver](https://netrunnerdb.com/en/card/25016)        | _Resource_ |
 | **3x** | [Liberated Account](https://netrunnerdb.com/en/card/25017) | _Resource_ |
-| **1x** | [Scrubber](https://netrunnerdb.com/en/card/25018) | _Resource_ |
-| **3x** | [Earthrise Hotel](https://netrunnerdb.com/en/card/25063) | _Resource_ |
-| **2x** | [Kati Jones](https://netrunnerdb.com/en/card/25065) | _Resource_ |
-| **3x** | [Daily Casts](https://netrunnerdb.com/en/card/26094) | _Resource_ |
+| **1x** | [Scrubber](https://netrunnerdb.com/en/card/25018)          | _Resource_ |
+| **3x** | [Earthrise Hotel](https://netrunnerdb.com/en/card/25063)   | _Resource_ |
+| **2x** | [Kati Jones](https://netrunnerdb.com/en/card/25065)        | _Resource_ |
+| **3x** | [Daily Casts](https://netrunnerdb.com/en/card/26094)       | _Resource_ |
 
 ### Transition
 
-| Count | Name | Type |
-| :---: | ---- | ---- |
-| **-2x** | [The Maker's Eye](https://netrunnerdb.com/en/card/25046) | _Event_ |
-| **-1x** | [Legwork](https://netrunnerdb.com/en/card/25027) | _Event_ |
-| **+1x** | [Ice Carver](https://netrunnerdb.com/en/card/25016) | _Resource_ |
-| **+1x** | [Scrubber](https://netrunnerdb.com/en/card/25018) | _Resource_ |
-| **+1x** | [Rebirth](https://netrunnerdb.com/en/card/10083) | _Event_ |
+| Count   | Name                                                       | Type       |
+| :---:   | ----                                                       | ----       |
+| **-2x** | [The Maker's Eye](https://netrunnerdb.com/en/card/25046)   | _Event_    |
+| **-1x** | [Legwork](https://netrunnerdb.com/en/card/25027)           | _Event_    |
+| **+1x** | [Ice Carver](https://netrunnerdb.com/en/card/25016)        | _Resource_ |
+| **+1x** | [Scrubber](https://netrunnerdb.com/en/card/25018)          | _Resource_ |
+| **+1x** | [Rebirth](https://netrunnerdb.com/en/card/10083)           | _Event_    |
 | **+2x** | [The Turning Wheel](https://netrunnerdb.com/en/card/10085) | _Resource_ |
-| **+3x** | [I've Had Worse](https://netrunnerdb.com/en/card/07032) | _Event_ |
+| **+3x** | [I've Had Worse](https://netrunnerdb.com/en/card/07032)    | _Event_    |
 
 ## Making News: Hard Hitting Times
 
@@ -151,45 +151,45 @@ If the Runner has to drop low in credits to keep up, you can use HHN to tag them
 
 Total: 49
 
-| Count | Name | Type |
-| :---: | ---- | ---- |
-| **3x** | [Explode-a-palooza](https://netrunnerdb.com/en/card/25106) | _Agenda_ |
-| **3x** | [Project Beale](https://netrunnerdb.com/en/card/25107) | _Agenda_ |
-| **3x** | [Priority Requisition](https://netrunnerdb.com/en/card/25141) | _Agenda_ |
-| **3x** | [Rashida Jaheem](https://netrunnerdb.com/en/card/21080) | _Asset_ |
-| **3x** | [Daily Business Show](https://netrunnerdb.com/en/card/25108) | _Asset_ |
-| **3x** | [PAD Campaign](https://netrunnerdb.com/en/card/25142) | _Asset_ |
-| **3x** | [Eli 1.0](https://netrunnerdb.com/en/card/25073) | _ICE_ |
-| **2x** | [Wraparound](https://netrunnerdb.com/en/card/25116) | _ICE_ |
-| **2x** | [Tollbooth](https://netrunnerdb.com/en/card/25115) | _ICE_ |
-| **3x** | [Enigma](https://netrunnerdb.com/en/card/25143) | _ICE_ |
-| **3x** | [Data Raven](https://netrunnerdb.com/en/card/25112) | _ICE_ |
-| **2x** | [Hunter](https://netrunnerdb.com/en/card/25144) | _ICE_ |
-| **3x** | [Hard-Hitting News](https://netrunnerdb.com/en/card/11016) | _Operation_ |
-| **2x** | [Psychographics](https://netrunnerdb.com/en/card/25118) | _Operation_ |
-| **3x** | [Hedge Fund](https://netrunnerdb.com/en/card/25146) | _Operation_ |
-| **3x** | [IPO](https://netrunnerdb.com/en/card/25147) | _Operation_ |
-| **3x** | [Ash 2X3ZB9CY](https://netrunnerdb.com/en/card/25082) | _Upgrade_ |
-| **2x** | [Red Herrings](https://netrunnerdb.com/en/card/25121) | _Upgrade_ |
+| Count  | Name                                                          | Type        |
+| :---:  | ----                                                          | ----        |
+| **3x** | [Explode-a-palooza](https://netrunnerdb.com/en/card/25106)    | _Agenda_    |
+| **3x** | [Project Beale](https://netrunnerdb.com/en/card/25107)        | _Agenda_    |
+| **3x** | [Priority Requisition](https://netrunnerdb.com/en/card/25141) | _Agenda_    |
+| **3x** | [Rashida Jaheem](https://netrunnerdb.com/en/card/21080)       | _Asset_     |
+| **3x** | [Daily Business Show](https://netrunnerdb.com/en/card/25108)  | _Asset_     |
+| **3x** | [PAD Campaign](https://netrunnerdb.com/en/card/25142)         | _Asset_     |
+| **3x** | [Eli 1.0](https://netrunnerdb.com/en/card/25073)              | _ICE_       |
+| **2x** | [Wraparound](https://netrunnerdb.com/en/card/25116)           | _ICE_       |
+| **2x** | [Tollbooth](https://netrunnerdb.com/en/card/25115)            | _ICE_       |
+| **3x** | [Enigma](https://netrunnerdb.com/en/card/25143)               | _ICE_       |
+| **3x** | [Data Raven](https://netrunnerdb.com/en/card/25112)           | _ICE_       |
+| **2x** | [Hunter](https://netrunnerdb.com/en/card/25144)               | _ICE_       |
+| **3x** | [Hard-Hitting News](https://netrunnerdb.com/en/card/11016)    | _Operation_ |
+| **2x** | [Psychographics](https://netrunnerdb.com/en/card/25118)       | _Operation_ |
+| **3x** | [Hedge Fund](https://netrunnerdb.com/en/card/25146)           | _Operation_ |
+| **3x** | [IPO](https://netrunnerdb.com/en/card/25147)                  | _Operation_ |
+| **3x** | [Ash 2X3ZB9CY](https://netrunnerdb.com/en/card/25082)         | _Upgrade_   |
+| **2x** | [Red Herrings](https://netrunnerdb.com/en/card/25121)         | _Upgrade_   |
 
 ### Transition
 
-| Count | Name | Type |
-| :---: | ---- | ---- |
-| **-3x** | [Ash 2X3ZB9CY](https://netrunnerdb.com/en/card/25082) | _Upgrade_ |
-| **-2x** | [Red Herrings](https://netrunnerdb.com/en/card/25121) | _Upgrade_ |
-| **-2x** | [Wraparound](https://netrunnerdb.com/en/card/25116) | _ICE_ |
-| **-1x** | [IPO](https://netrunnerdb.com/en/card/25147) | _Operation_ |
-| **-1x** | [Explode-a-palooza](https://netrunnerdb.com/en/card/25106) | _Agenda_ |
-| **-1x** | [Tollbooth](https://netrunnerdb.com/en/card/25115) | _ICE_ |
-| **-1x** | [Psychographics](https://netrunnerdb.com/en/card/25118) | _Operation_ |
-| **-1x** | [Priority Requisition](https://netrunnerdb.com/en/card/25141) | _Agenda_ |
-| **+1x** | [Exchange of Information](https://netrunnerdb.com/en/card/10092) | _Operation_ |
-| **+1x** | [15 Minutes](https://netrunnerdb.com/en/card/09004) | _Agenda_ |
-| **+1x** | [Preemptive Action](https://netrunnerdb.com/en/card/11080) | _Operation_ |
-| **+3x** | [Calibration Testing](https://netrunnerdb.com/en/card/21017) | _Upgrade_ |
-| **+3x** | [Quantum Predictive Model](https://netrunnerdb.com/en/card/09007) | _Agenda_ |
-| **+3x** | [Team Sponsorship](https://netrunnerdb.com/en/card/08110) | _Asset_ |
+| Count   | Name                                                              | Type        |
+| :---:   | ----                                                              | ----        |
+| **-3x** | [Ash 2X3ZB9CY](https://netrunnerdb.com/en/card/25082)             | _Upgrade_   |
+| **-2x** | [Red Herrings](https://netrunnerdb.com/en/card/25121)             | _Upgrade_   |
+| **-2x** | [Wraparound](https://netrunnerdb.com/en/card/25116)               | _ICE_       |
+| **-1x** | [IPO](https://netrunnerdb.com/en/card/25147)                      | _Operation_ |
+| **-1x** | [Explode-a-palooza](https://netrunnerdb.com/en/card/25106)        | _Agenda_    |
+| **-1x** | [Tollbooth](https://netrunnerdb.com/en/card/25115)                | _ICE_       |
+| **-1x** | [Psychographics](https://netrunnerdb.com/en/card/25118)           | _Operation_ |
+| **-1x** | [Priority Requisition](https://netrunnerdb.com/en/card/25141)     | _Agenda_    |
+| **+1x** | [Exchange of Information](https://netrunnerdb.com/en/card/10092)  | _Operation_ |
+| **+1x** | [15 Minutes](https://netrunnerdb.com/en/card/09004)               | _Agenda_    |
+| **+1x** | [Preemptive Action](https://netrunnerdb.com/en/card/11080)        | _Operation_ |
+| **+3x** | [Calibration Testing](https://netrunnerdb.com/en/card/21017)      | _Upgrade_   |
+| **+3x** | [Quantum Predictive Model](https://netrunnerdb.com/en/card/09007) | _Agenda_    |
+| **+3x** | [Team Sponsorship](https://netrunnerdb.com/en/card/08110)         | _Asset_     |
 
 # Level 2
 
@@ -211,43 +211,43 @@ Regarding them installing [Quantum Predictive Model](https://netrunnerdb.com/en/
 
 Total: 50
 
-| Count | Name | Type |
-| :---: | ---- | ---- |
-| **1x** | [Rebirth](https://netrunnerdb.com/en/card/10083) | _Event_ |
-| **3x** | [Stimhack](https://netrunnerdb.com/en/card/25007) | _Event_ |
-| **3x** | [Career Fair](https://netrunnerdb.com/en/card/25022) | _Event_ |
-| **3x** | [Diesel](https://netrunnerdb.com/en/card/25042) | _Event_ |
-| **3x** | [Sure Gamble](https://netrunnerdb.com/en/card/25059) | _Event_ |
-| **3x** | [Dirty Laundry](https://netrunnerdb.com/en/card/25060) | _Event_ |
-| **3x** | [Inject](https://netrunnerdb.com/en/card/06073) | _Event_ |
-| **3x** | [I've Had Worse](https://netrunnerdb.com/en/card/07032) | _Event_ |
-| **3x** | [Patchwork](https://netrunnerdb.com/en/card/25009) | _Hardware_ |
-| **2x** | [Paperclip](https://netrunnerdb.com/en/card/11024) | _Program_ |
-| **3x** | [Black Orchestra](https://netrunnerdb.com/en/card/11042) | _Program_ |
-| **2x** | [MKUltra](https://netrunnerdb.com/en/card/11081) | _Program_ |
+| Count  | Name                                                       | Type       |
+| :---:  | ----                                                       | ----       |
+| **1x** | [Rebirth](https://netrunnerdb.com/en/card/10083)           | _Event_    |
+| **3x** | [Stimhack](https://netrunnerdb.com/en/card/25007)          | _Event_    |
+| **3x** | [Career Fair](https://netrunnerdb.com/en/card/25022)       | _Event_    |
+| **3x** | [Diesel](https://netrunnerdb.com/en/card/25042)            | _Event_    |
+| **3x** | [Sure Gamble](https://netrunnerdb.com/en/card/25059)       | _Event_    |
+| **3x** | [Dirty Laundry](https://netrunnerdb.com/en/card/25060)     | _Event_    |
+| **3x** | [Inject](https://netrunnerdb.com/en/card/06073)            | _Event_    |
+| **3x** | [I've Had Worse](https://netrunnerdb.com/en/card/07032)    | _Event_    |
+| **3x** | [Patchwork](https://netrunnerdb.com/en/card/25009)         | _Hardware_ |
+| **2x** | [Paperclip](https://netrunnerdb.com/en/card/11024)         | _Program_  |
+| **3x** | [Black Orchestra](https://netrunnerdb.com/en/card/11042)   | _Program_  |
+| **2x** | [MKUltra](https://netrunnerdb.com/en/card/11081)           | _Program_  |
 | **2x** | [The Turning Wheel](https://netrunnerdb.com/en/card/10085) | _Resource_ |
-| **3x** | [Ice Carver](https://netrunnerdb.com/en/card/25016) | _Resource_ |
+| **3x** | [Ice Carver](https://netrunnerdb.com/en/card/25016)        | _Resource_ |
 | **3x** | [Liberated Account](https://netrunnerdb.com/en/card/25017) | _Resource_ |
-| **2x** | [Scrubber](https://netrunnerdb.com/en/card/25018) | _Resource_ |
-| **3x** | [Earthrise Hotel](https://netrunnerdb.com/en/card/25063) | _Resource_ |
-| **2x** | [Kati Jones](https://netrunnerdb.com/en/card/25065) | _Resource_ |
-| **3x** | [Daily Casts](https://netrunnerdb.com/en/card/26094) | _Resource_ |
+| **2x** | [Scrubber](https://netrunnerdb.com/en/card/25018)          | _Resource_ |
+| **3x** | [Earthrise Hotel](https://netrunnerdb.com/en/card/25063)   | _Resource_ |
+| **2x** | [Kati Jones](https://netrunnerdb.com/en/card/25065)        | _Resource_ |
+| **3x** | [Daily Casts](https://netrunnerdb.com/en/card/26094)       | _Resource_ |
 
 ### Transition
 
-| Count | Name | Type |
-| :---: | ---- | ---- |
-| **-3x** | [Ice Carver](https://netrunnerdb.com/en/card/25016) | _Resource_ |
-| **-3x** | [Diesel](https://netrunnerdb.com/en/card/25042) | _Event_ |
-| **-3x** | [Patchwork](https://netrunnerdb.com/en/card/25009) | _Hardware_ |
-| **-1x** | [Black Orchestra](https://netrunnerdb.com/en/card/11042) | _Program_ |
-| **-1x** | [Scrubber](https://netrunnerdb.com/en/card/25018) | _Resource_ |
-| **+1x** | [No One Home](https://netrunnerdb.com/en/card/21045) | _Resource_ |
-| **+1x** | [Turntable](https://netrunnerdb.com/en/card/08043) | _Hardware_ |
-| **+2x** | [Clone Chip](https://netrunnerdb.com/en/card/03038) | _Hardware_ |
-| **+2x** | [Aumakua](https://netrunnerdb.com/en/card/12104) | _Program_ |
-| **+2x** | [D4v1d](https://netrunnerdb.com/en/card/06033) | _Program_ |
-| **+3x** | [Mining Accident](https://netrunnerdb.com/en/card/12101) | _Event_ |
+| Count   | Name                                                     | Type       |
+| :---:   | ----                                                     | ----       |
+| **-3x** | [Ice Carver](https://netrunnerdb.com/en/card/25016)      | _Resource_ |
+| **-3x** | [Diesel](https://netrunnerdb.com/en/card/25042)          | _Event_    |
+| **-3x** | [Patchwork](https://netrunnerdb.com/en/card/25009)       | _Hardware_ |
+| **-1x** | [Black Orchestra](https://netrunnerdb.com/en/card/11042) | _Program_  |
+| **-1x** | [Scrubber](https://netrunnerdb.com/en/card/25018)        | _Resource_ |
+| **+1x** | [No One Home](https://netrunnerdb.com/en/card/21045)     | _Resource_ |
+| **+1x** | [Turntable](https://netrunnerdb.com/en/card/08043)       | _Hardware_ |
+| **+2x** | [Clone Chip](https://netrunnerdb.com/en/card/03038)      | _Hardware_ |
+| **+2x** | [Aumakua](https://netrunnerdb.com/en/card/12104)         | _Program_  |
+| **+2x** | [D4v1d](https://netrunnerdb.com/en/card/06033)           | _Program_  |
+| **+3x** | [Mining Accident](https://netrunnerdb.com/en/card/12101) | _Event_    |
 
 ## Making News: Recursion is Everything
 
@@ -257,44 +257,44 @@ Your general game plan will be installing and advancing things behind Data Raven
 
 Total: 49
 
-| Count | Name | Type |
-| :---: | ---- | ---- |
-| **2x** | [Explode-a-palooza](https://netrunnerdb.com/en/card/25106) | _Agenda_ |
-| **3x** | [Project Beale](https://netrunnerdb.com/en/card/25107) | _Agenda_ |
-| **2x** | [Priority Requisition](https://netrunnerdb.com/en/card/25141) | _Agenda_ |
-| **1x** | [15 Minutes](https://netrunnerdb.com/en/card/09004) | _Agenda_ |
-| **3x** | [Quantum Predictive Model](https://netrunnerdb.com/en/card/09007) | _Agenda_ |
-| **3x** | [Rashida Jaheem](https://netrunnerdb.com/en/card/21080) | _Asset_ |
-| **3x** | [Daily Business Show](https://netrunnerdb.com/en/card/25108) | _Asset_ |
-| **3x** | [PAD Campaign](https://netrunnerdb.com/en/card/25142) | _Asset_ |
-| **3x** | [Team Sponsorship](https://netrunnerdb.com/en/card/08110) | _Asset_ |
-| **3x** | [Eli 1.0](https://netrunnerdb.com/en/card/25073) | _ICE_ |
-| **1x** | [Tollbooth](https://netrunnerdb.com/en/card/25115) | _ICE_ |
-| **3x** | [Enigma](https://netrunnerdb.com/en/card/25143) | _ICE_ |
-| **3x** | [Data Raven](https://netrunnerdb.com/en/card/25112) | _ICE_ |
-| **2x** | [Hunter](https://netrunnerdb.com/en/card/25144) | _ICE_ |
-| **1x** | [Exchange of Information](https://netrunnerdb.com/en/card/10092) | _Operation_ |
-| **3x** | [Hard-Hitting News](https://netrunnerdb.com/en/card/11016) | _Operation_ |
-| **1x** | [Preemptive Action](https://netrunnerdb.com/en/card/11080) | _Operation_ |
-| **1x** | [Psychographics](https://netrunnerdb.com/en/card/25118) | _Operation_ |
-| **3x** | [Hedge Fund](https://netrunnerdb.com/en/card/25146) | _Operation_ |
-| **2x** | [IPO](https://netrunnerdb.com/en/card/25147) | _Operation_ |
-| **3x** | [Calibration Testing](https://netrunnerdb.com/en/card/21017) | _Upgrade_ |
+| Count  | Name                                                              | Type        |
+| :---:  | ----                                                              | ----        |
+| **2x** | [Explode-a-palooza](https://netrunnerdb.com/en/card/25106)        | _Agenda_    |
+| **3x** | [Project Beale](https://netrunnerdb.com/en/card/25107)            | _Agenda_    |
+| **2x** | [Priority Requisition](https://netrunnerdb.com/en/card/25141)     | _Agenda_    |
+| **1x** | [15 Minutes](https://netrunnerdb.com/en/card/09004)               | _Agenda_    |
+| **3x** | [Quantum Predictive Model](https://netrunnerdb.com/en/card/09007) | _Agenda_    |
+| **3x** | [Rashida Jaheem](https://netrunnerdb.com/en/card/21080)           | _Asset_     |
+| **3x** | [Daily Business Show](https://netrunnerdb.com/en/card/25108)      | _Asset_     |
+| **3x** | [PAD Campaign](https://netrunnerdb.com/en/card/25142)             | _Asset_     |
+| **3x** | [Team Sponsorship](https://netrunnerdb.com/en/card/08110)         | _Asset_     |
+| **3x** | [Eli 1.0](https://netrunnerdb.com/en/card/25073)                  | _ICE_       |
+| **1x** | [Tollbooth](https://netrunnerdb.com/en/card/25115)                | _ICE_       |
+| **3x** | [Enigma](https://netrunnerdb.com/en/card/25143)                   | _ICE_       |
+| **3x** | [Data Raven](https://netrunnerdb.com/en/card/25112)               | _ICE_       |
+| **2x** | [Hunter](https://netrunnerdb.com/en/card/25144)                   | _ICE_       |
+| **1x** | [Exchange of Information](https://netrunnerdb.com/en/card/10092)  | _Operation_ |
+| **3x** | [Hard-Hitting News](https://netrunnerdb.com/en/card/11016)        | _Operation_ |
+| **1x** | [Preemptive Action](https://netrunnerdb.com/en/card/11080)        | _Operation_ |
+| **1x** | [Psychographics](https://netrunnerdb.com/en/card/25118)           | _Operation_ |
+| **3x** | [Hedge Fund](https://netrunnerdb.com/en/card/25146)               | _Operation_ |
+| **2x** | [IPO](https://netrunnerdb.com/en/card/25147)                      | _Operation_ |
+| **3x** | [Calibration Testing](https://netrunnerdb.com/en/card/21017)      | _Upgrade_   |
 
 ### Transition
 
-| Count | Name | Type |
-| :---: | ---- | ---- |
-| **-3x** | [PAD Campaign](https://netrunnerdb.com/en/card/25142) | _Asset_ |
-| **-3x** | [Eli 1.0](https://netrunnerdb.com/en/card/25073) | _ICE_ |
-| **-2x** | [IPO](https://netrunnerdb.com/en/card/25147) | _Operation_ |
-| **-2x** | [Priority Requisition](https://netrunnerdb.com/en/card/25141) | _Agenda_ |
-| **-1x** | [15 Minutes](https://netrunnerdb.com/en/card/09004) | _Agenda_ |
-| **-1x** | [Explode-a-palooza](https://netrunnerdb.com/en/card/25106) | _Agenda_ |
-| **+3x** | [Commercial Bankers Group](https://netrunnerdb.com/en/card/10054) | _Asset_ |
-| **+3x** | [IP Block](https://netrunnerdb.com/en/card/11094) | _ICE_ |
-| **+3x** | [Global Food Initiative](https://netrunnerdb.com/en/card/09026) | _Agenda_ |
-| **+3x** | [Mumbad Virtual Tour](https://netrunnerdb.com/en/card/10076) | _Upgrade_ |
+| Count   | Name                                                              | Type        |
+| :---:   | ----                                                              | ----        |
+| **-3x** | [PAD Campaign](https://netrunnerdb.com/en/card/25142)             | _Asset_     |
+| **-3x** | [Eli 1.0](https://netrunnerdb.com/en/card/25073)                  | _ICE_       |
+| **-2x** | [IPO](https://netrunnerdb.com/en/card/25147)                      | _Operation_ |
+| **-2x** | [Priority Requisition](https://netrunnerdb.com/en/card/25141)     | _Agenda_    |
+| **-1x** | [15 Minutes](https://netrunnerdb.com/en/card/09004)               | _Agenda_    |
+| **-1x** | [Explode-a-palooza](https://netrunnerdb.com/en/card/25106)        | _Agenda_    |
+| **+3x** | [Commercial Bankers Group](https://netrunnerdb.com/en/card/10054) | _Asset_     |
+| **+3x** | [IP Block](https://netrunnerdb.com/en/card/11094)                 | _ICE_       |
+| **+3x** | [Global Food Initiative](https://netrunnerdb.com/en/card/09026)   | _Agenda_    |
+| **+3x** | [Mumbad Virtual Tour](https://netrunnerdb.com/en/card/10076)      | _Upgrade_   |
 
 # Level 3
 
@@ -320,40 +320,40 @@ But the most interesting card here is [Mining Accident](https://netrunnerdb.com/
 
 Total: 50
 
-| Count | Name | Type |
-| :---: | ---- | ---- |
-| **1x** | [Rebirth](https://netrunnerdb.com/en/card/10083) | _Event_ |
-| **3x** | [Mining Accident](https://netrunnerdb.com/en/card/12101) | _Event_ |
-| **3x** | [Stimhack](https://netrunnerdb.com/en/card/25007) | _Event_ |
-| **3x** | [Career Fair](https://netrunnerdb.com/en/card/25022) | _Event_ |
-| **3x** | [Sure Gamble](https://netrunnerdb.com/en/card/25059) | _Event_ |
-| **3x** | [Dirty Laundry](https://netrunnerdb.com/en/card/25060) | _Event_ |
-| **3x** | [Inject](https://netrunnerdb.com/en/card/06073) | _Event_ |
-| **3x** | [I've Had Worse](https://netrunnerdb.com/en/card/07032) | _Event_ |
-| **2x** | [Clone Chip](https://netrunnerdb.com/en/card/03038) | _Hardware_ |
-| **1x** | [Turntable](https://netrunnerdb.com/en/card/08043) | _Hardware_ |
-| **2x** | [Paperclip](https://netrunnerdb.com/en/card/11024) | _Program_ |
-| **2x** | [Black Orchestra](https://netrunnerdb.com/en/card/11042) | _Program_ |
-| **2x** | [MKUltra](https://netrunnerdb.com/en/card/11081) | _Program_ |
-| **2x** | [Aumakua](https://netrunnerdb.com/en/card/12104) | _Program_ |
-| **2x** | [D4v1d](https://netrunnerdb.com/en/card/06033) | _Program_ |
+| Count  | Name                                                       | Type       |
+| :---:  | ----                                                       | ----       |
+| **1x** | [Rebirth](https://netrunnerdb.com/en/card/10083)           | _Event_    |
+| **3x** | [Mining Accident](https://netrunnerdb.com/en/card/12101)   | _Event_    |
+| **3x** | [Stimhack](https://netrunnerdb.com/en/card/25007)          | _Event_    |
+| **3x** | [Career Fair](https://netrunnerdb.com/en/card/25022)       | _Event_    |
+| **3x** | [Sure Gamble](https://netrunnerdb.com/en/card/25059)       | _Event_    |
+| **3x** | [Dirty Laundry](https://netrunnerdb.com/en/card/25060)     | _Event_    |
+| **3x** | [Inject](https://netrunnerdb.com/en/card/06073)            | _Event_    |
+| **3x** | [I've Had Worse](https://netrunnerdb.com/en/card/07032)    | _Event_    |
+| **2x** | [Clone Chip](https://netrunnerdb.com/en/card/03038)        | _Hardware_ |
+| **1x** | [Turntable](https://netrunnerdb.com/en/card/08043)         | _Hardware_ |
+| **2x** | [Paperclip](https://netrunnerdb.com/en/card/11024)         | _Program_  |
+| **2x** | [Black Orchestra](https://netrunnerdb.com/en/card/11042)   | _Program_  |
+| **2x** | [MKUltra](https://netrunnerdb.com/en/card/11081)           | _Program_  |
+| **2x** | [Aumakua](https://netrunnerdb.com/en/card/12104)           | _Program_  |
+| **2x** | [D4v1d](https://netrunnerdb.com/en/card/06033)             | _Program_  |
 | **2x** | [The Turning Wheel](https://netrunnerdb.com/en/card/10085) | _Resource_ |
-| **1x** | [No One Home](https://netrunnerdb.com/en/card/21045) | _Resource_ |
+| **1x** | [No One Home](https://netrunnerdb.com/en/card/21045)       | _Resource_ |
 | **3x** | [Liberated Account](https://netrunnerdb.com/en/card/25017) | _Resource_ |
-| **1x** | [Scrubber](https://netrunnerdb.com/en/card/25018) | _Resource_ |
-| **3x** | [Earthrise Hotel](https://netrunnerdb.com/en/card/25063) | _Resource_ |
-| **2x** | [Kati Jones](https://netrunnerdb.com/en/card/25065) | _Resource_ |
-| **3x** | [Daily Casts](https://netrunnerdb.com/en/card/26094) | _Resource_ |
+| **1x** | [Scrubber](https://netrunnerdb.com/en/card/25018)          | _Resource_ |
+| **3x** | [Earthrise Hotel](https://netrunnerdb.com/en/card/25063)   | _Resource_ |
+| **2x** | [Kati Jones](https://netrunnerdb.com/en/card/25065)        | _Resource_ |
+| **3x** | [Daily Casts](https://netrunnerdb.com/en/card/26094)       | _Resource_ |
 
 ### Transition
 
-| Count | Name | Type |
-| :---: | ---- | ---- |
-| **-2x** | [Kati Jones](https://netrunnerdb.com/en/card/25065) | _Resource_ |
-| **-2x** | [Career Fair](https://netrunnerdb.com/en/card/25022) | _Event_ |
-| **-1x** | [Scrubber](https://netrunnerdb.com/en/card/25018) | _Resource_ |
-| **+2x** | [Falsified Credentials](https://netrunnerdb.com/en/card/21064) | _Event_ |
-| **+3x** | [Hacktivist Meeting](https://netrunnerdb.com/en/card/08021) | _Event_ |
+| Count   | Name                                                           | Type       |
+| :---:   | ----                                                           | ----       |
+| **-2x** | [Kati Jones](https://netrunnerdb.com/en/card/25065)            | _Resource_ |
+| **-2x** | [Career Fair](https://netrunnerdb.com/en/card/25022)           | _Event_    |
+| **-1x** | [Scrubber](https://netrunnerdb.com/en/card/25018)              | _Resource_ |
+| **+2x** | [Falsified Credentials](https://netrunnerdb.com/en/card/21064) | _Event_    |
+| **+3x** | [Hacktivist Meeting](https://netrunnerdb.com/en/card/08021)    | _Event_    |
 
 ## Controlling the Message: Enter the Bankers
 
@@ -363,42 +363,42 @@ Be aware that installing an unprotected CBG can be very dangerous and should typ
 
 Total: 49
 
-| Count | Name | Type |
-| :---: | ---- | ---- |
-| **1x** | [Explode-a-palooza](https://netrunnerdb.com/en/card/25106) | _Agenda_ |
-| **3x** | [Project Beale](https://netrunnerdb.com/en/card/25107) | _Agenda_ |
-| **3x** | [Quantum Predictive Model](https://netrunnerdb.com/en/card/09007) | _Agenda_ |
-| **3x** | [Global Food Initiative](https://netrunnerdb.com/en/card/09026) | _Agenda_ |
-| **3x** | [Commercial Bankers Group](https://netrunnerdb.com/en/card/10054) | _Asset_ |
-| **3x** | [Rashida Jaheem](https://netrunnerdb.com/en/card/21080) | _Asset_ |
-| **3x** | [Daily Business Show](https://netrunnerdb.com/en/card/25108) | _Asset_ |
-| **3x** | [Team Sponsorship](https://netrunnerdb.com/en/card/08110) | _Asset_ |
-| **3x** | [IP Block](https://netrunnerdb.com/en/card/11094) | _ICE_ |
-| **1x** | [Tollbooth](https://netrunnerdb.com/en/card/25115) | _ICE_ |
-| **3x** | [Enigma](https://netrunnerdb.com/en/card/25143) | _ICE_ |
-| **3x** | [Data Raven](https://netrunnerdb.com/en/card/25112) | _ICE_ |
-| **2x** | [Hunter](https://netrunnerdb.com/en/card/25144) | _ICE_ |
-| **1x** | [Exchange of Information](https://netrunnerdb.com/en/card/10092) | _Operation_ |
-| **3x** | [Hard-Hitting News](https://netrunnerdb.com/en/card/11016) | _Operation_ |
-| **1x** | [Preemptive Action](https://netrunnerdb.com/en/card/11080) | _Operation_ |
-| **1x** | [Psychographics](https://netrunnerdb.com/en/card/25118) | _Operation_ |
-| **3x** | [Hedge Fund](https://netrunnerdb.com/en/card/25146) | _Operation_ |
-| **3x** | [Mumbad Virtual Tour](https://netrunnerdb.com/en/card/10076) | _Upgrade_ |
-| **3x** | [Calibration Testing](https://netrunnerdb.com/en/card/21017) | _Upgrade_ |
+| Count  | Name                                                              | Type        |
+| :---:  | ----                                                              | ----        |
+| **1x** | [Explode-a-palooza](https://netrunnerdb.com/en/card/25106)        | _Agenda_    |
+| **3x** | [Project Beale](https://netrunnerdb.com/en/card/25107)            | _Agenda_    |
+| **3x** | [Quantum Predictive Model](https://netrunnerdb.com/en/card/09007) | _Agenda_    |
+| **3x** | [Global Food Initiative](https://netrunnerdb.com/en/card/09026)   | _Agenda_    |
+| **3x** | [Commercial Bankers Group](https://netrunnerdb.com/en/card/10054) | _Asset_     |
+| **3x** | [Rashida Jaheem](https://netrunnerdb.com/en/card/21080)           | _Asset_     |
+| **3x** | [Daily Business Show](https://netrunnerdb.com/en/card/25108)      | _Asset_     |
+| **3x** | [Team Sponsorship](https://netrunnerdb.com/en/card/08110)         | _Asset_     |
+| **3x** | [IP Block](https://netrunnerdb.com/en/card/11094)                 | _ICE_       |
+| **1x** | [Tollbooth](https://netrunnerdb.com/en/card/25115)                | _ICE_       |
+| **3x** | [Enigma](https://netrunnerdb.com/en/card/25143)                   | _ICE_       |
+| **3x** | [Data Raven](https://netrunnerdb.com/en/card/25112)               | _ICE_       |
+| **2x** | [Hunter](https://netrunnerdb.com/en/card/25144)                   | _ICE_       |
+| **1x** | [Exchange of Information](https://netrunnerdb.com/en/card/10092)  | _Operation_ |
+| **3x** | [Hard-Hitting News](https://netrunnerdb.com/en/card/11016)        | _Operation_ |
+| **1x** | [Preemptive Action](https://netrunnerdb.com/en/card/11080)        | _Operation_ |
+| **1x** | [Psychographics](https://netrunnerdb.com/en/card/25118)           | _Operation_ |
+| **3x** | [Hedge Fund](https://netrunnerdb.com/en/card/25146)               | _Operation_ |
+| **3x** | [Mumbad Virtual Tour](https://netrunnerdb.com/en/card/10076)      | _Upgrade_   |
+| **3x** | [Calibration Testing](https://netrunnerdb.com/en/card/21017)      | _Upgrade_   |
 
 ### Transition
 
-| Count | Name | Type |
-| :---: | ---- | ---- |
-| **-3x** | [Data Raven](https://netrunnerdb.com/en/card/25112) | _ICE_ |
-| **-2x** | [Hunter](https://netrunnerdb.com/en/card/25144) | _ICE_ |
-| **-2x** | [Quantum Predictive Model](https://netrunnerdb.com/en/card/09007) | _Agenda_ |
-| **-1x** | [Explode-a-palooza](https://netrunnerdb.com/en/card/25106) | _Agenda_ |
-| **+1x** | [Turnpike](https://netrunnerdb.com/en/card/09018) | _ICE_ |
-| **+1x** | [15 Minutes](https://netrunnerdb.com/en/card/09004) | _Agenda_ |
-| **+1x** | [Market Forces](https://netrunnerdb.com/en/card/21117) | _Operation_ |
-| **+2x** | [Resistor](https://netrunnerdb.com/en/card/09015) | _ICE_ |
-| **+3x** | [AR-Enhanced Security](https://netrunnerdb.com/en/card/12115) | _Agenda_ |
+| Count   | Name                                                              | Type        |
+| :---:   | ----                                                              | ----        |
+| **-3x** | [Data Raven](https://netrunnerdb.com/en/card/25112)               | _ICE_       |
+| **-2x** | [Hunter](https://netrunnerdb.com/en/card/25144)                   | _ICE_       |
+| **-2x** | [Quantum Predictive Model](https://netrunnerdb.com/en/card/09007) | _Agenda_    |
+| **-1x** | [Explode-a-palooza](https://netrunnerdb.com/en/card/25106)        | _Agenda_    |
+| **+1x** | [Turnpike](https://netrunnerdb.com/en/card/09018)                 | _ICE_       |
+| **+1x** | [15 Minutes](https://netrunnerdb.com/en/card/09004)               | _Agenda_    |
+| **+1x** | [Market Forces](https://netrunnerdb.com/en/card/21117)            | _Operation_ |
+| **+2x** | [Resistor](https://netrunnerdb.com/en/card/09015)                 | _ICE_       |
+| **+3x** | [AR-Enhanced Security](https://netrunnerdb.com/en/card/12115)     | _Agenda_    |
 
 # Level 4
 
@@ -418,56 +418,56 @@ Congratulations! You've reached the current meta for this specific matchup. I ho
 
 Total: 50
 
-| Count | Name | Type |
-| :---: | ---- | ---- |
-| **1x** | [Rebirth](https://netrunnerdb.com/en/card/10083) | _Event_ |
-| **3x** | [Mining Accident](https://netrunnerdb.com/en/card/12101) | _Event_ |
-| **2x** | [Falsified Credentials](https://netrunnerdb.com/en/card/21064) | _Event_ |
-| **3x** | [Stimhack](https://netrunnerdb.com/en/card/25007) | _Event_ |
-| **1x** | [Career Fair](https://netrunnerdb.com/en/card/25022) | _Event_ |
-| **3x** | [Sure Gamble](https://netrunnerdb.com/en/card/25059) | _Event_ |
-| **3x** | [Dirty Laundry](https://netrunnerdb.com/en/card/25060) | _Event_ |
-| **3x** | [Inject](https://netrunnerdb.com/en/card/06073) | _Event_ |
-| **3x** | [I've Had Worse](https://netrunnerdb.com/en/card/07032) | _Event_ |
-| **3x** | [Hacktivist Meeting](https://netrunnerdb.com/en/card/08021) | _Event_ |
-| **2x** | [Clone Chip](https://netrunnerdb.com/en/card/03038) | _Hardware_ |
-| **1x** | [Turntable](https://netrunnerdb.com/en/card/08043) | _Hardware_ |
-| **2x** | [Black Orchestra](https://netrunnerdb.com/en/card/11042) | _Program_ |
-| **2x** | [MKUltra](https://netrunnerdb.com/en/card/11081) | _Program_ |
-| **2x** | [Aumakua](https://netrunnerdb.com/en/card/12104) | _Program_ |
-| **2x** | [Paperclip](https://netrunnerdb.com/en/card/11024) | _Program_ |
-| **2x** | [D4v1d](https://netrunnerdb.com/en/card/06033) | _Program_ |
-| **2x** | [The Turning Wheel](https://netrunnerdb.com/en/card/10085) | _Resource_ |
-| **1x** | [No One Home](https://netrunnerdb.com/en/card/21045) | _Resource_ |
-| **3x** | [Liberated Account](https://netrunnerdb.com/en/card/25017) | _Resource_ |
-| **3x** | [Earthrise Hotel](https://netrunnerdb.com/en/card/25063) | _Resource_ |
-| **3x** | [Daily Casts](https://netrunnerdb.com/en/card/26094) | _Resource_ |
+| Count  | Name                                                           | Type       |
+| :---:  | ----                                                           | ----       |
+| **1x** | [Rebirth](https://netrunnerdb.com/en/card/10083)               | _Event_    |
+| **3x** | [Mining Accident](https://netrunnerdb.com/en/card/12101)       | _Event_    |
+| **2x** | [Falsified Credentials](https://netrunnerdb.com/en/card/21064) | _Event_    |
+| **3x** | [Stimhack](https://netrunnerdb.com/en/card/25007)              | _Event_    |
+| **1x** | [Career Fair](https://netrunnerdb.com/en/card/25022)           | _Event_    |
+| **3x** | [Sure Gamble](https://netrunnerdb.com/en/card/25059)           | _Event_    |
+| **3x** | [Dirty Laundry](https://netrunnerdb.com/en/card/25060)         | _Event_    |
+| **3x** | [Inject](https://netrunnerdb.com/en/card/06073)                | _Event_    |
+| **3x** | [I've Had Worse](https://netrunnerdb.com/en/card/07032)        | _Event_    |
+| **3x** | [Hacktivist Meeting](https://netrunnerdb.com/en/card/08021)    | _Event_    |
+| **2x** | [Clone Chip](https://netrunnerdb.com/en/card/03038)            | _Hardware_ |
+| **1x** | [Turntable](https://netrunnerdb.com/en/card/08043)             | _Hardware_ |
+| **2x** | [Black Orchestra](https://netrunnerdb.com/en/card/11042)       | _Program_  |
+| **2x** | [MKUltra](https://netrunnerdb.com/en/card/11081)               | _Program_  |
+| **2x** | [Aumakua](https://netrunnerdb.com/en/card/12104)               | _Program_  |
+| **2x** | [Paperclip](https://netrunnerdb.com/en/card/11024)             | _Program_  |
+| **2x** | [D4v1d](https://netrunnerdb.com/en/card/06033)                 | _Program_  |
+| **2x** | [The Turning Wheel](https://netrunnerdb.com/en/card/10085)     | _Resource_ |
+| **1x** | [No One Home](https://netrunnerdb.com/en/card/21045)           | _Resource_ |
+| **3x** | [Liberated Account](https://netrunnerdb.com/en/card/25017)     | _Resource_ |
+| **3x** | [Earthrise Hotel](https://netrunnerdb.com/en/card/25063)       | _Resource_ |
+| **3x** | [Daily Casts](https://netrunnerdb.com/en/card/26094)           | _Resource_ |
 
 ## Controlling the Message: AMERICA
 
 Total: 49
 
-| Count | Name | Type |
-| :---: | ---- | ---- |
-| **3x** | [AR-Enhanced Security](https://netrunnerdb.com/en/card/12115) | _Agenda_ |
-| **3x** | [Project Beale](https://netrunnerdb.com/en/card/25107) | _Agenda_ |
-| **1x** | [15 Minutes](https://netrunnerdb.com/en/card/09004) | _Agenda_ |
-| **1x** | [Quantum Predictive Model](https://netrunnerdb.com/en/card/09007) | _Agenda_ |
-| **3x** | [Global Food Initiative](https://netrunnerdb.com/en/card/09026) | _Agenda_ |
-| **3x** | [Commercial Bankers Group](https://netrunnerdb.com/en/card/10054) | _Asset_ |
-| **3x** | [Rashida Jaheem](https://netrunnerdb.com/en/card/21080) | _Asset_ |
-| **3x** | [Daily Business Show](https://netrunnerdb.com/en/card/25108) | _Asset_ |
-| **3x** | [Team Sponsorship](https://netrunnerdb.com/en/card/08110) | _Asset_ |
-| **3x** | [IP Block](https://netrunnerdb.com/en/card/11094) | _ICE_ |
-| **2x** | [Resistor](https://netrunnerdb.com/en/card/09015) | _ICE_ |
-| **1x** | [Tollbooth](https://netrunnerdb.com/en/card/25115) | _ICE_ |
-| **3x** | [Enigma](https://netrunnerdb.com/en/card/25143) | _ICE_ |
-| **1x** | [Turnpike](https://netrunnerdb.com/en/card/09018) | _ICE_ |
-| **1x** | [Exchange of Information](https://netrunnerdb.com/en/card/10092) | _Operation_ |
-| **3x** | [Hard-Hitting News](https://netrunnerdb.com/en/card/11016) | _Operation_ |
-| **1x** | [Preemptive Action](https://netrunnerdb.com/en/card/11080) | _Operation_ |
-| **1x** | [Market Forces](https://netrunnerdb.com/en/card/21117) | _Operation_ |
-| **1x** | [Psychographics](https://netrunnerdb.com/en/card/25118) | _Operation_ |
-| **3x** | [Hedge Fund](https://netrunnerdb.com/en/card/25146) | _Operation_ |
-| **3x** | [Mumbad Virtual Tour](https://netrunnerdb.com/en/card/10076) | _Upgrade_ |
-| **3x** | [Calibration Testing](https://netrunnerdb.com/en/card/21017) | _Upgrade_ |
+| Count  | Name                                                              | Type        |
+| :---:  | ----                                                              | ----        |
+| **3x** | [AR-Enhanced Security](https://netrunnerdb.com/en/card/12115)     | _Agenda_    |
+| **3x** | [Project Beale](https://netrunnerdb.com/en/card/25107)            | _Agenda_    |
+| **1x** | [15 Minutes](https://netrunnerdb.com/en/card/09004)               | _Agenda_    |
+| **1x** | [Quantum Predictive Model](https://netrunnerdb.com/en/card/09007) | _Agenda_    |
+| **3x** | [Global Food Initiative](https://netrunnerdb.com/en/card/09026)   | _Agenda_    |
+| **3x** | [Commercial Bankers Group](https://netrunnerdb.com/en/card/10054) | _Asset_     |
+| **3x** | [Rashida Jaheem](https://netrunnerdb.com/en/card/21080)           | _Asset_     |
+| **3x** | [Daily Business Show](https://netrunnerdb.com/en/card/25108)      | _Asset_     |
+| **3x** | [Team Sponsorship](https://netrunnerdb.com/en/card/08110)         | _Asset_     |
+| **3x** | [IP Block](https://netrunnerdb.com/en/card/11094)                 | _ICE_       |
+| **2x** | [Resistor](https://netrunnerdb.com/en/card/09015)                 | _ICE_       |
+| **1x** | [Tollbooth](https://netrunnerdb.com/en/card/25115)                | _ICE_       |
+| **3x** | [Enigma](https://netrunnerdb.com/en/card/25143)                   | _ICE_       |
+| **1x** | [Turnpike](https://netrunnerdb.com/en/card/09018)                 | _ICE_       |
+| **1x** | [Exchange of Information](https://netrunnerdb.com/en/card/10092)  | _Operation_ |
+| **3x** | [Hard-Hitting News](https://netrunnerdb.com/en/card/11016)        | _Operation_ |
+| **1x** | [Preemptive Action](https://netrunnerdb.com/en/card/11080)        | _Operation_ |
+| **1x** | [Market Forces](https://netrunnerdb.com/en/card/21117)            | _Operation_ |
+| **1x** | [Psychographics](https://netrunnerdb.com/en/card/25118)           | _Operation_ |
+| **3x** | [Hedge Fund](https://netrunnerdb.com/en/card/25146)               | _Operation_ |
+| **3x** | [Mumbad Virtual Tour](https://netrunnerdb.com/en/card/10076)      | _Upgrade_   |
+| **3x** | [Calibration Testing](https://netrunnerdb.com/en/card/21017)      | _Upgrade_   |
