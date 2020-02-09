@@ -1,27 +1,7 @@
 #!/usr/bin/env python3
-import re
-import copy
-
-
-CORPS = set(['HB', 'NBN', 'Jinteki', 'Weyland'])
-
-
-def import_txt_deck(path):
-    with open(path, 'r') as deck_file:
-        # read everything
-        text = deck_file.read()
-        # remove data pack and influence count
-        text = re.sub(r' \(.*', '', text)
-        # get the number of copies and the name of the card
-        cards = re.findall(r'^([0-9]+)x (.*?)$', text, re.MULTILINE)
-        # collect card counts in dict
-        cards = {
-            card: int(count)
-            for count, card in cards
-        }
-        # the second line is the identity
-        identity = text.splitlines()[1].strip()
-        return (identity, cards)
+import argparse
+from lib.db import DB
+from lib.deck import Deck
 
 
 def shorten_name(name):
@@ -31,63 +11,65 @@ def shorten_name(name):
     }.get(short, short)
 
 
-def card_key(a):
-    return ('Z' if a[1][1] else 'A') + a[0]
-
-
-def markdown_deck(identity, annotated):
-    # print the identity as a title
-    lines = [
-        '',
-        '## {}'.format(identity),
-        '',
-        'Total: {}'.format(sum(list(zip(*annotated.values()))[0])),
-        '',
-    ]
-    lines += [
-        '- {}x **{}**'.format(count, card)
-        + ('' if not others else ' _[{}]_'.format(', '.join([
-            '{}x {}'.format(count, shorten_name(owner))
-            for owner, count in others.items()
-        ])))
-        for card, (count, others) in sorted(annotated.items(), key=card_key)
-    ]
-    return '\n'.join(lines)
-
-
-def main(deck_paths):
-    # parse files for deck info
-    decks = dict(map(import_txt_deck, deck_paths))
+def main(deck_paths, shorten):
+    # build card db
+    db = DB()
+    # parse all decks
+    decks = list(map(Deck.from_txt_deck, deck_paths))
 
     # keep track of where every card is used
     owners = {}
-    for identity, deck in decks.items():
-        for card, count in deck.items():
-            owners.setdefault(card, {})[identity] = count
+    for deck in decks:
+        for card, count in deck.cards.items():
+            owners.setdefault(card, {})[deck.identity] = count
 
-    # merge this data with decks
-    annotated = {
-        identity: {
-            card: (count, {
-                owner: alt_count
-                for owner, alt_count in owners[card].items()
-                if owner != identity
-                if sum(owners[card].values()) > 3 # HACK
-            })
-            for card, count in deck.items()
+    # create the 'seen elsewhere' column
+    def other_owners(deck, db, card):
+        others = {
+            owner: alt_count
+            for owner, alt_count in owners[card].items()
+            if owner != deck.identity
+            if sum(owners[card].values()) > 3 # HACK
         }
-        for identity, deck in decks.items()
-    }
+        text = ', '.join([
+            '{}x {}'.format(
+                count,
+                shorten_name(identity) if shorten else identity
+            )
+            for identity, count in others.items()
+        ])
+        return {
+            'display': text,
+            'sort': text,
+        }
 
-    # print out hackers first
-    for identity, deck in annotated.items():
-        if shorten_name(identity) not in CORPS:
-            print(markdown_deck(identity, deck))
-    for identity, deck in annotated.items():
-        if shorten_name(identity) in CORPS:
-            print(markdown_deck(identity, deck))
+    for deck in decks:
+        print(deck.to_markdown(
+            db,
+            columns=[
+                ('owners', 'Used Elsewhere', other_owners),
+                ('type', 'Type', Deck.card_type),
+            ],
+            sort_by='type',
+        ))
 
 
 if __name__ == '__main__':
-    import sys
-    main(sys.argv[1:])
+    parser = argparse.ArgumentParser(
+        description='print sequantial deltas between decks'
+    )
+    parser.add_argument(
+        'decks',
+        metavar='DECK',
+        type=str,
+        nargs='+',
+        help='paths to all decklists to consider'
+    )
+    parser.add_argument(
+        '--shorten',
+        default=False,
+        action='store_true',
+        help='attempt to shorten identity names',
+    )
+    args = parser.parse_args()
+    main(args.decks, args.shorten)

@@ -26,7 +26,7 @@ def main(deck_paths, blacklist, columns):
     }
 
     # lookup identity if needed
-    def get_identity(db, card):
+    def get_identity(deck, db, card):
         return { 'display': id_lookup[card] }
 
     all_columns = {

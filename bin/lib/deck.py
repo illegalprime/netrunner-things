@@ -31,11 +31,11 @@ class Deck():
             if self.cards.get(card) != deck.cards.get(card)
         })
 
-    def card_type(db, card):
+    def card_type(deck, db, card):
         name = db.types[db.cards[card]['type_code']]['name']
         return { 'display': name, 'sort': name }
 
-    def card_cycle(db, card):
+    def card_cycle(deck, db, card):
         info = db.cards[card]
         pack = db.packs[info['pack_code']]
         cycle = db.cycles[pack['cycle_code']]
@@ -76,6 +76,7 @@ class Deck():
                 'https://netrunnerdb.com/en/card/{}'.format(db.cards[info['name']]['code']),
             ) + '|'.join([
                 ' _{}_ '.format(info[key]['display'])
+                if info[key]['display'] else ' '
                 for key, _, _ in columns
             ] + [''])
             for info in sorted([
@@ -83,7 +84,7 @@ class Deck():
                     ('count', count),
                     ('name', card),
                 ] + [
-                    (key, f(db, card))
+                    (key, f(self, db, card))
                     for key, _, f in columns
                 ])
                 for card, count in self.cards.items()
