@@ -617,3 +617,621 @@ Total: 1405
 | **3x** | [Building Blocks](https://netrunnerdb.com/en/card/22055)               | _Reign and Reverie, 55_    | _Blue Sun: Powering the Future_                       |
 | **3x** | [Too Big to Fail](https://netrunnerdb.com/en/card/22056)               | _Reign and Reverie, 56_    | _The Outfit: Family Owned and Operated_               |
 | **1x** | [Under the Bus](https://netrunnerdb.com/en/card/22057)                 | _Reign and Reverie, 57_    | _The Outfit: Family Owned and Operated_               |
+
+Total: 1405
+
+| Count  | Name                                                                   | Faction               | Type         | Identity                                               |
+| :----: | ---------------------------------------------------------------------- | --------------------- | ------------ | ------------------------------------------------------ |
+| **3x** | [Sensor Net Activation](https://netrunnerdb.com/en/card/11110)         | _Haas-Bioroid_        | _Agenda_     | _Haas-Bioroid: Architects of Tomorrow_                 |
+| **3x** | [Ikawah Project](https://netrunnerdb.com/en/card/21010)                | _Haas-Bioroid_        | _Agenda_     | _Haas-Bioroid: Architects of Tomorrow_                 |
+| **2x** | [Remote Enforcement](https://netrunnerdb.com/en/card/21091)            | _Haas-Bioroid_        | _Agenda_     | _Haas-Bioroid: Architects of Tomorrow_                 |
+| **2x** | [Sentinel Defense Program](https://netrunnerdb.com/en/card/03007)      | _Haas-Bioroid_        | _Agenda_     | _Haas-Bioroid: Architects of Tomorrow_                 |
+| **3x** | [CFC Excavation Contract](https://netrunnerdb.com/en/card/12110)       | _Haas-Bioroid_        | _Agenda_     | _Haas-Bioroid: Stronger Together_                      |
+| **2x** | [Successful Field Test](https://netrunnerdb.com/en/card/13031)         | _Haas-Bioroid_        | _Agenda_     | _Haas-Bioroid: Stronger Together_                      |
+| **2x** | [Mandatory Upgrades](https://netrunnerdb.com/en/card/02011)            | _Haas-Bioroid_        | _Agenda_     | _Haas-Bioroid: Stronger Together_                      |
+| **2x** | [Project Wotan](https://netrunnerdb.com/en/card/03006)                 | _Haas-Bioroid_        | _Agenda_     | _Haas-Bioroid: Stronger Together_                      |
+| **3x** | [Advanced Concept Hopper](https://netrunnerdb.com/en/card/10011)       | _Haas-Bioroid_        | _Agenda_     | _Sportsmetal: Go Big or Go Home_                       |
+| **3x** | [NEXT Wave 2](https://netrunnerdb.com/en/card/12009)                   | _Haas-Bioroid_        | _Agenda_     | _Sportsmetal: Go Big or Go Home_                       |
+| **2x** | [Project Vitruvius](https://netrunnerdb.com/en/card/02051)             | _Haas-Bioroid_        | _Agenda_     | _Sportsmetal: Go Big or Go Home_                       |
+| **3x** | [Hyperloop Extension](https://netrunnerdb.com/en/card/22027)           | _Haas-Bioroid_        | _Agenda_     | _Sportsmetal: Go Big or Go Home_                       |
+| **1x** | [Director Haas' Pet Project](https://netrunnerdb.com/en/card/03004)    | _Haas-Bioroid_        | _Agenda_     | _Sportsmetal: Go Big or Go Home_                       |
+| **3x** | [Domestic Sleepers](https://netrunnerdb.com/en/card/06001)             | _Haas-Bioroid_        | _Agenda_     | _Sportsmetal: Go Big or Go Home_                       |
+| **3x** | [Elective Upgrade](https://netrunnerdb.com/en/card/13030)              | _Haas-Bioroid_        | _Agenda_     | _The Foundry: Refining the Process_                    |
+| **3x** | [Efficiency Committee](https://netrunnerdb.com/en/card/03005)          | _Haas-Bioroid_        | _Agenda_     | _The Foundry: Refining the Process_                    |
+| **2x** | [Bifrost Array](https://netrunnerdb.com/en/card/06081)                 | _Haas-Bioroid_        | _Agenda_     | _The Foundry: Refining the Process_                    |
+| **3x** | [Advanced Assembly Lines](https://netrunnerdb.com/en/card/10027)       | _Haas-Bioroid_        | _Asset_      | _Haas-Bioroid: Architects of Tomorrow_                 |
+| **2x** | [Estelle Moon](https://netrunnerdb.com/en/card/13032)                  | _Haas-Bioroid_        | _Asset_      | _Haas-Bioroid: Architects of Tomorrow_                 |
+| **2x** | [Kuwinda K4H1U3](https://netrunnerdb.com/en/card/21049)                | _Haas-Bioroid_        | _Asset_      | _Haas-Bioroid: Architects of Tomorrow_                 |
+| **2x** | [Jeeves Model Bioroids](https://netrunnerdb.com/en/card/10067)         | _Haas-Bioroid_        | _Asset_      | _Haas-Bioroid: Stronger Together_                      |
+| **3x** | [Marilyn Campaign](https://netrunnerdb.com/en/card/13033)              | _Haas-Bioroid_        | _Asset_      | _Haas-Bioroid: Stronger Together_                      |
+| **3x** | [Adonis Campaign](https://netrunnerdb.com/en/card/01056)               | _Haas-Bioroid_        | _Asset_      | _Haas-Bioroid: Stronger Together_                      |
+| **3x** | [Encryption Protocol](https://netrunnerdb.com/en/card/02029)           | _Haas-Bioroid_        | _Asset_      | _Haas-Bioroid: Stronger Together_                      |
+| **3x** | [Eve Campaign](https://netrunnerdb.com/en/card/02092)                  | _Haas-Bioroid_        | _Asset_      | _Haas-Bioroid: Stronger Together_                      |
+| **2x** | [Alix T4LB07](https://netrunnerdb.com/en/card/03008)                   | _Haas-Bioroid_        | _Asset_      | _Haas-Bioroid: Stronger Together_                      |
+| **3x** | [Brain-Taping Warehouse](https://netrunnerdb.com/en/card/08010)        | _Haas-Bioroid_        | _Asset_      | _Haas-Bioroid: Stronger Together_                      |
+| **2x** | [Team Sponsorship](https://netrunnerdb.com/en/card/08110)              | _Haas-Bioroid_        | _Asset_      | _Sportsmetal: Go Big or Go Home_                       |
+| **2x** | [Cerebral Overwriter](https://netrunnerdb.com/en/card/03009)           | _Haas-Bioroid_        | _Asset_      | _The Foundry: Refining the Process_                    |
+| **2x** | [IT Department](https://netrunnerdb.com/en/card/06103)                 | _Haas-Bioroid_        | _Asset_      | _The Foundry: Refining the Process_                    |
+| **2x** | [Cybernetics Court](https://netrunnerdb.com/en/card/08109)             | _Haas-Bioroid_        | _Asset_      | _The Foundry: Refining the Process_                    |
+| **3x** | [Najja 1.0](https://netrunnerdb.com/en/card/21011)                     | _Haas-Bioroid_        | _ICE_        | _Haas-Bioroid: Architects of Tomorrow_                 |
+| **3x** | [Fairchild 1.0](https://netrunnerdb.com/en/card/11010)                 | _Haas-Bioroid_        | _ICE_        | _Haas-Bioroid: Architects of Tomorrow_                 |
+| **3x** | [Fairchild 2.0](https://netrunnerdb.com/en/card/11031)                 | _Haas-Bioroid_        | _ICE_        | _Haas-Bioroid: Architects of Tomorrow_                 |
+| **3x** | [Fairchild 3.0](https://netrunnerdb.com/en/card/11049)                 | _Haas-Bioroid_        | _ICE_        | _Haas-Bioroid: Architects of Tomorrow_                 |
+| **1x** | [Fairchild](https://netrunnerdb.com/en/card/11089)                     | _Haas-Bioroid_        | _ICE_        | _Haas-Bioroid: Architects of Tomorrow_                 |
+| **2x** | [Vikram 1.0](https://netrunnerdb.com/en/card/10012)                    | _Haas-Bioroid_        | _ICE_        | _Haas-Bioroid: Architects of Tomorrow_                 |
+| **1x** | [Zed 2.0](https://netrunnerdb.com/en/card/12010)                       | _Haas-Bioroid_        | _ICE_        | _Haas-Bioroid: Architects of Tomorrow_                 |
+| **2x** | [Kamali 1.0](https://netrunnerdb.com/en/card/21092)                    | _Haas-Bioroid_        | _ICE_        | _Haas-Bioroid: Architects of Tomorrow_                 |
+| **1x** | [Loki](https://netrunnerdb.com/en/card/12069)                          | _Haas-Bioroid_        | _ICE_        | _Haas-Bioroid: Architects of Tomorrow_                 |
+| **2x** | [Heimdall 1.0](https://netrunnerdb.com/en/card/01061)                  | _Haas-Bioroid_        | _ICE_        | _Haas-Bioroid: Stronger Together_                      |
+| **3x** | [Eli 1.0](https://netrunnerdb.com/en/card/02110)                       | _Haas-Bioroid_        | _ICE_        | _Haas-Bioroid: Stronger Together_                      |
+| **1x** | [Heimdall 2.0](https://netrunnerdb.com/en/card/03015)                  | _Haas-Bioroid_        | _ICE_        | _Haas-Bioroid: Stronger Together_                      |
+| **1x** | [Wotan](https://netrunnerdb.com/en/card/04030)                         | _Haas-Bioroid_        | _ICE_        | _Haas-Bioroid: Stronger Together_                      |
+| **3x** | [Ravana 1.0](https://netrunnerdb.com/en/card/10087)                    | _Haas-Bioroid_        | _ICE_        | _Haas-Bioroid: Stronger Together_                      |
+| **1x** | [Hudson 1.0](https://netrunnerdb.com/en/card/04051)                    | _Haas-Bioroid_        | _ICE_        | _Haas-Bioroid: Stronger Together_                      |
+| **3x** | [Viktor 1.0](https://netrunnerdb.com/en/card/01063)                    | _Haas-Bioroid_        | _ICE_        | _Haas-Bioroid: Stronger Together_                      |
+| **3x** | [Ichi 1.0](https://netrunnerdb.com/en/card/01062)                      | _Haas-Bioroid_        | _ICE_        | _Haas-Bioroid: Stronger Together_                      |
+| **1x** | [Janus 1.0](https://netrunnerdb.com/en/card/02012)                     | _Haas-Bioroid_        | _ICE_        | _Haas-Bioroid: Stronger Together_                      |
+| **3x** | [Viper](https://netrunnerdb.com/en/card/02052)                         | _Haas-Bioroid_        | _ICE_        | _NBN: Making News_                                     |
+| **3x** | [Meridian](https://netrunnerdb.com/en/card/22028)                      | _Haas-Bioroid_        | _ICE_        | _Sportsmetal: Go Big or Go Home_                       |
+| **3x** | [NEXT Silver](https://netrunnerdb.com/en/card/06002)                   | _Haas-Bioroid_        | _ICE_        | _Sportsmetal: Go Big or Go Home_                       |
+| **2x** | [NEXT Sapphire](https://netrunnerdb.com/en/card/21050)                 | _Haas-Bioroid_        | _ICE_        | _Sportsmetal: Go Big or Go Home_                       |
+| **3x** | [Gatekeeper](https://netrunnerdb.com/en/card/22029)                    | _Haas-Bioroid_        | _ICE_        | _Sportsmetal: Go Big or Go Home_                       |
+| **3x** | [NEXT Bronze](https://netrunnerdb.com/en/card/04011)                   | _Haas-Bioroid_        | _ICE_        | _Sportsmetal: Go Big or Go Home_                       |
+| **2x** | [NEXT Diamond](https://netrunnerdb.com/en/card/21112)                  | _Haas-Bioroid_        | _ICE_        | _Sportsmetal: Go Big or Go Home_                       |
+| **2x** | [NEXT Gold](https://netrunnerdb.com/en/card/08011)                     | _Haas-Bioroid_        | _ICE_        | _Sportsmetal: Go Big or Go Home_                       |
+| **2x** | [Lab Dog](https://netrunnerdb.com/en/card/08052)                       | _Haas-Bioroid_        | _ICE_        | _Sportsmetal: Go Big or Go Home_                       |
+| **3x** | [Executive Functioning](https://netrunnerdb.com/en/card/13035)         | _Haas-Bioroid_        | _ICE_        | _The Foundry: Refining the Process_                    |
+| **3x** | [IQ](https://netrunnerdb.com/en/card/06041)                            | _Haas-Bioroid_        | _ICE_        | _The Foundry: Refining the Process_                    |
+| **3x** | [Architect](https://netrunnerdb.com/en/card/06061)                     | _Haas-Bioroid_        | _ICE_        | _The Foundry: Refining the Process_                    |
+| **2x** | [Fenris](https://netrunnerdb.com/en/card/04071)                        | _Haas-Bioroid_        | _ICE_        | _The Outfit: Family Owned and Operated_                |
+| **3x** | [Successful Demonstration](https://netrunnerdb.com/en/card/03014)      | _Haas-Bioroid_        | _Operation_  | _Haas-Bioroid: Architects of Tomorrow_                 |
+| **3x** | [Peak Efficiency](https://netrunnerdb.com/en/card/06062)               | _Haas-Bioroid_        | _Operation_  | _Haas-Bioroid: Architects of Tomorrow_                 |
+| **1x** | [Bioroid Efficiency Research](https://netrunnerdb.com/en/card/03013)   | _Haas-Bioroid_        | _Operation_  | _Haas-Bioroid: Stronger Together_                      |
+| **2x** | [Kill Switch](https://netrunnerdb.com/en/card/21070)                   | _Haas-Bioroid_        | _Operation_  | _Sportsmetal: Go Big or Go Home_                       |
+| **2x** | [Divert Power](https://netrunnerdb.com/en/card/22030)                  | _Haas-Bioroid_        | _Operation_  | _Sportsmetal: Go Big or Go Home_                       |
+| **1x** | [Fast Break](https://netrunnerdb.com/en/card/22031)                    | _Haas-Bioroid_        | _Operation_  | _Sportsmetal: Go Big or Go Home_                       |
+| **3x** | [Game Changer](https://netrunnerdb.com/en/card/22032)                  | _Haas-Bioroid_        | _Operation_  | _Sportsmetal: Go Big or Go Home_                       |
+| **2x** | [Violet Level Clearance](https://netrunnerdb.com/en/card/11111)        | _Haas-Bioroid_        | _Operation_  | _The Foundry: Refining the Process_                    |
+| **2x** | [Ultraviolet Clearance](https://netrunnerdb.com/en/card/13038)         | _Haas-Bioroid_        | _Operation_  | _The Foundry: Refining the Process_                    |
+| **3x** | [Green Level Clearance](https://netrunnerdb.com/en/card/02070)         | _Haas-Bioroid_        | _Operation_  | _The Foundry: Refining the Process_                    |
+| **2x** | [Blue Level Clearance](https://netrunnerdb.com/en/card/04090)          | _Haas-Bioroid_        | _Operation_  | _The Foundry: Refining the Process_                    |
+| **2x** | [Manta Grid](https://netrunnerdb.com/en/card/11091)                    | _Haas-Bioroid_        | _Upgrade_    | _Haas-Bioroid: Architects of Tomorrow_                 |
+| **2x** | [Mason Bellamy](https://netrunnerdb.com/en/card/13040)                 | _Haas-Bioroid_        | _Upgrade_    | _Haas-Bioroid: Architects of Tomorrow_                 |
+| **3x** | [Ryon Knight](https://netrunnerdb.com/en/card/08054)                   | _Haas-Bioroid_        | _Upgrade_    | _Haas-Bioroid: Architects of Tomorrow_                 |
+| **2x** | [Ash 2X3ZB9CY](https://netrunnerdb.com/en/card/02013)                  | _Haas-Bioroid_        | _Upgrade_    | _Haas-Bioroid: Stronger Together_                      |
+| **2x** | [Giordano Memorial Field](https://netrunnerdb.com/en/card/22033)       | _Haas-Bioroid_        | _Upgrade_    | _Sportsmetal: Go Big or Go Home_                       |
+| **2x** | [Black Level Clearance](https://netrunnerdb.com/en/card/13039)         | _Haas-Bioroid_        | _Upgrade_    | _The Foundry: Refining the Process_                    |
+| **3x** | [Braintrust](https://netrunnerdb.com/en/card/02014)                    | _Jinteki_             | _Agenda_     | _Jinteki Biotech: Life Imagined_                       |
+| **3x** | [Nisei MK II](https://netrunnerdb.com/en/card/01068)                   | _Jinteki_             | _Agenda_     | _Jinteki Biotech: Life Imagined_                       |
+| **3x** | [Medical Breakthrough](https://netrunnerdb.com/en/card/05005)          | _Jinteki_             | _Agenda_     | _Jinteki Biotech: Life Imagined_                       |
+| **2x** | [Genetic Resequencing](https://netrunnerdb.com/en/card/08013)          | _Jinteki_             | _Agenda_     | _Jinteki Biotech: Life Imagined_                       |
+| **3x** | [Dedicated Neural Net](https://netrunnerdb.com/en/card/10088)          | _Jinteki_             | _Agenda_     | _Nisei Division: The Next Generation_                  |
+| **3x** | [Fetal AI](https://netrunnerdb.com/en/card/02032)                      | _Jinteki_             | _Agenda_     | _Nisei Division: The Next Generation_                  |
+| **2x** | [House of Knives](https://netrunnerdb.com/en/card/05004)               | _Jinteki_             | _Agenda_     | _Nisei Division: The Next Generation_                  |
+| **3x** | [The Future Perfect](https://netrunnerdb.com/en/card/05007)            | _Jinteki_             | _Agenda_     | _Nisei Division: The Next Generation_                  |
+| **3x** | [Improved Protein Source](https://netrunnerdb.com/en/card/10105)       | _Jinteki_             | _Agenda_     | _Pālanā Foods: Sustainable Growth_                     |
+| **3x** | [Mandatory Seed Replacement](https://netrunnerdb.com/en/card/12092)    | _Jinteki_             | _Agenda_     | _Pālanā Foods: Sustainable Growth_                     |
+| **1x** | [Philotic Entanglement](https://netrunnerdb.com/en/card/05006)         | _Jinteki_             | _Agenda_     | _Pālanā Foods: Sustainable Growth_                     |
+| **3x** | [Encrypted Portals](https://netrunnerdb.com/en/card/06024)             | _Jinteki_             | _Agenda_     | _Pālanā Foods: Sustainable Growth_                     |
+| **2x** | [Obokata Protocol](https://netrunnerdb.com/en/card/12070)              | _Jinteki_             | _Agenda_     | _Saraswati Mnemonics: Endless Exploration_             |
+| **2x** | [Viral Weaponization](https://netrunnerdb.com/en/card/21094)           | _Jinteki_             | _Agenda_     | _Saraswati Mnemonics: Endless Exploration_             |
+| **2x** | [Jumon](https://netrunnerdb.com/en/card/22035)                         | _Jinteki_             | _Agenda_     | _Saraswati Mnemonics: Endless Exploration_             |
+| **2x** | [Labyrinthine Servers](https://netrunnerdb.com/en/card/06063)          | _Jinteki_             | _Agenda_     | _Saraswati Mnemonics: Endless Exploration_             |
+| **3x** | [Bio-Ethics Association](https://netrunnerdb.com/en/card/10050)        | _Jinteki_             | _Asset_      | _Jinteki Biotech: Life Imagined_                       |
+| **3x** | [Shock!](https://netrunnerdb.com/en/card/04073)                        | _Jinteki_             | _Asset_      | _Jinteki Biotech: Life Imagined_                       |
+| **3x** | [Hostile Infrastructure](https://netrunnerdb.com/en/card/06083)        | _Jinteki_             | _Asset_      | _Jinteki Biotech: Life Imagined_                       |
+| **2x** | [Genetics Pavilion](https://netrunnerdb.com/en/card/08113)             | _Jinteki_             | _Asset_      | _Jinteki Biotech: Life Imagined_                       |
+| **2x** | [Hyoubu Research Facility](https://netrunnerdb.com/en/card/11012)      | _Jinteki_             | _Asset_      | _Nisei Division: The Next Generation_                  |
+| **3x** | [Breached Dome](https://netrunnerdb.com/en/card/12113)                 | _Jinteki_             | _Asset_      | _Nisei Division: The Next Generation_                  |
+| **3x** | [Snare!](https://netrunnerdb.com/en/card/01070)                        | _Jinteki_             | _Asset_      | _Nisei Division: The Next Generation_                  |
+| **3x** | [Mental Health Clinic](https://netrunnerdb.com/en/card/05009)          | _Jinteki_             | _Asset_      | _Nisei Division: The Next Generation_                  |
+| **3x** | [Turtlebacks](https://netrunnerdb.com/en/card/06106)                   | _Jinteki_             | _Asset_      | _Nisei Division: The Next Generation_                  |
+| **3x** | [Pālanā Agroplex](https://netrunnerdb.com/en/card/10031)               | _Jinteki_             | _Asset_      | _Pālanā Foods: Sustainable Growth_                     |
+| **2x** | [Synth DNA Modification](https://netrunnerdb.com/en/card/12012)        | _Jinteki_             | _Asset_      | _Pālanā Foods: Sustainable Growth_                     |
+| **3x** | [Psychic Field](https://netrunnerdb.com/en/card/05010)                 | _Jinteki_             | _Asset_      | _Pālanā Foods: Sustainable Growth_                     |
+| **2x** | [Project Junebug](https://netrunnerdb.com/en/card/01069)               | _Jinteki_             | _Asset_      | _Saraswati Mnemonics: Endless Exploration_             |
+| **3x** | [Ronin](https://netrunnerdb.com/en/card/02112)                         | _Jinteki_             | _Asset_      | _Saraswati Mnemonics: Endless Exploration_             |
+| **3x** | [Gene Splicer](https://netrunnerdb.com/en/card/21012)                  | _Jinteki_             | _Asset_      | _Saraswati Mnemonics: Endless Exploration_             |
+| **3x** | [API-S Keeper Isobel](https://netrunnerdb.com/en/card/22036)           | _Jinteki_             | _Asset_      | _Saraswati Mnemonics: Endless Exploration_             |
+| **2x** | [Neurostasis](https://netrunnerdb.com/en/card/22037)                   | _Jinteki_             | _Asset_      | _Saraswati Mnemonics: Endless Exploration_             |
+| **3x** | [Shi.Kyū](https://netrunnerdb.com/en/card/05011)                       | _Jinteki_             | _Asset_      | _Saraswati Mnemonics: Endless Exploration_             |
+| **2x** | [Chiyashi](https://netrunnerdb.com/en/card/11112)                      | _Jinteki_             | _ICE_        | _Jinteki Biotech: Life Imagined_                       |
+| **2x** | [Kakugo](https://netrunnerdb.com/en/card/12013)                        | _Jinteki_             | _ICE_        | _Jinteki Biotech: Life Imagined_                       |
+| **2x** | [Mirāju](https://netrunnerdb.com/en/card/12071)                        | _Jinteki_             | _ICE_        | _Jinteki Biotech: Life Imagined_                       |
+| **2x** | [Lockdown](https://netrunnerdb.com/en/card/08056)                      | _Jinteki_             | _ICE_        | _Jinteki Biotech: Life Imagined_                       |
+| **2x** | [Anansi](https://netrunnerdb.com/en/card/21051)                        | _Jinteki_             | _ICE_        | _Jinteki Biotech: Life Imagined_                       |
+| **2x** | [Komainu](https://netrunnerdb.com/en/card/05017)                       | _Jinteki_             | _ICE_        | _Jinteki Biotech: Life Imagined_                       |
+| **3x** | [Snowflake](https://netrunnerdb.com/en/card/02015)                     | _Jinteki_             | _ICE_        | _Nisei Division: The Next Generation_                  |
+| **3x** | [Upayoga](https://netrunnerdb.com/en/card/10069)                       | _Jinteki_             | _ICE_        | _Nisei Division: The Next Generation_                  |
+| **2x** | [Clairvoyant Monitor](https://netrunnerdb.com/en/card/08055)           | _Jinteki_             | _ICE_        | _Nisei Division: The Next Generation_                  |
+| **2x** | [Chetana](https://netrunnerdb.com/en/card/10089)                       | _Jinteki_             | _ICE_        | _Nisei Division: The Next Generation_                  |
+| **2x** | [Mamba](https://netrunnerdb.com/en/card/06065)                         | _Jinteki_             | _ICE_        | _Nisei Division: The Next Generation_                  |
+| **3x** | [Mganga](https://netrunnerdb.com/en/card/21013)                        | _Jinteki_             | _ICE_        | _Nisei Division: The Next Generation_                  |
+| **2x** | [Envelope](https://netrunnerdb.com/en/card/21095)                      | _Jinteki_             | _ICE_        | _Pālanā Foods: Sustainable Growth_                     |
+| **2x** | [Harvester](https://netrunnerdb.com/en/card/10032)                     | _Jinteki_             | _ICE_        | _Pālanā Foods: Sustainable Growth_                     |
+| **2x** | [Aiki](https://netrunnerdb.com/en/card/11032)                          | _Jinteki_             | _ICE_        | _Pālanā Foods: Sustainable Growth_                     |
+| **3x** | [DNA Tracker](https://netrunnerdb.com/en/card/11053)                   | _Jinteki_             | _ICE_        | _Pālanā Foods: Sustainable Growth_                     |
+| **2x** | [Mind Game](https://netrunnerdb.com/en/card/11092)                     | _Jinteki_             | _ICE_        | _Pālanā Foods: Sustainable Growth_                     |
+| **2x** | [Bloom](https://netrunnerdb.com/en/card/12032)                         | _Jinteki_             | _ICE_        | _Pālanā Foods: Sustainable Growth_                     |
+| **3x** | [Yagura](https://netrunnerdb.com/en/card/04093)                        | _Jinteki_             | _ICE_        | _Pālanā Foods: Sustainable Growth_                     |
+| **2x** | [Chum](https://netrunnerdb.com/en/card/01075)                          | _Jinteki_             | _ICE_        | _Pālanā Foods: Sustainable Growth_                     |
+| **1x** | [Crick](https://netrunnerdb.com/en/card/08034)                         | _Jinteki_             | _ICE_        | _Pālanā Foods: Sustainable Growth_                     |
+| **2x** | [Cortex Lock](https://netrunnerdb.com/en/card/08014)                   | _Jinteki_             | _ICE_        | _Pālanā Foods: Sustainable Growth_                     |
+| **2x** | [Himitsu-Bako](https://netrunnerdb.com/en/card/04013)                  | _Jinteki_             | _ICE_        | _Saraswati Mnemonics: Endless Exploration_             |
+| **2x** | [Thimblerig](https://netrunnerdb.com/en/card/22039)                    | _Jinteki_             | _ICE_        | _Saraswati Mnemonics: Endless Exploration_             |
+| **2x** | [Chrysalis](https://netrunnerdb.com/en/card/11013)                     | _Jinteki_             | _ICE_        | _Saraswati Mnemonics: Endless Exploration_             |
+| **2x** | [Otoroshi](https://netrunnerdb.com/en/card/22038)                      | _Jinteki_             | _ICE_        | _Saraswati Mnemonics: Endless Exploration_             |
+| **2x** | [Sand Storm](https://netrunnerdb.com/en/card/12114)                    | _Jinteki_             | _ICE_        | _Saraswati Mnemonics: Endless Exploration_             |
+| **2x** | ["Clones are not People"](https://netrunnerdb.com/en/card/10052)       | _Jinteki_             | _Operation_  | _Jinteki Biotech: Life Imagined_                       |
+| **3x** | [Celebrity Gift](https://netrunnerdb.com/en/card/04012)                | _Jinteki_             | _Operation_  | _Jinteki Biotech: Life Imagined_                       |
+| **2x** | [Genotyping](https://netrunnerdb.com/en/card/21014)                    | _Jinteki_             | _Operation_  | _Jinteki Biotech: Life Imagined_                       |
+| **2x** | [Voter Intimidation](https://netrunnerdb.com/en/card/10106)            | _Jinteki_             | _Operation_  | _Nisei Division: The Next Generation_                  |
+| **2x** | [Neural EMP](https://netrunnerdb.com/en/card/01072)                    | _Jinteki_             | _Operation_  | _Nisei Division: The Next Generation_                  |
+| **2x** | [Replanting](https://netrunnerdb.com/en/card/12033)                    | _Jinteki_             | _Operation_  | _Pālanā Foods: Sustainable Growth_                     |
+| **2x** | [Shipment from Tennin](https://netrunnerdb.com/en/card/12072)          | _Jinteki_             | _Operation_  | _Pālanā Foods: Sustainable Growth_                     |
+| **3x** | [Trick of Light](https://netrunnerdb.com/en/card/02033)                | _Jinteki_             | _Operation_  | _Saraswati Mnemonics: Endless Exploration_             |
+| **2x** | [Hangeki](https://netrunnerdb.com/en/card/22040)                       | _Jinteki_             | _Operation_  | _Saraswati Mnemonics: Endless Exploration_             |
+| **3x** | [Medical Research Fundraiser](https://netrunnerdb.com/en/card/05014)   | _Jinteki_             | _Operation_  | _Saraswati Mnemonics: Endless Exploration_             |
+| **3x** | [Hokusai Grid](https://netrunnerdb.com/en/card/02095)                  | _Jinteki_             | _Upgrade_    | _Jinteki Biotech: Life Imagined_                       |
+| **2x** | [Tori Hanzō](https://netrunnerdb.com/en/card/05022)                    | _Jinteki_             | _Upgrade_    | _Jinteki Biotech: Life Imagined_                       |
+| **2x** | [Ben Musashi](https://netrunnerdb.com/en/card/12054)                   | _Jinteki_             | _Upgrade_    | _Nisei Division: The Next Generation_                  |
+| **3x** | [Mwanza City Grid](https://netrunnerdb.com/en/card/21096)              | _Jinteki_             | _Upgrade_    | _Nisei Division: The Next Generation_                  |
+| **2x** | [Valley Grid](https://netrunnerdb.com/en/card/08015)                   | _Jinteki_             | _Upgrade_    | _Pālanā Foods: Sustainable Growth_                     |
+| **2x** | [Bio Vault](https://netrunnerdb.com/en/card/21072)                     | _Jinteki_             | _Upgrade_    | _Saraswati Mnemonics: Endless Exploration_             |
+| **2x** | [Daruma](https://netrunnerdb.com/en/card/22041)                        | _Jinteki_             | _Upgrade_    | _Saraswati Mnemonics: Endless Exploration_             |
+| **3x** | [NeoTokyo Grid](https://netrunnerdb.com/en/card/05021)                 | _Jinteki_             | _Upgrade_    | _Saraswati Mnemonics: Endless Exploration_             |
+| **3x** | [Puppet Master](https://netrunnerdb.com/en/card/10090)                 | _NBN_                 | _Agenda_     | _Acme Consulting: The Truth You Need_                  |
+| **2x** | [Escalate Vitriol](https://netrunnerdb.com/en/card/12073)              | _NBN_                 | _Agenda_     | _Acme Consulting: The Truth You Need_                  |
+| **2x** | [Better Citizen Program](https://netrunnerdb.com/en/card/21116)        | _NBN_                 | _Agenda_     | _Acme Consulting: The Truth You Need_                  |
+| **3x** | [Fly on the Wall](https://netrunnerdb.com/en/card/22043)               | _NBN_                 | _Agenda_     | _Acme Consulting: The Truth You Need_                  |
+| **2x** | [Net Quarantine](https://netrunnerdb.com/en/card/11114)                | _NBN_                 | _Agenda_     | _NBN: Making News_                                     |
+| **3x** | [Degree Mill](https://netrunnerdb.com/en/card/21055)                   | _NBN_                 | _Agenda_     | _NBN: Making News_                                     |
+| **3x** | [Improved Tracers](https://netrunnerdb.com/en/card/09005)              | _NBN_                 | _Agenda_     | _NBN: Making News_                                     |
+| **2x** | [Reeducation](https://netrunnerdb.com/en/card/12074)                   | _NBN_                 | _Agenda_     | _Spark Agency: Worldswide Reach_                       |
+| **2x** | [License Acquisition](https://netrunnerdb.com/en/card/06085)           | _NBN_                 | _Agenda_     | _Spark Agency: Worldswide Reach_                       |
+| **3x** | [Explode-a-palooza](https://netrunnerdb.com/en/card/08094)             | _NBN_                 | _Agenda_     | _Spark Agency: Worldswide Reach_                       |
+| **3x** | [Rebranding Team](https://netrunnerdb.com/en/card/09006)               | _NBN_                 | _Agenda_     | _Spark Agency: Worldswide Reach_                       |
+| **2x** | [Watchdog](https://netrunnerdb.com/en/card/11015)                      | _NBN_                 | _Asset_      | _Acme Consulting: The Truth You Need_                  |
+| **3x** | [Ghost Branch](https://netrunnerdb.com/en/card/01087)                  | _NBN_                 | _Asset_      | _Acme Consulting: The Truth You Need_                  |
+| **3x** | [Personalized Portal](https://netrunnerdb.com/en/card/21056)           | _NBN_                 | _Asset_      | _Acme Consulting: The Truth You Need_                  |
+| **2x** | [Kala Ghoda Real TV](https://netrunnerdb.com/en/card/10015)            | _NBN_                 | _Asset_      | _NBN: Making News_                                     |
+| **3x** | [Aryabhata Tech](https://netrunnerdb.com/en/card/10070)                | _NBN_                 | _Asset_      | _NBN: Making News_                                     |
+| **2x** | [Amani Senai](https://netrunnerdb.com/en/card/21076)                   | _NBN_                 | _Asset_      | _NBN: Making News_                                     |
+| **2x** | [Ibrahim Salem](https://netrunnerdb.com/en/card/10109)                 | _NBN_                 | _Asset_      | _Spark Agency: Worldswide Reach_                       |
+| **3x** | [CPC Generator](https://netrunnerdb.com/en/card/12034)                 | _NBN_                 | _Asset_      | _Spark Agency: Worldswide Reach_                       |
+| **2x** | [Franchise City](https://netrunnerdb.com/en/card/08114)                | _NBN_                 | _Asset_      | _Spark Agency: Worldswide Reach_                       |
+| **3x** | [Data Ward](https://netrunnerdb.com/en/card/11075)                     | _NBN_                 | _ICE_        | _Acme Consulting: The Truth You Need_                  |
+| **3x** | [Pachinko](https://netrunnerdb.com/en/card/08076)                      | _NBN_                 | _ICE_        | _Acme Consulting: The Truth You Need_                  |
+| **3x** | [Authenticator](https://netrunnerdb.com/en/card/12055)                 | _NBN_                 | _ICE_        | _Acme Consulting: The Truth You Need_                  |
+| **2x** | [Peeping Tom](https://netrunnerdb.com/en/card/22045)                   | _NBN_                 | _ICE_        | _Acme Consulting: The Truth You Need_                  |
+| **2x** | [Data Raven](https://netrunnerdb.com/en/card/01088)                    | _NBN_                 | _ICE_        | _Acme Consulting: The Truth You Need_                  |
+| **3x** | [Hydra](https://netrunnerdb.com/en/card/22046)                         | _NBN_                 | _ICE_        | _Acme Consulting: The Truth You Need_                  |
+| **2x** | [Universal Connectivity Fee](https://netrunnerdb.com/en/card/06067)    | _NBN_                 | _ICE_        | _Acme Consulting: The Truth You Need_                  |
+| **3x** | [TMI](https://netrunnerdb.com/en/card/02017)                           | _NBN_                 | _ICE_        | _NBN: Making News_                                     |
+| **2x** | [Waiver](https://netrunnerdb.com/en/card/10091)                        | _NBN_                 | _ICE_        | _NBN: Making News_                                     |
+| **2x** | [Archangel](https://netrunnerdb.com/en/card/09013)                     | _NBN_                 | _ICE_        | _NBN: Making News_                                     |
+| **1x** | [Flare](https://netrunnerdb.com/en/card/02117)                         | _NBN_                 | _ICE_        | _NBN: Making News_                                     |
+| **3x** | [News Hound](https://netrunnerdb.com/en/card/09014)                    | _NBN_                 | _ICE_        | _NBN: Making News_                                     |
+| **1x** | [Interrupt 0](https://netrunnerdb.com/en/card/10016)                   | _NBN_                 | _ICE_        | _Pālanā Foods: Sustainable Growth_                     |
+| **2x** | [Endless EULA](https://netrunnerdb.com/en/card/21074)                  | _NBN_                 | _ICE_        | _Spark Agency: Worldswide Reach_                       |
+| **2x** | [Wraparound](https://netrunnerdb.com/en/card/04096)                    | _NBN_                 | _ICE_        | _Spark Agency: Worldswide Reach_                       |
+| **2x** | [Free Lunch](https://netrunnerdb.com/en/card/12035)                    | _NBN_                 | _ICE_        | _Spark Agency: Worldswide Reach_                       |
+| **3x** | [Pop-up Window](https://netrunnerdb.com/en/card/02056)                 | _NBN_                 | _ICE_        | _Spark Agency: Worldswide Reach_                       |
+| **2x** | [Tollbooth](https://netrunnerdb.com/en/card/01090)                     | _NBN_                 | _ICE_        | _Spark Agency: Worldswide Reach_                       |
+| **2x** | [Jua](https://netrunnerdb.com/en/card/21034)                           | _NBN_                 | _ICE_        | _Spark Agency: Worldswide Reach_                       |
+| **3x** | [Special Offer](https://netrunnerdb.com/en/card/09016)                 | _NBN_                 | _ICE_        | _Spark Agency: Worldswide Reach_                       |
+| **2x** | [Self-Growth Program](https://netrunnerdb.com/en/card/21016)           | _NBN_                 | _Operation_  | _Acme Consulting: The Truth You Need_                  |
+| **2x** | [Attitude Adjustment](https://netrunnerdb.com/en/card/22048)           | _NBN_                 | _Operation_  | _Acme Consulting: The Truth You Need_                  |
+| **3x** | [Sweeps Week](https://netrunnerdb.com/en/card/04076)                   | _NBN_                 | _Operation_  | _Acme Consulting: The Truth You Need_                  |
+| **2x** | [Shoot the Moon](https://netrunnerdb.com/en/card/06107)                | _NBN_                 | _Operation_  | _Acme Consulting: The Truth You Need_                  |
+| **2x** | [Hatchet Job](https://netrunnerdb.com/en/card/11034)                   | _NBN_                 | _Operation_  | _NBN: Making News_                                     |
+| **2x** | [Biased Reporting](https://netrunnerdb.com/en/card/12096)              | _NBN_                 | _Operation_  | _NBN: Making News_                                     |
+| **2x** | [Standard Procedure](https://netrunnerdb.com/en/card/21097)            | _NBN_                 | _Operation_  | _NBN: Making News_                                     |
+| **3x** | [Targeted Marketing](https://netrunnerdb.com/en/card/06026)            | _NBN_                 | _Operation_  | _NBN: Making News_                                     |
+| **2x** | [Ad Blitz](https://netrunnerdb.com/en/card/09020)                      | _NBN_                 | _Operation_  | _Spark Agency: Worldswide Reach_                       |
+| **1x** | [Media Blitz](https://netrunnerdb.com/en/card/09021)                   | _NBN_                 | _Operation_  | _Spark Agency: Worldswide Reach_                       |
+| **2x** | [Henry Phillips](https://netrunnerdb.com/en/card/12056)                | _NBN_                 | _Upgrade_    | _Acme Consulting: The Truth You Need_                  |
+| **2x** | [Bernice Mai](https://netrunnerdb.com/en/card/02097)                   | _NBN_                 | _Upgrade_    | _Acme Consulting: The Truth You Need_                  |
+| **2x** | [Intake](https://netrunnerdb.com/en/card/21098)                        | _NBN_                 | _Upgrade_    | _NBN: Making News_                                     |
+| **3x** | [Rutherford Grid](https://netrunnerdb.com/en/card/09025)               | _NBN_                 | _Upgrade_    | _NBN: Making News_                                     |
+| **3x** | [Product Placement](https://netrunnerdb.com/en/card/08115)             | _NBN_                 | _Upgrade_    | _Spark Agency: Worldswide Reach_                       |
+| **2x** | [Midway Station Grid](https://netrunnerdb.com/en/card/06007)           | _NBN_                 | _Upgrade_    | _Spark Agency: Worldswide Reach_                       |
+| **2x** | [Armored Servers](https://netrunnerdb.com/en/card/13042)               | _Weyland Consortium_  | _Agenda_     | _Blue Sun: Powering the Future_                        |
+| **3x** | [Graft](https://netrunnerdb.com/en/card/13044)                         | _Weyland Consortium_  | _Agenda_     | _Blue Sun: Powering the Future_                        |
+| **3x** | [Superior Cyberwalls](https://netrunnerdb.com/en/card/06087)           | _Weyland Consortium_  | _Agenda_     | _Blue Sun: Powering the Future_                        |
+| **2x** | [Helium-3 Deposit](https://netrunnerdb.com/en/card/06101)              | _Weyland Consortium_  | _Agenda_     | _Blue Sun: Powering the Future_                        |
+| **1x** | [New Construction](https://netrunnerdb.com/en/card/10035)              | _Weyland Consortium_  | _Agenda_     | _Jemison Astronautics: Sacrifice. Audacity. Success._  |
+| **3x** | [Standoff](https://netrunnerdb.com/en/card/12077)                      | _Weyland Consortium_  | _Agenda_     | _Jemison Astronautics: Sacrifice. Audacity. Success._  |
+| **3x** | [Firmware Updates](https://netrunnerdb.com/en/card/07004)              | _Weyland Consortium_  | _Agenda_     | _Jemison Astronautics: Sacrifice. Audacity. Success._  |
+| **3x** | [Oaktown Renovation](https://netrunnerdb.com/en/card/08058)            | _Weyland Consortium_  | _Agenda_     | _Jemison Astronautics: Sacrifice. Audacity. Success._  |
+| **3x** | [Hollywood Renovation](https://netrunnerdb.com/en/card/08098)          | _Weyland Consortium_  | _Agenda_     | _Jemison Astronautics: Sacrifice. Audacity. Success._  |
+| **2x** | [Hostile Takeover](https://netrunnerdb.com/en/card/01094)              | _Weyland Consortium_  | _Agenda_     | _The Outfit: Family Owned and Operated_                |
+| **3x** | [Broad Daylight](https://netrunnerdb.com/en/card/22051)                | _Weyland Consortium_  | _Agenda_     | _The Outfit: Family Owned and Operated_                |
+| **1x** | [Government Takeover](https://netrunnerdb.com/en/card/07006)           | _Weyland Consortium_  | _Agenda_     | _The Outfit: Family Owned and Operated_                |
+| **3x** | [Crisis Management](https://netrunnerdb.com/en/card/11018)             | _Weyland Consortium_  | _Agenda_     | _Weyland Consortium: Builder of Nations_               |
+| **3x** | [The Cleaners](https://netrunnerdb.com/en/card/04036)                  | _Weyland Consortium_  | _Agenda_     | _Weyland Consortium: Builder of Nations_               |
+| **3x** | [Armed Intimidation](https://netrunnerdb.com/en/card/21057)            | _Weyland Consortium_  | _Agenda_     | _Weyland Consortium: Builder of Nations_               |
+| **2x** | [Chief Slee](https://netrunnerdb.com/en/card/11077)                    | _Weyland Consortium_  | _Asset_      | _Blue Sun: Powering the Future_                        |
+| **2x** | [The Root](https://netrunnerdb.com/en/card/06008)                      | _Weyland Consortium_  | _Asset_      | _Blue Sun: Powering the Future_                        |
+| **3x** | [Executive Boot Camp](https://netrunnerdb.com/en/card/06088)           | _Weyland Consortium_  | _Asset_      | _Blue Sun: Powering the Future_                        |
+| **1x** | [The Board](https://netrunnerdb.com/en/card/07011)                     | _Weyland Consortium_  | _Asset_      | _Blue Sun: Powering the Future_                        |
+| **2x** | [Contract Killer](https://netrunnerdb.com/en/card/08078)               | _Weyland Consortium_  | _Asset_      | _Blue Sun: Powering the Future_                        |
+| **1x** | [Quarantine System](https://netrunnerdb.com/en/card/12017)             | _Weyland Consortium_  | _Asset_      | _Jemison Astronautics: Sacrifice. Audacity. Success._  |
+| **2x** | [Constellation Protocol](https://netrunnerdb.com/en/card/07008)        | _Weyland Consortium_  | _Asset_      | _Jemison Astronautics: Sacrifice. Audacity. Success._  |
+| **3x** | [Space Camp](https://netrunnerdb.com/en/card/07010)                    | _Weyland Consortium_  | _Asset_      | _Jemison Astronautics: Sacrifice. Audacity. Success._  |
+| **3x** | [Illegal Arms Factory](https://netrunnerdb.com/en/card/13045)          | _Weyland Consortium_  | _Asset_      | _The Outfit: Family Owned and Operated_                |
+| **2x** | [Dedicated Response Team](https://netrunnerdb.com/en/card/02118)       | _Weyland Consortium_  | _Asset_      | _The Outfit: Family Owned and Operated_                |
+| **1x** | [False Flag](https://netrunnerdb.com/en/card/21120)                    | _Weyland Consortium_  | _Asset_      | _The Outfit: Family Owned and Operated_                |
+| **2x** | [Drudge Work](https://netrunnerdb.com/en/card/22052)                   | _Weyland Consortium_  | _Asset_      | _The Outfit: Family Owned and Operated_                |
+| **2x** | [C.I. Fund](https://netrunnerdb.com/en/card/11036)                     | _Weyland Consortium_  | _Asset_      | _Weyland Consortium: Builder of Nations_               |
+| **2x** | [Anson Rose](https://netrunnerdb.com/en/card/11096)                    | _Weyland Consortium_  | _Asset_      | _Weyland Consortium: Builder of Nations_               |
+| **2x** | [Mr. Stone](https://netrunnerdb.com/en/card/13046)                     | _Weyland Consortium_  | _Asset_      | _Weyland Consortium: Builder of Nations_               |
+| **2x** | [Tithonium](https://netrunnerdb.com/en/card/12098)                     | _Weyland Consortium_  | _ICE_        | _Blue Sun: Powering the Future_                        |
+| **2x** | [Hive](https://netrunnerdb.com/en/card/04117)                          | _Weyland Consortium_  | _ICE_        | _Blue Sun: Powering the Future_                        |
+| **3x** | [Curtain Wall](https://netrunnerdb.com/en/card/04078)                  | _Weyland Consortium_  | _ICE_        | _Blue Sun: Powering the Future_                        |
+| **2x** | [Meru Mati](https://netrunnerdb.com/en/card/08039)                     | _Weyland Consortium_  | _ICE_        | _Blue Sun: Powering the Future_                        |
+| **3x** | [Spiderweb](https://netrunnerdb.com/en/card/08079)                     | _Weyland Consortium_  | _ICE_        | _Blue Sun: Powering the Future_                        |
+| **2x** | [Errand Boy](https://netrunnerdb.com/en/card/06102)                    | _Weyland Consortium_  | _ICE_        | _Blue Sun: Powering the Future_                        |
+| **3x** | [Asteroid Belt](https://netrunnerdb.com/en/card/07012)                 | _Weyland Consortium_  | _ICE_        | _Jemison Astronautics: Sacrifice. Audacity. Success._  |
+| **2x** | [Fire Wall](https://netrunnerdb.com/en/card/07018)                     | _Weyland Consortium_  | _ICE_        | _Jemison Astronautics: Sacrifice. Audacity. Success._  |
+| **3x** | [Wormhole](https://netrunnerdb.com/en/card/07013)                      | _Weyland Consortium_  | _ICE_        | _Jemison Astronautics: Sacrifice. Audacity. Success._  |
+| **1x** | [Builder](https://netrunnerdb.com/en/card/07016)                       | _Weyland Consortium_  | _ICE_        | _Jemison Astronautics: Sacrifice. Audacity. Success._  |
+| **2x** | [Archer](https://netrunnerdb.com/en/card/01101)                        | _Weyland Consortium_  | _ICE_        | _Jemison Astronautics: Sacrifice. Audacity. Success._  |
+| **1x** | [Swarm](https://netrunnerdb.com/en/card/04018)                         | _Weyland Consortium_  | _ICE_        | _Jemison Astronautics: Sacrifice. Audacity. Success._  |
+| **2x** | [Nebula](https://netrunnerdb.com/en/card/07014)                        | _Weyland Consortium_  | _ICE_        | _Jemison Astronautics: Sacrifice. Audacity. Success._  |
+| **1x** | [Orion](https://netrunnerdb.com/en/card/07015)                         | _Weyland Consortium_  | _ICE_        | _Jemison Astronautics: Sacrifice. Audacity. Success._  |
+| **3x** | [Caduceus](https://netrunnerdb.com/en/card/02019)                      | _Weyland Consortium_  | _ICE_        | _NBN: Making News_                                     |
+| **1x** | [Red Tape](https://netrunnerdb.com/en/card/10093)                      | _Weyland Consortium_  | _ICE_        | _Pālanā Foods: Sustainable Growth_                     |
+| **3x** | [Bulwark](https://netrunnerdb.com/en/card/11078)                       | _Weyland Consortium_  | _ICE_        | _The Outfit: Family Owned and Operated_                |
+| **2x** | [Hadrian's Wall](https://netrunnerdb.com/en/card/01102)                | _Weyland Consortium_  | _ICE_        | _The Outfit: Family Owned and Operated_                |
+| **2x** | [Watchtower](https://netrunnerdb.com/en/card/12038)                    | _Weyland Consortium_  | _ICE_        | _The Outfit: Family Owned and Operated_                |
+| **3x** | [Ireress](https://netrunnerdb.com/en/card/04057)                       | _Weyland Consortium_  | _ICE_        | _The Outfit: Family Owned and Operated_                |
+| **3x** | [Checkpoint](https://netrunnerdb.com/en/card/07017)                    | _Weyland Consortium_  | _ICE_        | _The Outfit: Family Owned and Operated_                |
+| **3x** | [Ice Wall](https://netrunnerdb.com/en/card/01103)                      | _Weyland Consortium_  | _ICE_        | _Weyland Consortium: Builder of Nations_               |
+| **3x** | [Masvingo](https://netrunnerdb.com/en/card/21099)                      | _Weyland Consortium_  | _ICE_        | _Weyland Consortium: Builder of Nations_               |
+| **2x** | [Mausolus](https://netrunnerdb.com/en/card/11097)                      | _Weyland Consortium_  | _ICE_        | _Weyland Consortium: Builder of Nations_               |
+| **2x** | [Hortum](https://netrunnerdb.com/en/card/13050)                        | _Weyland Consortium_  | _ICE_        | _Weyland Consortium: Builder of Nations_               |
+| **1x** | [Oduduwa](https://netrunnerdb.com/en/card/21079)                       | _Weyland Consortium_  | _ICE_        | _Weyland Consortium: Builder of Nations_               |
+| **2x** | [Colossus](https://netrunnerdb.com/en/card/13048)                      | _Weyland Consortium_  | _ICE_        | _Weyland Consortium: Builder of Nations_               |
+| **2x** | [Shadow](https://netrunnerdb.com/en/card/01104)                        | _Weyland Consortium_  | _ICE_        | _Weyland Consortium: Builder of Nations_               |
+| **2x** | [Searchlight](https://netrunnerdb.com/en/card/07019)                   | _Weyland Consortium_  | _ICE_        | _Weyland Consortium: Builder of Nations_               |
+| **3x** | [Beanstalk Royalties](https://netrunnerdb.com/en/card/01098)           | _Weyland Consortium_  | _Operation_  | _Blue Sun: Powering the Future_                        |
+| **3x** | [Building Blocks](https://netrunnerdb.com/en/card/22055)               | _Weyland Consortium_  | _Operation_  | _Blue Sun: Powering the Future_                        |
+| **3x** | [Stock Buy-Back](https://netrunnerdb.com/en/card/11019)                | _Weyland Consortium_  | _Operation_  | _Jemison Astronautics: Sacrifice. Audacity. Success._  |
+| **2x** | [Audacity](https://netrunnerdb.com/en/card/12058)                      | _Weyland Consortium_  | _Operation_  | _Jemison Astronautics: Sacrifice. Audacity. Success._  |
+| **3x** | [Success](https://netrunnerdb.com/en/card/12078)                       | _Weyland Consortium_  | _Operation_  | _Jemison Astronautics: Sacrifice. Audacity. Success._  |
+| **3x** | [Commercialization](https://netrunnerdb.com/en/card/02058)             | _Weyland Consortium_  | _Operation_  | _Jemison Astronautics: Sacrifice. Audacity. Success._  |
+| **1x** | [Wake Up Call](https://netrunnerdb.com/en/card/21019)                  | _Weyland Consortium_  | _Operation_  | _The Outfit: Family Owned and Operated_                |
+| **1x** | [Trojan Horse](https://netrunnerdb.com/en/card/21059)                  | _Weyland Consortium_  | _Operation_  | _The Outfit: Family Owned and Operated_                |
+| **2x** | [High-Profile Target](https://netrunnerdb.com/en/card/21119)           | _Weyland Consortium_  | _Operation_  | _The Outfit: Family Owned and Operated_                |
+| **3x** | [Too Big to Fail](https://netrunnerdb.com/en/card/22056)               | _Weyland Consortium_  | _Operation_  | _The Outfit: Family Owned and Operated_                |
+| **1x** | [Under the Bus](https://netrunnerdb.com/en/card/22057)                 | _Weyland Consortium_  | _Operation_  | _The Outfit: Family Owned and Operated_                |
+| **2x** | [Housekeeping](https://netrunnerdb.com/en/card/07020)                  | _Weyland Consortium_  | _Operation_  | _The Outfit: Family Owned and Operated_                |
+| **1x** | [BOOM!](https://netrunnerdb.com/en/card/11058)                         | _Weyland Consortium_  | _Operation_  | _Weyland Consortium: Builder of Nations_               |
+| **2x** | [Door to Door](https://netrunnerdb.com/en/card/11059)                  | _Weyland Consortium_  | _Operation_  | _Weyland Consortium: Builder of Nations_               |
+| **2x** | [Priority Construction](https://netrunnerdb.com/en/card/12118)         | _Weyland Consortium_  | _Operation_  | _Weyland Consortium: Builder of Nations_               |
+| **2x** | [Shipment from Kaguya](https://netrunnerdb.com/en/card/01100)          | _Weyland Consortium_  | _Operation_  | _Weyland Consortium: Builder of Nations_               |
+| **2x** | [Traffic Accident](https://netrunnerdb.com/en/card/07022)              | _Weyland Consortium_  | _Operation_  | _Weyland Consortium: Builder of Nations_               |
+| **3x** | [Expo Grid](https://netrunnerdb.com/en/card/08119)                     | _Weyland Consortium_  | _Upgrade_    | _Blue Sun: Powering the Future_                        |
+| **2x** | [Oberth Protocol](https://netrunnerdb.com/en/card/12018)               | _Weyland Consortium_  | _Upgrade_    | _Jemison Astronautics: Sacrifice. Audacity. Success._  |
+| **2x** | [Satellite Grid](https://netrunnerdb.com/en/card/07023)                | _Weyland Consortium_  | _Upgrade_    | _Jemison Astronautics: Sacrifice. Audacity. Success._  |
+| **2x** | [K. P. Lynn](https://netrunnerdb.com/en/card/13052)                    | _Weyland Consortium_  | _Upgrade_    | _The Outfit: Family Owned and Operated_                |
+| **3x** | [Forced Connection](https://netrunnerdb.com/en/card/21037)             | _Weyland Consortium_  | _Upgrade_    | _The Outfit: Family Owned and Operated_                |
+| **2x** | [Overseer Matrix](https://netrunnerdb.com/en/card/21100)               | _Weyland Consortium_  | _Upgrade_    | _The Outfit: Family Owned and Operated_                |
+| **2x** | [Paper Trail](https://netrunnerdb.com/en/card/13053)                   | _Neutral_             | _Agenda_     | _NBN: Making News_                                     |
+| **1x** | [Utopia Fragment](https://netrunnerdb.com/en/card/06110)               | _Neutral_             | _Agenda_     | _The Foundry: Refining the Process_                    |
+| **3x** | [Show of Force](https://netrunnerdb.com/en/card/11099)                 | _Neutral_             | _Agenda_     | _The Outfit: Family Owned and Operated_                |
+| **2x** | [Docklands Crackdown](https://netrunnerdb.com/en/card/06072)           | _Neutral_             | _Asset_      | _Blue Sun: Powering the Future_                        |
+| **3x** | [NGO Front](https://netrunnerdb.com/en/card/21039)                     | _Neutral_             | _Asset_      | _Jinteki Biotech: Life Imagined_                       |
+| **2x** | [PAD Factory](https://netrunnerdb.com/en/card/10038)                   | _Neutral_             | _Asset_      | _Spark Agency: Worldswide Reach_                       |
+| **3x** | [PAD Campaign](https://netrunnerdb.com/en/card/01109)                  | _Neutral_             | _Asset_      | _Spark Agency: Worldswide Reach_                       |
+| **3x** | [Launch Campaign](https://netrunnerdb.com/en/card/09027)               | _Neutral_             | _Asset_      | _Spark Agency: Worldswide Reach_                       |
+| **2x** | [Long-Term Investment](https://netrunnerdb.com/en/card/13055)          | _Neutral_             | _Asset_      | _Sportsmetal: Go Big or Go Home_                       |
+| **3x** | [Melange Mining Corp.](https://netrunnerdb.com/en/card/01108)          | _Neutral_             | _Asset_      | _The Foundry: Refining the Process_                    |
+| **2x** | [Quicksand](https://netrunnerdb.com/en/card/08060)                     | _Neutral_             | _ICE_        | _Blue Sun: Powering the Future_                        |
+| **2x** | [Datapike](https://netrunnerdb.com/en/card/03027)                      | _Neutral_             | _ICE_        | _Blue Sun: Powering the Future_                        |
+| **1x** | [Macrophage](https://netrunnerdb.com/en/card/11119)                    | _Neutral_             | _ICE_        | _NBN: Making News_                                     |
+| **3x** | [Galahad](https://netrunnerdb.com/en/card/06011)                       | _Neutral_             | _ICE_        | _The Foundry: Refining the Process_                    |
+| **3x** | [Merlin](https://netrunnerdb.com/en/card/06091)                        | _Neutral_             | _ICE_        | _The Foundry: Refining the Process_                    |
+| **3x** | [Lancelot](https://netrunnerdb.com/en/card/06051)                      | _Neutral_             | _ICE_        | _The Foundry: Refining the Process_                    |
+| **2x** | [Excalibur](https://netrunnerdb.com/en/card/06111)                     | _Neutral_             | _ICE_        | _The Foundry: Refining the Process_                    |
+| **3x** | [Mass Commercialization](https://netrunnerdb.com/en/card/12080)        | _Neutral_             | _Operation_  | _Weyland Consortium: Builder of Nations_               |
+| **2x** | [Mumbad Virtual Tour](https://netrunnerdb.com/en/card/10076)           | _Neutral_             | _Upgrade_    | _Pālanā Foods: Sustainable Growth_                     |
+| **2x** | [Emergent Creativity](https://netrunnerdb.com/en/card/21028)           | _Adam_                | _Event_      | _Adam: Compulsive Hacker_                              |
+| **2x** | [Independent Thinking](https://netrunnerdb.com/en/card/09038)          | _Adam_                | _Event_      | _Adam: Compulsive Hacker_                              |
+| **3x** | [Brain Chip](https://netrunnerdb.com/en/card/09039)                    | _Adam_                | _Hardware_   | _Adam: Compulsive Hacker_                              |
+| **3x** | [Algernon](https://netrunnerdb.com/en/card/22022)                      | _Adam_                | _Program_    | _Adam: Compulsive Hacker_                              |
+| **3x** | [Multithreader](https://netrunnerdb.com/en/card/09040)                 | _Adam_                | _Program_    | _Adam: Compulsive Hacker_                              |
+| **1x** | [Find the Truth](https://netrunnerdb.com/en/card/11047)                | _Adam_                | _Resource_   | _Adam: Compulsive Hacker_                              |
+| **3x** | [Logic Bomb](https://netrunnerdb.com/en/card/21089)                    | _Adam_                | _Resource_   | _Adam: Compulsive Hacker_                              |
+| **2x** | [Dr. Lovegood](https://netrunnerdb.com/en/card/09042)                  | _Adam_                | _Resource_   | _Adam: Compulsive Hacker_                              |
+| **3x** | [Mars for Martians](https://netrunnerdb.com/en/card/12081)             | _Anarch_              | _Event_      | _Alice Merchant: Clan Agitator_                        |
+| **3x** | [Mining Accident](https://netrunnerdb.com/en/card/12101)               | _Anarch_              | _Event_      | _Alice Merchant: Clan Agitator_                        |
+| **2x** | [By Any Means](https://netrunnerdb.com/en/card/21001)                  | _Anarch_              | _Event_      | _Alice Merchant: Clan Agitator_                        |
+| **3x** | [Vamp](https://netrunnerdb.com/en/card/02021)                          | _Anarch_              | _Event_      | _Alice Merchant: Clan Agitator_                        |
+| **3x** | [Day Job](https://netrunnerdb.com/en/card/07036)                       | _Anarch_              | _Event_      | _Alice Merchant: Clan Agitator_                        |
+| **2x** | [Forked](https://netrunnerdb.com/en/card/07037)                        | _Anarch_              | _Event_      | _Alice Merchant: Clan Agitator_                        |
+| **2x** | [Knifed](https://netrunnerdb.com/en/card/07038)                        | _Anarch_              | _Event_      | _Alice Merchant: Clan Agitator_                        |
+| **2x** | [Spooned](https://netrunnerdb.com/en/card/07039)                       | _Anarch_              | _Event_      | _Alice Merchant: Clan Agitator_                        |
+| **2x** | [Power to the People](https://netrunnerdb.com/en/card/08101)           | _Anarch_              | _Event_      | _Alice Merchant: Clan Agitator_                        |
+| **2x** | [Immolation Script](https://netrunnerdb.com/en/card/08041)             | _Anarch_              | _Event_      | _Apex: Invasive Predator_                              |
+| **2x** | [Political Graffiti](https://netrunnerdb.com/en/card/10039)            | _Anarch_              | _Event_      | _Null: Whistleblower_                                  |
+| **2x** | [Glut Cipher](https://netrunnerdb.com/en/card/21061)                   | _Anarch_              | _Event_      | _Null: Whistleblower_                                  |
+| **3x** | [Contaminate](https://netrunnerdb.com/en/card/21083)                   | _Anarch_              | _Event_      | _Null: Whistleblower_                                  |
+| **3x** | [Guinea Pig](https://netrunnerdb.com/en/card/22003)                    | _Anarch_              | _Event_      | _Null: Whistleblower_                                  |
+| **2x** | [The Noble Path](https://netrunnerdb.com/en/card/10077)                | _Anarch_              | _Event_      | _Omar Keung: Conspiracy Theorist_                      |
+| **2x** | [Frantic Coding](https://netrunnerdb.com/en/card/11062)                | _Anarch_              | _Event_      | _Omar Keung: Conspiracy Theorist_                      |
+| **2x** | [Demolition Run](https://netrunnerdb.com/en/card/01003)                | _Anarch_              | _Event_      | _Omar Keung: Conspiracy Theorist_                      |
+| **2x** | [Stimhack](https://netrunnerdb.com/en/card/01004)                      | _Anarch_              | _Event_      | _Omar Keung: Conspiracy Theorist_                      |
+| **3x** | [Déjà Vu](https://netrunnerdb.com/en/card/01002)                       | _Anarch_              | _Event_      | _Omar Keung: Conspiracy Theorist_                      |
+| **2x** | [Surge](https://netrunnerdb.com/en/card/02081)                         | _Anarch_              | _Event_      | _Omar Keung: Conspiracy Theorist_                      |
+| **2x** | [Inject](https://netrunnerdb.com/en/card/06073)                        | _Anarch_              | _Event_      | _Omar Keung: Conspiracy Theorist_                      |
+| **3x** | [En Passant](https://netrunnerdb.com/en/card/11061)                    | _Anarch_              | _Event_      | _Reina Roja: Freedom Fighter_                          |
+| **1x** | [Retrieval Run](https://netrunnerdb.com/en/card/02101)                 | _Anarch_              | _Event_      | _Reina Roja: Freedom Fighter_                          |
+| **2x** | [Divide and Conquer](https://netrunnerdb.com/en/card/22002)            | _Anarch_              | _Event_      | _Reina Roja: Freedom Fighter_                          |
+| **3x** | [Queen's Gambit](https://netrunnerdb.com/en/card/04102)                | _Anarch_              | _Event_      | _Reina Roja: Freedom Fighter_                          |
+| **2x** | [Maw](https://netrunnerdb.com/en/card/12002)                           | _Anarch_              | _Hardware_   | _Alice Merchant: Clan Agitator_                        |
+| **2x** | [Respirocytes](https://netrunnerdb.com/en/card/12102)                  | _Anarch_              | _Hardware_   | _Alice Merchant: Clan Agitator_                        |
+| **2x** | [Chop Bot 3000](https://netrunnerdb.com/en/card/07045)                 | _Anarch_              | _Hardware_   | _Apex: Invasive Predator_                              |
+| **3x** | [Acacia](https://netrunnerdb.com/en/card/21021)                        | _Anarch_              | _Hardware_   | _Null: Whistleblower_                                  |
+| **2x** | [Knobkierie](https://netrunnerdb.com/en/card/21062)                    | _Anarch_              | _Hardware_   | _Null: Whistleblower_                                  |
+| **2x** | [EMP Device](https://netrunnerdb.com/en/card/10020)                    | _Anarch_              | _Hardware_   | _Omar Keung: Conspiracy Theorist_                      |
+| **2x** | [Obelus](https://netrunnerdb.com/en/card/11041)                        | _Anarch_              | _Hardware_   | _Omar Keung: Conspiracy Theorist_                      |
+| **2x** | [Hijacked Router](https://netrunnerdb.com/en/card/22005)               | _Anarch_              | _Hardware_   | _Omar Keung: Conspiracy Theorist_                      |
+| **3x** | [Cyberfeeder](https://netrunnerdb.com/en/card/01005)                   | _Anarch_              | _Hardware_   | _Reina Roja: Freedom Fighter_                          |
+| **3x** | [Deep Red](https://netrunnerdb.com/en/card/04042)                      | _Anarch_              | _Hardware_   | _Reina Roja: Freedom Fighter_                          |
+| **2x** | [Aghora](https://netrunnerdb.com/en/card/10097)                        | _Anarch_              | _Program_    | _Adam: Compulsive Hacker_                              |
+| **1x** | [Berserker](https://netrunnerdb.com/en/card/12041)                     | _Anarch_              | _Program_    | _Alice Merchant: Clan Agitator_                        |
+| **1x** | [Persephone](https://netrunnerdb.com/en/card/12042)                    | _Anarch_              | _Program_    | _Alice Merchant: Clan Agitator_                        |
+| **3x** | [Eater](https://netrunnerdb.com/en/card/07040)                         | _Anarch_              | _Program_    | _Alice Merchant: Clan Agitator_                        |
+| **1x** | [Cerberus "Cuj.0" H3](https://netrunnerdb.com/en/card/06094)           | _Anarch_              | _Program_    | _Apex: Invasive Predator_                              |
+| **3x** | [Lamprey](https://netrunnerdb.com/en/card/06014)                       | _Anarch_              | _Program_    | _Leela Patel: Trained Pragmatist_                      |
+| **2x** | [Nfr](https://netrunnerdb.com/en/card/11023)                           | _Anarch_              | _Program_    | _Null: Whistleblower_                                  |
+| **2x** | [Sūnya](https://netrunnerdb.com/en/card/11102)                         | _Anarch_              | _Program_    | _Null: Whistleblower_                                  |
+| **2x** | [Cradle](https://netrunnerdb.com/en/card/22006)                        | _Anarch_              | _Program_    | _Null: Whistleblower_                                  |
+| **3x** | [Datasucker](https://netrunnerdb.com/en/card/01008)                    | _Anarch_              | _Program_    | _Null: Whistleblower_                                  |
+| **1x** | [Plague](https://netrunnerdb.com/en/card/21022)                        | _Anarch_              | _Program_    | _Null: Whistleblower_                                  |
+| **3x** | [eXer](https://netrunnerdb.com/en/card/21041)                          | _Anarch_              | _Program_    | _Null: Whistleblower_                                  |
+| **2x** | [Trypano](https://netrunnerdb.com/en/card/21082)                       | _Anarch_              | _Program_    | _Null: Whistleblower_                                  |
+| **2x** | [Gravedigger](https://netrunnerdb.com/en/card/07041)                   | _Anarch_              | _Program_    | _Null: Whistleblower_                                  |
+| **1x** | [Hivemind](https://netrunnerdb.com/en/card/07042)                      | _Anarch_              | _Program_    | _Null: Whistleblower_                                  |
+| **3x** | [Progenitor](https://netrunnerdb.com/en/card/07043)                    | _Anarch_              | _Program_    | _Null: Whistleblower_                                  |
+| **2x** | [Paperclip](https://netrunnerdb.com/en/card/11024)                     | _Anarch_              | _Program_    | _Omar Keung: Conspiracy Theorist_                      |
+| **2x** | [Black Orchestra](https://netrunnerdb.com/en/card/11042)               | _Anarch_              | _Program_    | _Omar Keung: Conspiracy Theorist_                      |
+| **2x** | [MKUltra](https://netrunnerdb.com/en/card/11081)                       | _Anarch_              | _Program_    | _Omar Keung: Conspiracy Theorist_                      |
+| **1x** | [Yusuf](https://netrunnerdb.com/en/card/21002)                         | _Anarch_              | _Program_    | _Omar Keung: Conspiracy Theorist_                      |
+| **1x** | [Musaazi](https://netrunnerdb.com/en/card/21102)                       | _Anarch_              | _Program_    | _Omar Keung: Conspiracy Theorist_                      |
+| **2x** | [Diwan](https://netrunnerdb.com/en/card/10021)                         | _Anarch_              | _Program_    | _Omar Keung: Conspiracy Theorist_                      |
+| **3x** | [Djinn](https://netrunnerdb.com/en/card/01009)                         | _Anarch_              | _Program_    | _Omar Keung: Conspiracy Theorist_                      |
+| **2x** | [Medium](https://netrunnerdb.com/en/card/01010)                        | _Anarch_              | _Program_    | _Omar Keung: Conspiracy Theorist_                      |
+| **2x** | [Nerve Agent](https://netrunnerdb.com/en/card/02041)                   | _Anarch_              | _Program_    | _Omar Keung: Conspiracy Theorist_                      |
+| **1x** | [Force of Nature](https://netrunnerdb.com/en/card/02062)               | _Anarch_              | _Program_    | _Reina Roja: Freedom Fighter_                          |
+| **1x** | [Mimic](https://netrunnerdb.com/en/card/01011)                         | _Anarch_              | _Program_    | _Reina Roja: Freedom Fighter_                          |
+| **1x** | [Morning Star](https://netrunnerdb.com/en/card/02004)                  | _Anarch_              | _Program_    | _Reina Roja: Freedom Fighter_                          |
+| **3x** | [Knight](https://netrunnerdb.com/en/card/04043)                        | _Anarch_              | _Program_    | _Reina Roja: Freedom Fighter_                          |
+| **2x** | [Imp](https://netrunnerdb.com/en/card/02003)                           | _Anarch_              | _Program_    | _Reina Roja: Freedom Fighter_                          |
+| **2x** | [Hemorrhage](https://netrunnerdb.com/en/card/04082)                    | _Anarch_              | _Program_    | _Reina Roja: Freedom Fighter_                          |
+| **3x** | [Pawn](https://netrunnerdb.com/en/card/04002)                          | _Anarch_              | _Program_    | _Reina Roja: Freedom Fighter_                          |
+| **2x** | [Rook](https://netrunnerdb.com/en/card/04003)                          | _Anarch_              | _Program_    | _Reina Roja: Freedom Fighter_                          |
+| **2x** | [Bishop](https://netrunnerdb.com/en/card/04021)                        | _Anarch_              | _Program_    | _Reina Roja: Freedom Fighter_                          |
+| **2x** | [Scheherazade](https://netrunnerdb.com/en/card/04022)                  | _Anarch_              | _Program_    | _Reina Roja: Freedom Fighter_                          |
+| **3x** | [Clan Vengeance](https://netrunnerdb.com/en/card/12022)                | _Anarch_              | _Resource_   | _Alice Merchant: Clan Agitator_                        |
+| **3x** | [Counter Surveillance](https://netrunnerdb.com/en/card/12023)          | _Anarch_              | _Resource_   | _Alice Merchant: Clan Agitator_                        |
+| **2x** | [Jarogniew Mercs](https://netrunnerdb.com/en/card/12062)               | _Anarch_              | _Resource_   | _Alice Merchant: Clan Agitator_                        |
+| **2x** | [Tallie Perrault](https://netrunnerdb.com/en/card/04083)               | _Anarch_              | _Resource_   | _Alice Merchant: Clan Agitator_                        |
+| **2x** | [Human First](https://netrunnerdb.com/en/card/07048)                   | _Anarch_              | _Resource_   | _Alice Merchant: Clan Agitator_                        |
+| **2x** | [District 99](https://netrunnerdb.com/en/card/22007)                   | _Anarch_              | _Resource_   | _Armand "Geist" Walker: Tech Lord_                     |
+| **2x** | [Street Peddler](https://netrunnerdb.com/en/card/08062)                | _Anarch_              | _Resource_   | _Armand "Geist" Walker: Tech Lord_                     |
+| **2x** | [Scrubber](https://netrunnerdb.com/en/card/02063)                      | _Anarch_              | _Resource_   | _Null: Whistleblower_                                  |
+| **2x** | [Crypt](https://netrunnerdb.com/en/card/21043)                         | _Anarch_              | _Resource_   | _Null: Whistleblower_                                  |
+| **2x** | [Virus Breeding Ground](https://netrunnerdb.com/en/card/07052)         | _Anarch_              | _Resource_   | _Null: Whistleblower_                                  |
+| **2x** | [Street Magic](https://netrunnerdb.com/en/card/10003)                  | _Anarch_              | _Resource_   | _Omar Keung: Conspiracy Theorist_                      |
+| **2x** | [Fester](https://netrunnerdb.com/en/card/06075)                        | _Anarch_              | _Resource_   | _Omar Keung: Conspiracy Theorist_                      |
+| **3x** | [Liberated Account](https://netrunnerdb.com/en/card/02022)             | _Anarch_              | _Resource_   | _Reina Roja: Freedom Fighter_                          |
+| **2x** | [Xanadu](https://netrunnerdb.com/en/card/02082)                        | _Anarch_              | _Resource_   | _Reina Roja: Freedom Fighter_                          |
+| **3x** | [Reboot](https://netrunnerdb.com/en/card/22023)                        | _Apex_                | _Event_      | _Apex: Invasive Predator_                              |
+| **3x** | [Apocalypse](https://netrunnerdb.com/en/card/09030)                    | _Apex_                | _Event_      | _Apex: Invasive Predator_                              |
+| **3x** | [Prey](https://netrunnerdb.com/en/card/09031)                          | _Apex_                | _Event_      | _Apex: Invasive Predator_                              |
+| **2x** | [Heartbeat](https://netrunnerdb.com/en/card/09032)                     | _Apex_                | _Hardware_   | _Apex: Invasive Predator_                              |
+| **3x** | [Endless Hunger](https://netrunnerdb.com/en/card/09033)                | _Apex_                | _Program_    | _Apex: Invasive Predator_                              |
+| **3x** | [Reaver](https://netrunnerdb.com/en/card/11086)                        | _Apex_                | _Program_    | _Apex: Invasive Predator_                              |
+| **3x** | [Consume](https://netrunnerdb.com/en/card/21068)                       | _Apex_                | _Program_    | _Apex: Invasive Predator_                              |
+| **3x** | [Harbinger](https://netrunnerdb.com/en/card/09034)                     | _Apex_                | _Program_    | _Apex: Invasive Predator_                              |
+| **1x** | [Assimilator](https://netrunnerdb.com/en/card/21008)                   | _Apex_                | _Resource_   | _Apex: Invasive Predator_                              |
+| **3x** | [Hunting Grounds](https://netrunnerdb.com/en/card/09035)               | _Apex_                | _Resource_   | _Apex: Invasive Predator_                              |
+| **3x** | [Wasteland](https://netrunnerdb.com/en/card/09036)                     | _Apex_                | _Resource_   | _Apex: Invasive Predator_                              |
+| **3x** | [Calling in Favors](https://netrunnerdb.com/en/card/05031)             | _Criminal_            | _Event_      | _Armand "Geist" Walker: Tech Lord_                     |
+| **2x** | [High-Stakes Job](https://netrunnerdb.com/en/card/10004)               | _Criminal_            | _Event_      | _Khan: Savvy Skiptracer_                               |
+| **6x** | [Exclusive Party](https://netrunnerdb.com/en/card/10060)               | _Criminal_            | _Event_      | _Khan: Savvy Skiptracer_                               |
+| **3x** | [SYN Attack](https://netrunnerdb.com/en/card/13004)                    | _Criminal_            | _Event_      | _Khan: Savvy Skiptracer_                               |
+| **2x** | [Möbius](https://netrunnerdb.com/en/card/12024)                        | _Criminal_            | _Event_      | _Leela Patel: Trained Pragmatist_                      |
+| **3x** | [Spear Phishing](https://netrunnerdb.com/en/card/13003)                | _Criminal_            | _Event_      | _Leela Patel: Trained Pragmatist_                      |
+| **3x** | [Emergency Shutdown](https://netrunnerdb.com/en/card/02043)            | _Criminal_            | _Event_      | _Leela Patel: Trained Pragmatist_                      |
+| **2x** | [Legwork](https://netrunnerdb.com/en/card/05035)                       | _Criminal_            | _Event_      | _Leela Patel: Trained Pragmatist_                      |
+| **3x** | [Three Steps Ahead](https://netrunnerdb.com/en/card/06035)             | _Criminal_            | _Event_      | _Leela Patel: Trained Pragmatist_                      |
+| **1x** | [Unscheduled Maintenance](https://netrunnerdb.com/en/card/06036)       | _Criminal_            | _Event_      | _Leela Patel: Trained Pragmatist_                      |
+| **2x** | [Exploit](https://netrunnerdb.com/en/card/12004)                       | _Criminal_            | _Event_      | _Los: Data Hijacker_                                   |
+| **2x** | [Forged Activation Orders](https://netrunnerdb.com/en/card/01020)      | _Criminal_            | _Event_      | _Los: Data Hijacker_                                   |
+| **2x** | [Inside Job](https://netrunnerdb.com/en/card/01021)                    | _Criminal_            | _Event_      | _Los: Data Hijacker_                                   |
+| **2x** | [Credit Kiting](https://netrunnerdb.com/en/card/21023)                 | _Criminal_            | _Event_      | _Los: Data Hijacker_                                   |
+| **3x** | [Corporate "Grant"](https://netrunnerdb.com/en/card/21044)             | _Criminal_            | _Event_      | _Los: Data Hijacker_                                   |
+| **2x** | [Embezzle](https://netrunnerdb.com/en/card/21084)                      | _Criminal_            | _Event_      | _Los: Data Hijacker_                                   |
+| **3x** | [Diversion of Funds](https://netrunnerdb.com/en/card/21105)            | _Criminal_            | _Event_      | _Los: Data Hijacker_                                   |
+| **3x** | [Forger](https://netrunnerdb.com/en/card/08065)                        | _Criminal_            | _Hardware_   | _Armand "Geist" Walker: Tech Lord_                     |
+| **1x** | [Dorm Computer](https://netrunnerdb.com/en/card/08024)                 | _Criminal_            | _Hardware_   | _Hayley Kaplan: Universal Scholar_                     |
+| **2x** | [The Gauntlet](https://netrunnerdb.com/en/card/11063)                  | _Criminal_            | _Hardware_   | _Khan: Savvy Skiptracer_                               |
+| **2x** | [Recon Drone](https://netrunnerdb.com/en/card/11103)                   | _Criminal_            | _Hardware_   | _Khan: Savvy Skiptracer_                               |
+| **2x** | [Autoscripter](https://netrunnerdb.com/en/card/06076)                  | _Criminal_            | _Hardware_   | _Khan: Savvy Skiptracer_                               |
+| **3x** | [Doppelgänger](https://netrunnerdb.com/en/card/02064)                  | _Criminal_            | _Hardware_   | _Leela Patel: Trained Pragmatist_                      |
+| **3x** | [HQ Interface](https://netrunnerdb.com/en/card/02085)                  | _Criminal_            | _Hardware_   | _Leela Patel: Trained Pragmatist_                      |
+| **2x** | [Rubicon Switch](https://netrunnerdb.com/en/card/12043)                | _Criminal_            | _Hardware_   | _Los: Data Hijacker_                                   |
+| **2x** | [Māui](https://netrunnerdb.com/en/card/12063)                          | _Criminal_            | _Hardware_   | _Los: Data Hijacker_                                   |
+| **2x** | [Vamadeva](https://netrunnerdb.com/en/card/10061)                      | _Criminal_            | _Program_    | _Adam: Compulsive Hacker_                              |
+| **1x** | [Puffer](https://netrunnerdb.com/en/card/21004)                        | _Criminal_            | _Program_    | _Akiko Nisei: Head Case_                               |
+| **1x** | [Cerberus "Rex" H2](https://netrunnerdb.com/en/card/06096)             | _Criminal_            | _Program_    | _Apex: Invasive Predator_                              |
+| **1x** | [Abagnale](https://netrunnerdb.com/en/card/13006)                      | _Criminal_            | _Program_    | _Armand "Geist" Walker: Tech Lord_                     |
+| **1x** | [Lustig](https://netrunnerdb.com/en/card/13007)                        | _Criminal_            | _Program_    | _Armand "Geist" Walker: Tech Lord_                     |
+| **1x** | [Demara](https://netrunnerdb.com/en/card/13008)                        | _Criminal_            | _Program_    | _Armand "Geist" Walker: Tech Lord_                     |
+| **3x** | [Spike](https://netrunnerdb.com/en/card/08004)                         | _Criminal_            | _Program_    | _Armand "Geist" Walker: Tech Lord_                     |
+| **3x** | [Crowbar](https://netrunnerdb.com/en/card/08046)                       | _Criminal_            | _Program_    | _Armand "Geist" Walker: Tech Lord_                     |
+| **3x** | [Shiv](https://netrunnerdb.com/en/card/08066)                          | _Criminal_            | _Program_    | _Armand "Geist" Walker: Tech Lord_                     |
+| **3x** | [Bankroll](https://netrunnerdb.com/en/card/22011)                      | _Criminal_            | _Program_    | _Armand "Geist" Walker: Tech Lord_                     |
+| **3x** | [Grappling Hook](https://netrunnerdb.com/en/card/05045)                | _Criminal_            | _Program_    | _Armand "Geist" Walker: Tech Lord_                     |
+| **2x** | [Golden](https://netrunnerdb.com/en/card/11025)                        | _Criminal_            | _Program_    | _Khan: Savvy Skiptracer_                               |
+| **2x** | [Peregrine](https://netrunnerdb.com/en/card/11044)                     | _Criminal_            | _Program_    | _Khan: Savvy Skiptracer_                               |
+| **2x** | [Saker](https://netrunnerdb.com/en/card/11064)                         | _Criminal_            | _Program_    | _Khan: Savvy Skiptracer_                               |
+| **3x** | [Tapwrm](https://netrunnerdb.com/en/card/11104)                        | _Criminal_            | _Program_    | _Khan: Savvy Skiptracer_                               |
+| **2x** | [Tracker](https://netrunnerdb.com/en/card/11105)                       | _Criminal_            | _Program_    | _Khan: Savvy Skiptracer_                               |
+| **2x** | [Alias](https://netrunnerdb.com/en/card/05041)                         | _Criminal_            | _Program_    | _Leela Patel: Trained Pragmatist_                      |
+| **2x** | [Breach](https://netrunnerdb.com/en/card/05042)                        | _Criminal_            | _Program_    | _Leela Patel: Trained Pragmatist_                      |
+| **2x** | [Passport](https://netrunnerdb.com/en/card/05046)                      | _Criminal_            | _Program_    | _Leela Patel: Trained Pragmatist_                      |
+| **2x** | [Pheromones](https://netrunnerdb.com/en/card/02086)                    | _Criminal_            | _Program_    | _Leela Patel: Trained Pragmatist_                      |
+| **2x** | [Sneakdoor Beta](https://netrunnerdb.com/en/card/01028)                | _Criminal_            | _Program_    | _Leela Patel: Trained Pragmatist_                      |
+| **2x** | [Aumakua](https://netrunnerdb.com/en/card/12104)                       | _Criminal_            | _Program_    | _Los: Data Hijacker_                                   |
+| **1x** | [Aurora](https://netrunnerdb.com/en/card/01025)                        | _Criminal_            | _Program_    | _Los: Data Hijacker_                                   |
+| **2x** | [Femme Fatale](https://netrunnerdb.com/en/card/01026)                  | _Criminal_            | _Program_    | _Los: Data Hijacker_                                   |
+| **1x** | [Amina](https://netrunnerdb.com/en/card/21104)                         | _Criminal_            | _Program_    | _Los: Data Hijacker_                                   |
+| **3x** | [Wari](https://netrunnerdb.com/en/card/21024)                          | _Criminal_            | _Program_    | _Los: Data Hijacker_                                   |
+| **3x** | [Gorman Drip v1](https://netrunnerdb.com/en/card/04005)                | _Criminal_            | _Program_    | _Los: Data Hijacker_                                   |
+| **3x** | [Cache](https://netrunnerdb.com/en/card/06037)                         | _Criminal_            | _Program_    | _Nasir Meidan: Cyber Explorer_                         |
+| **3x** | [Tech Trader](https://netrunnerdb.com/en/card/10023)                   | _Criminal_            | _Resource_   | _Armand "Geist" Walker: Tech Lord_                     |
+| **2x** | [Political Operative](https://netrunnerdb.com/en/card/10043)           | _Criminal_            | _Resource_   | _Armand "Geist" Walker: Tech Lord_                     |
+| **3x** | [Fall Guy](https://netrunnerdb.com/en/card/04106)                      | _Criminal_            | _Resource_   | _Armand "Geist" Walker: Tech Lord_                     |
+| **2x** | [Mr. Li](https://netrunnerdb.com/en/card/02105)                        | _Criminal_            | _Resource_   | _Armand "Geist" Walker: Tech Lord_                     |
+| **2x** | [Miss Bones](https://netrunnerdb.com/en/card/22014)                    | _Criminal_            | _Resource_   | _Armand "Geist" Walker: Tech Lord_                     |
+| **2x** | [Tri-maf Contact](https://netrunnerdb.com/en/card/05050)               | _Criminal_            | _Resource_   | _Armand "Geist" Walker: Tech Lord_                     |
+| **2x** | [Drug Dealer](https://netrunnerdb.com/en/card/08083)                   | _Criminal_            | _Resource_   | _Armand "Geist" Walker: Tech Lord_                     |
+| **2x** | [Hernando Cortez](https://netrunnerdb.com/en/card/11004)               | _Criminal_            | _Resource_   | _Khan: Savvy Skiptracer_                               |
+| **3x** | [Temüjin Contract](https://netrunnerdb.com/en/card/11026)              | _Criminal_            | _Resource_   | _Khan: Savvy Skiptracer_                               |
+| **2x** | [Blockade Runner](https://netrunnerdb.com/en/card/11065)               | _Criminal_            | _Resource_   | _Khan: Savvy Skiptracer_                               |
+| **2x** | [Keros Mcintyre](https://netrunnerdb.com/en/card/12065)                | _Criminal_            | _Resource_   | _Khan: Savvy Skiptracer_                               |
+| **3x** | [Bank Job](https://netrunnerdb.com/en/card/01029)                      | _Criminal_            | _Resource_   | _Khan: Savvy Skiptracer_                               |
+| **2x** | [Security Testing](https://netrunnerdb.com/en/card/05048)              | _Criminal_            | _Resource_   | _Leela Patel: Trained Pragmatist_                      |
+| **2x** | [The Supplier](https://netrunnerdb.com/en/card/06056)                  | _Criminal_            | _Resource_   | _Leela Patel: Trained Pragmatist_                      |
+| **3x** | [Zona Sul Shipping](https://netrunnerdb.com/en/card/06097)             | _Criminal_            | _Resource_   | _Leela Patel: Trained Pragmatist_                      |
+| **3x** | [Aeneas Informant](https://netrunnerdb.com/en/card/12044)              | _Criminal_            | _Resource_   | _Los: Data Hijacker_                                   |
+| **2x** | [Crash Space](https://netrunnerdb.com/en/card/01030)                   | _Criminal_            | _Resource_   | _Los: Data Hijacker_                                   |
+| **3x** | [Rogue Trading](https://netrunnerdb.com/en/card/21065)                 | _Criminal_            | _Resource_   | _Los: Data Hijacker_                                   |
+| **2x** | [Slipstream](https://netrunnerdb.com/en/card/21085)                    | _Criminal_            | _Resource_   | _Los: Data Hijacker_                                   |
+| **3x** | [PAD Tap](https://netrunnerdb.com/en/card/21106)                       | _Criminal_            | _Resource_   | _Los: Data Hijacker_                                   |
+| **3x** | [Grifter](https://netrunnerdb.com/en/card/04046)                       | _Criminal_            | _Resource_   | _Reina Roja: Freedom Fighter_                          |
+| **3x** | [Deep Data Mining](https://netrunnerdb.com/en/card/13014)              | _Shaper_              | _Event_      | _Akiko Nisei: Head Case_                               |
+| **2x** | [Insight](https://netrunnerdb.com/en/card/22016)                       | _Shaper_              | _Event_      | _Akiko Nisei: Head Case_                               |
+| **2x** | [Code Siphon](https://netrunnerdb.com/en/card/06115)                   | _Shaper_              | _Event_      | _Alice Merchant: Clan Agitator_                        |
+| **1x** | [Levy AR Lab Access](https://netrunnerdb.com/en/card/03035)            | _Shaper_              | _Event_      | _Armand "Geist" Walker: Tech Lord_                     |
+| **3x** | [Out of the Ashes](https://netrunnerdb.com/en/card/10080)              | _Shaper_              | _Event_      | _Ele "Smoke" Scovak: Cynosure of the Net_              |
+| **2x** | [Data Breach](https://netrunnerdb.com/en/card/11028)                   | _Shaper_              | _Event_      | _Ele "Smoke" Scovak: Cynosure of the Net_              |
+| **2x** | [Cold Read](https://netrunnerdb.com/en/card/11083)                     | _Shaper_              | _Event_      | _Ele "Smoke" Scovak: Cynosure of the Net_              |
+| **2x** | [Encore](https://netrunnerdb.com/en/card/11107)                        | _Shaper_              | _Event_      | _Ele "Smoke" Scovak: Cynosure of the Net_              |
+| **3x** | [Modded](https://netrunnerdb.com/en/card/01035)                        | _Shaper_              | _Event_      | _Ele "Smoke" Scovak: Cynosure of the Net_              |
+| **3x** | [Notoriety](https://netrunnerdb.com/en/card/02026)                     | _Shaper_              | _Event_      | _Ele "Smoke" Scovak: Cynosure of the Net_              |
+| **3x** | [Indexing](https://netrunnerdb.com/en/card/02106)                      | _Shaper_              | _Event_      | _Hayley Kaplan: Universal Scholar_                     |
+| **2x** | [Compile](https://netrunnerdb.com/en/card/21088)                       | _Shaper_              | _Event_      | _Nasir Meidan: Cyber Explorer_                         |
+| **2x** | [Social Engineering](https://netrunnerdb.com/en/card/06018)            | _Shaper_              | _Event_      | _Nasir Meidan: Cyber Explorer_                         |
+| **2x** | [Net Celebrity](https://netrunnerdb.com/en/card/06038)                 | _Shaper_              | _Event_      | _Nasir Meidan: Cyber Explorer_                         |
+| **6x** | [NetChip](https://netrunnerdb.com/en/card/10024)                       | _Shaper_              | _Hardware_   | _Akiko Nisei: Head Case_                               |
+| **3x** | [Cyberdelia](https://netrunnerdb.com/en/card/21006)                    | _Shaper_              | _Hardware_   | _Akiko Nisei: Head Case_                               |
+| **2x** | [Mind's Eye](https://netrunnerdb.com/en/card/22017)                    | _Shaper_              | _Hardware_   | _Akiko Nisei: Head Case_                               |
+| **2x** | [Mirror](https://netrunnerdb.com/en/card/11005)                        | _Shaper_              | _Hardware_   | _Ele "Smoke" Scovak: Cynosure of the Net_              |
+| **1x** | [Top Hat](https://netrunnerdb.com/en/card/11067)                       | _Shaper_              | _Hardware_   | _Ele "Smoke" Scovak: Cynosure of the Net_              |
+| **2x** | [Dinosaurus](https://netrunnerdb.com/en/card/02048)                    | _Shaper_              | _Hardware_   | _Hayley Kaplan: Universal Scholar_                     |
+| **2x** | [Mâché](https://netrunnerdb.com/en/card/22018)                         | _Shaper_              | _Hardware_   | _Hayley Kaplan: Universal Scholar_                     |
+| **1x** | [Feedback Filter](https://netrunnerdb.com/en/card/03037)               | _Shaper_              | _Hardware_   | _Hayley Kaplan: Universal Scholar_                     |
+| **3x** | [Omni-drive](https://netrunnerdb.com/en/card/03039)                    | _Shaper_              | _Hardware_   | _Hayley Kaplan: Universal Scholar_                     |
+| **3x** | [LLDS Processor](https://netrunnerdb.com/en/card/04066)                | _Shaper_              | _Hardware_   | _Hayley Kaplan: Universal Scholar_                     |
+| **1x** | [Net-Ready Eyes](https://netrunnerdb.com/en/card/08047)                | _Shaper_              | _Hardware_   | _Hayley Kaplan: Universal Scholar_                     |
+| **2x** | [Gebrselassie](https://netrunnerdb.com/en/card/21087)                  | _Shaper_              | _Hardware_   | _Nasir Meidan: Cyber Explorer_                         |
+| **1x** | [Flame-out](https://netrunnerdb.com/en/card/21109)                     | _Shaper_              | _Hardware_   | _Nasir Meidan: Cyber Explorer_                         |
+| **3x** | [R&D Interface](https://netrunnerdb.com/en/card/02107)                 | _Shaper_              | _Hardware_   | _Nasir Meidan: Cyber Explorer_                         |
+| **3x** | [Clone Chip](https://netrunnerdb.com/en/card/03038)                    | _Shaper_              | _Hardware_   | _Nasir Meidan: Cyber Explorer_                         |
+| **3x** | [Astrolabe](https://netrunnerdb.com/en/card/06079)                     | _Shaper_              | _Hardware_   | _Nasir Meidan: Cyber Explorer_                         |
+| **3x** | [Cybsoft MacroDrive](https://netrunnerdb.com/en/card/06098)            | _Shaper_              | _Hardware_   | _Nasir Meidan: Cyber Explorer_                         |
+| **3x** | [Rabbit Hole](https://netrunnerdb.com/en/card/01039)                   | _Shaper_              | _Hardware_   | _Sunny Lebeau: Security Specialist_                    |
+| **2x** | [Sadyojata](https://netrunnerdb.com/en/card/10044)                     | _Shaper_              | _Program_    | _Adam: Compulsive Hacker_                              |
+| **1x** | [Brahman](https://netrunnerdb.com/en/card/10062)                       | _Shaper_              | _Program_    | _Adam: Compulsive Hacker_                              |
+| **2x** | [Ika](https://netrunnerdb.com/en/card/22019)                           | _Shaper_              | _Program_    | _Akiko Nisei: Head Case_                               |
+| **2x** | [Sage](https://netrunnerdb.com/en/card/06117)                          | _Shaper_              | _Program_    | _Akiko Nisei: Head Case_                               |
+| **2x** | [Magnum Opus](https://netrunnerdb.com/en/card/01044)                   | _Shaper_              | _Program_    | _Akiko Nisei: Head Case_                               |
+| **2x** | [Upya](https://netrunnerdb.com/en/card/21007)                          | _Shaper_              | _Program_    | _Akiko Nisei: Head Case_                               |
+| **2x** | [Takobi](https://netrunnerdb.com/en/card/21026)                        | _Shaper_              | _Program_    | _Akiko Nisei: Head Case_                               |
+| **3x** | [Nyashia](https://netrunnerdb.com/en/card/21067)                       | _Shaper_              | _Program_    | _Akiko Nisei: Head Case_                               |
+| **3x** | [Kyuban](https://netrunnerdb.com/en/card/22020)                        | _Shaper_              | _Program_    | _Akiko Nisei: Head Case_                               |
+| **1x** | [Mass-Driver](https://netrunnerdb.com/en/card/12067)                   | _Shaper_              | _Program_    | _Alice Merchant: Clan Agitator_                        |
+| **1x** | [Cerberus "Lady" H1](https://netrunnerdb.com/en/card/06099)            | _Shaper_              | _Program_    | _Apex: Invasive Predator_                              |
+| **2x** | [Houdini](https://netrunnerdb.com/en/card/11045)                       | _Shaper_              | _Program_    | _Ele "Smoke" Scovak: Cynosure of the Net_              |
+| **2x** | [Blackstone](https://netrunnerdb.com/en/card/11068)                    | _Shaper_              | _Program_    | _Ele "Smoke" Scovak: Cynosure of the Net_              |
+| **2x** | [Fawkes](https://netrunnerdb.com/en/card/11108)                        | _Shaper_              | _Program_    | _Ele "Smoke" Scovak: Cynosure of the Net_              |
+| **2x** | [Equivocation](https://netrunnerdb.com/en/card/11084)                  | _Shaper_              | _Program_    | _Ele "Smoke" Scovak: Cynosure of the Net_              |
+| **3x** | [Cloak](https://netrunnerdb.com/en/card/03041)                         | _Shaper_              | _Program_    | _Ele "Smoke" Scovak: Cynosure of the Net_              |
+| **1x** | [Ankusa](https://netrunnerdb.com/en/card/10101)                        | _Shaper_              | _Program_    | _Hayley Kaplan: Universal Scholar_                     |
+| **2x** | [Atman](https://netrunnerdb.com/en/card/03040)                         | _Shaper_              | _Program_    | _Hayley Kaplan: Universal Scholar_                     |
+| **1x** | [Inti](https://netrunnerdb.com/en/card/03048)                          | _Shaper_              | _Program_    | _Hayley Kaplan: Universal Scholar_                     |
+| **1x** | [Study Guide](https://netrunnerdb.com/en/card/08028)                   | _Shaper_              | _Program_    | _Hayley Kaplan: Universal Scholar_                     |
+| **3x** | [Chameleon](https://netrunnerdb.com/en/card/08069)                     | _Shaper_              | _Program_    | _Hayley Kaplan: Universal Scholar_                     |
+| **2x** | [Paricia](https://netrunnerdb.com/en/card/03045)                       | _Shaper_              | _Program_    | _Hayley Kaplan: Universal Scholar_                     |
+| **2x** | [Self-modifying Code](https://netrunnerdb.com/en/card/03046)           | _Shaper_              | _Program_    | _Hayley Kaplan: Universal Scholar_                     |
+| **2x** | [Sahasrara](https://netrunnerdb.com/en/card/03047)                     | _Shaper_              | _Program_    | _Hayley Kaplan: Universal Scholar_                     |
+| **1x** | [LLDS Energy Regulator](https://netrunnerdb.com/en/card/06039)         | _Shaper_              | _Program_    | _Hayley Kaplan: Universal Scholar_                     |
+| **3x** | [Hyperdriver](https://netrunnerdb.com/en/card/08070)                   | _Shaper_              | _Program_    | _Hayley Kaplan: Universal Scholar_                     |
+| **2x** | [DaVinci](https://netrunnerdb.com/en/card/08107)                       | _Shaper_              | _Program_    | _Hayley Kaplan: Universal Scholar_                     |
+| **1x** | [Na'Not'K](https://netrunnerdb.com/en/card/12088)                      | _Shaper_              | _Program_    | _Nasir Meidan: Cyber Explorer_                         |
+| **2x** | [Laamb](https://netrunnerdb.com/en/card/21086)                         | _Shaper_              | _Program_    | _Nasir Meidan: Cyber Explorer_                         |
+| **2x** | [Engolo](https://netrunnerdb.com/en/card/21108)                        | _Shaper_              | _Program_    | _Nasir Meidan: Cyber Explorer_                         |
+| **2x** | [Sharpshooter](https://netrunnerdb.com/en/card/04067)                  | _Shaper_              | _Program_    | _Nasir Meidan: Cyber Explorer_                         |
+| **3x** | [Dhegdheer](https://netrunnerdb.com/en/card/13020)                     | _Shaper_              | _Program_    | _Nasir Meidan: Cyber Explorer_                         |
+| **3x** | [Kongamato](https://netrunnerdb.com/en/card/21027)                     | _Shaper_              | _Resource_   | _Akiko Nisei: Head Case_                               |
+| **3x** | [Gbahali](https://netrunnerdb.com/en/card/21047)                       | _Shaper_              | _Resource_   | _Akiko Nisei: Head Case_                               |
+| **3x** | [Reclaim](https://netrunnerdb.com/en/card/21107)                       | _Shaper_              | _Resource_   | _Akiko Nisei: Head Case_                               |
+| **3x** | [Psych Mike](https://netrunnerdb.com/en/card/22021)                    | _Shaper_              | _Resource_   | _Akiko Nisei: Head Case_                               |
+| **2x** | [Patron](https://netrunnerdb.com/en/card/10063)                        | _Shaper_              | _Resource_   | _Ele "Smoke" Scovak: Cynosure of the Net_              |
+| **2x** | [Algo Trading](https://netrunnerdb.com/en/card/11029)                  | _Shaper_              | _Resource_   | _Ele "Smoke" Scovak: Cynosure of the Net_              |
+| **2x** | [Beth Kilrain-Chang](https://netrunnerdb.com/en/card/11030)            | _Shaper_              | _Resource_   | _Ele "Smoke" Scovak: Cynosure of the Net_              |
+| **2x** | [Net Mercur](https://netrunnerdb.com/en/card/11046)                    | _Shaper_              | _Resource_   | _Ele "Smoke" Scovak: Cynosure of the Net_              |
+| **3x** | [Ice Analyzer](https://netrunnerdb.com/en/card/03051)                  | _Shaper_              | _Resource_   | _Hayley Kaplan: Universal Scholar_                     |
+| **2x** | [London Library](https://netrunnerdb.com/en/card/08029)                | _Shaper_              | _Resource_   | _Hayley Kaplan: Universal Scholar_                     |
+| **1x** | [Tyson Observatory](https://netrunnerdb.com/en/card/08030)             | _Shaper_              | _Resource_   | _Hayley Kaplan: Universal Scholar_                     |
+| **2x** | [Dummy Box](https://netrunnerdb.com/en/card/12108)                     | _Shaper_              | _Resource_   | _Nasir Meidan: Cyber Explorer_                         |
+| **2x** | [Aesop's Pawnshop](https://netrunnerdb.com/en/card/01047)              | _Shaper_              | _Resource_   | _Nasir Meidan: Cyber Explorer_                         |
+| **3x** | [Personal Workshop](https://netrunnerdb.com/en/card/02049)             | _Shaper_              | _Resource_   | _Nasir Meidan: Cyber Explorer_                         |
+| **2x** | [Order of Sol](https://netrunnerdb.com/en/card/06058)                  | _Shaper_              | _Resource_   | _Nasir Meidan: Cyber Explorer_                         |
+| **2x** | [Another Day, Another Paycheck](https://netrunnerdb.com/en/card/11007) | _Sunny Lebeau_        | _Event_      | _Sunny Lebeau: Security Specialist_                    |
+| **2x** | [White Hat](https://netrunnerdb.com/en/card/21048)                     | _Sunny Lebeau_        | _Event_      | _Sunny Lebeau: Security Specialist_                    |
+| **3x** | [Black Hat](https://netrunnerdb.com/en/card/21110)                     | _Sunny Lebeau_        | _Event_      | _Sunny Lebeau: Security Specialist_                    |
+| **3x** | [Office Supplies](https://netrunnerdb.com/en/card/22024)               | _Sunny Lebeau_        | _Event_      | _Sunny Lebeau: Security Specialist_                    |
+| **2x** | [Security Chip](https://netrunnerdb.com/en/card/09046)                 | _Sunny Lebeau_        | _Hardware_   | _Sunny Lebeau: Security Specialist_                    |
+| **3x** | [Security Nexus](https://netrunnerdb.com/en/card/09047)                | _Sunny Lebeau_        | _Hardware_   | _Sunny Lebeau: Security Specialist_                    |
+| **3x** | [GS Striker M1](https://netrunnerdb.com/en/card/09048)                 | _Sunny Lebeau_        | _Program_    | _Sunny Lebeau: Security Specialist_                    |
+| **3x** | [GS Shrike M2](https://netrunnerdb.com/en/card/09049)                  | _Sunny Lebeau_        | _Program_    | _Sunny Lebeau: Security Specialist_                    |
+| **3x** | [GS Sherman M3](https://netrunnerdb.com/en/card/09050)                 | _Sunny Lebeau_        | _Program_    | _Sunny Lebeau: Security Specialist_                    |
+| **2x** | [Globalsec Security Clearance](https://netrunnerdb.com/en/card/09051)  | _Sunny Lebeau_        | _Resource_   | _Sunny Lebeau: Security Specialist_                    |
+| **2x** | [Jak Sinclair](https://netrunnerdb.com/en/card/09052)                  | _Sunny Lebeau_        | _Resource_   | _Sunny Lebeau: Security Specialist_                    |
+| **2x** | ["Freedom Through Equality"](https://netrunnerdb.com/en/card/10045)    | _Neutral_             | _Event_      | _Adam: Compulsive Hacker_                              |
+| **3x** | [Build Script](https://netrunnerdb.com/en/card/12028)                  | _Neutral_             | _Event_      | _Adam: Compulsive Hacker_                              |
+| **2x** | [Mad Dash](https://netrunnerdb.com/en/card/12008)                      | _Neutral_             | _Event_      | _Alice Merchant: Clan Agitator_                        |
+| **3x** | [Process Automation](https://netrunnerdb.com/en/card/13023)            | _Neutral_             | _Event_      | _Apex: Invasive Predator_                              |
+| **1x** | [Uninstall](https://netrunnerdb.com/en/card/07053)                     | _Neutral_             | _Event_      | _Apex: Invasive Predator_                              |
+| **3x** | [Dirty Laundry](https://netrunnerdb.com/en/card/03052)                 | _Neutral_             | _Event_      | _Null: Whistleblower_                                  |
+| **3x** | [Lucky Find](https://netrunnerdb.com/en/card/04109)                    | _Neutral_             | _Event_      | _Reina Roja: Freedom Fighter_                          |
+| **3x** | [Peace in Our Time](https://netrunnerdb.com/en/card/11109)             | _Neutral_             | _Event_      | _Sunny Lebeau: Security Specialist_                    |
+| **2x** | [Windfall](https://netrunnerdb.com/en/card/09054)                      | _Neutral_             | _Event_      | _Sunny Lebeau: Security Specialist_                    |
+| **3x** | [Dyson Mem Chip](https://netrunnerdb.com/en/card/02028)                | _Neutral_             | _Hardware_   | _Apex: Invasive Predator_                              |
+| **3x** | [Sports Hopper](https://netrunnerdb.com/en/card/10064)                 | _Neutral_             | _Hardware_   | _Sunny Lebeau: Security Specialist_                    |
+| **2x** | [RNG Key](https://netrunnerdb.com/en/card/21029)                       | _Neutral_             | _Program_    | _Adam: Compulsive Hacker_                              |
+| **2x** | [The Turning Wheel](https://netrunnerdb.com/en/card/10085)             | _Neutral_             | _Resource_   | _Adam: Compulsive Hacker_                              |
+| **3x** | [Corporate Defector](https://netrunnerdb.com/en/card/12109)            | _Neutral_             | _Resource_   | _Adam: Compulsive Hacker_                              |
+| **3x** | [Armitage Codebusting](https://netrunnerdb.com/en/card/01053)          | _Neutral_             | _Resource_   | _Adam: Compulsive Hacker_                              |
+| **2x** | [Kasi String](https://netrunnerdb.com/en/card/21111)                   | _Neutral_             | _Resource_   | _Adam: Compulsive Hacker_                              |
+| **2x** | [Kati Jones](https://netrunnerdb.com/en/card/02091)                    | _Neutral_             | _Resource_   | _Adam: Compulsive Hacker_                              |
+| **2x** | [Dadiana Chacon](https://netrunnerdb.com/en/card/12049)                | _Neutral_             | _Resource_   | _Alice Merchant: Clan Agitator_                        |
+| **1x** | [Hades Shard](https://netrunnerdb.com/en/card/06059)                   | _Neutral_             | _Resource_   | _Apex: Invasive Predator_                              |
+| **3x** | [Daily Casts](https://netrunnerdb.com/en/card/03053)                   | _Neutral_             | _Resource_   | _Ele "Smoke" Scovak: Cynosure of the Net_              |
+| **3x** | [Technical Writer](https://netrunnerdb.com/en/card/09055)              | _Neutral_             | _Resource_   | _Hayley Kaplan: Universal Scholar_                     |
+| **1x** | [Eden Shard](https://netrunnerdb.com/en/card/06020)                    | _Neutral_             | _Resource_   | _Leela Patel: Trained Pragmatist_                      |
+| **1x** | [Utopia Shard](https://netrunnerdb.com/en/card/06100)                  | _Neutral_             | _Resource_   | _Leela Patel: Trained Pragmatist_                      |
+| **3x** | [Earthrise Hotel](https://netrunnerdb.com/en/card/06120)               | _Neutral_             | _Resource_   | _Leela Patel: Trained Pragmatist_                      |
+| **2x** | [Dean Lister](https://netrunnerdb.com/en/card/13025)                   | _Neutral_             | _Resource_   | _Nasir Meidan: Cyber Explorer_                         |
+| **3x** | [Bloo Moose](https://netrunnerdb.com/en/card/12089)                    | _Neutral_             | _Resource_   | _Omar Keung: Conspiracy Theorist_                      |
+| **3x** | [Underworld Contact](https://netrunnerdb.com/en/card/02069)            | _Neutral_             | _Resource_   | _Sunny Lebeau: Security Specialist_                    |
+| **3x** | [Rachel Beckman](https://netrunnerdb.com/en/card/06060)                | _Neutral_             | _Resource_   | _Sunny Lebeau: Security Specialist_                    |
+| **3x** | [Data Folding](https://netrunnerdb.com/en/card/07055)                  | _Neutral_             | _Resource_   | _Sunny Lebeau: Security Specialist_                    |
+| **2x** | [Symmetrical Visage](https://netrunnerdb.com/en/card/08009)            | _Neutral_             | _Resource_   | _Sunny Lebeau: Security Specialist_                    |
