@@ -124,7 +124,7 @@ class Deck():
                 ).ljust(widths['name'] + 43),
             ] + [
                 ' _{}_ '.format(info[key]['display']).ljust(widths[key] + 5)
-                if info[key]['display'] else ' '
+                if info[key]['display'] else ' ' * (widths[key] + 5)
                 for key, _, _ in columns
             ] + [''])
             for info in rows
