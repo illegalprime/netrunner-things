@@ -26,6 +26,11 @@ class DB():
             for kind in json.load(open(path.join(ROOT, 'types.json')))
         }
 
+        self.factions = {
+            faction['code']: faction
+            for faction in json.load(open(path.join(ROOT, 'factions.json')))
+        }
+
         ordered_packs = self.__sort_packs(
             self.packs, self.cycles, os.listdir(path.join(ROOT, 'packs'))
         )
