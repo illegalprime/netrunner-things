@@ -38,10 +38,7 @@ def main(deck_paths, shorten):
             )
             for identity, count in others.items()
         ])
-        return {
-            'display': text,
-            'sort': text,
-        }
+        return { 'display': text, 'sort': (text,) }
 
     for deck in decks:
         print(deck.to_markdown(
@@ -50,7 +47,7 @@ def main(deck_paths, shorten):
                 ('owners', 'Used Elsewhere', other_owners),
                 ('type', 'Type', Deck.card_type),
             ],
-            sort_by='type',
+            sort_by=['type'],
         ))
 
 

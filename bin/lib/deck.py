@@ -32,8 +32,19 @@ class Deck():
         })
 
     def card_type(deck, db, card):
-        name = db.types[db.cards[card]['type_code']]['name']
-        return { 'display': name, 'sort': name }
+        kind = db.types[db.cards[card]['type_code']]
+        return {
+            'display': kind['name'],
+            'sort': (kind['side_code'], kind['name']),
+        }
+
+    def card_faction(deck, db, card):
+        faction = db.factions[db.cards[card]['faction_code']]
+        is_neutral = faction['code'] in ['neutral-corp', 'neutral-runner']
+        return {
+            'display': faction['name'],
+            'sort': (faction['side_code'], str(int(is_neutral)), faction['name'])
+        }
 
     def card_cycle(deck, db, card):
         info = db.cards[card]
@@ -49,13 +60,32 @@ class Deck():
             title=True,
             total=True,
             diff=False,
-            sort_by='type',
+            sort_by=['type'],
             columns=[('type', 'Type', card_type)]
     ):
-        def sorter(card):
-            if type(card[sort_by]) is dict:
-                return card[sort_by]['sort']
-            return card[sort_by]
+        rows = sorted([
+            dict([
+                ('count', count),
+                ('name', card),
+            ] + [
+                (key, f(self, db, card))
+                for key, _, f in columns
+            ])
+            for card, count in self.cards.items()
+        ], key=lambda card: [
+            key
+            for col in sort_by
+            for key in (
+                card[col]['sort'] if type(card[col]) is dict else (card[col],)
+            )
+        ])
+
+        widths = {
+            col: max(map(lambda row: len(
+                row[col]['display'] if type(row[col]) is dict else str(row[col])
+            ), rows))
+            for col in rows[0].keys()
+        }
 
         return '\n'.join(([
             '',
@@ -65,30 +95,39 @@ class Deck():
             'Total: {}'.format(sum(self.cards.values())),
         ] if total else []) + [
             '',
-            '| Count | Name | ' + ' | '.join([
-                name for _, name, _ in columns
-            ]) + ' |',
-            '| :---: | ---- |' + (' ---- |' * len(columns)),
+            '|'.join([
+                '',
+                ' Count'.ljust(widths['count'] + 7),
+                ' Name'.ljust(widths['name'] + 43),
+            ] + [
+                ' ' + name.ljust(widths[key] + 4)
+                for key, name, _ in columns
+            ] + ['']),
+            '|'.join([
+                '',
+                ' :{}: '.format('-' * (widths['count'] + 3)),
+                ' {} '.format('-' * (widths['name'] + 41)),
+            ] + [
+                ' {} '.format('-' * (widths[key] + 3))
+                for key, _, _ in columns
+            ] + [''])
         ] + [
-            '| **{}x** | [{}]({}) |'.format(
-                ('+' if diff and info['count'] > 0 else '') + str(info['count']),
-                info['name'],
-                'https://netrunnerdb.com/en/card/{}'.format(db.cards[info['name']]['code']),
-            ) + '|'.join([
-                ' _{}_ '.format(info[key]['display'])
+            '|'.join([
+                '',
+                ' **{}x** '.format(
+                    ('+' if diff and info['count'] > 0 else '') + str(info['count'])
+                ).ljust(widths['count'] + 7),
+
+                ' [{}]({}) '.format(
+                    info['name'],
+                    'https://netrunnerdb.com/en/card/{}'.format(db.cards[info['name']]['code'])
+                ).ljust(widths['name'] + 43),
+            ] + [
+                ' _{}_ '.format(info[key]['display']).ljust(widths[key] + 5)
                 if info[key]['display'] else ' '
                 for key, _, _ in columns
             ] + [''])
-            for info in sorted([
-                dict([
-                    ('count', count),
-                    ('name', card),
-                ] + [
-                    (key, f(self, db, card))
-                    for key, _, f in columns
-                ])
-                for card, count in self.cards.items()
-            ], key=sorter)
+            for info in rows
         ])
 
 

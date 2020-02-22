@@ -4,7 +4,7 @@ from lib.db import DB
 from lib.deck import Deck
 
 
-def main(deck_paths, blacklist, columns):
+def main(deck_paths, blacklist, columns, sort_by):
     # build card "database"
     db = DB(blacklist)
 
@@ -27,12 +27,14 @@ def main(deck_paths, blacklist, columns):
 
     # lookup identity if needed
     def get_identity(deck, db, card):
-        return { 'display': id_lookup[card] }
+        identity = id_lookup[card]
+        return { 'display': identity, 'sort': (identity,) }
 
     all_columns = {
         'cycle': ('Cycle', Deck.card_cycle),
         'type': ('Type', Deck.card_type),
         'identity': ('Identity', get_identity),
+        'faction': ('Faction', Deck.card_faction),
     }
 
     print(cards.to_markdown(
@@ -42,7 +44,7 @@ def main(deck_paths, blacklist, columns):
             (key, all_columns[key][0], all_columns[key][1])
             for key in columns
         ],
-        sort_by='cycle'
+        sort_by=sort_by
     ))
 
 
@@ -66,7 +68,13 @@ if __name__ == '__main__':
         default='cycle,type',
         help='columns to print, e.g. cycle,type,identity'
     )
+    parser.add_argument(
+        '--sort',
+        default=None,
+        help='list of columns to sort by, e.g. type,faction'
+    )
     args = parser.parse_args()
     exclude = args.exclude.split(',') if args.exclude else []
     columns = args.cols.split(',')
-    main(args.decks, exclude, columns)
+    sort_by = args.sort.split(',') if args.sort else columns
+    main(args.decks, exclude, columns, sort_by)

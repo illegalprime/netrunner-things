@@ -17,7 +17,7 @@ def main(deck_paths):
             title='### Transition',
             total=False,
             diff=True,
-            sort_by='count'
+            sort_by=['count']
         ))
         print(decks[i].to_markdown(db))
 
