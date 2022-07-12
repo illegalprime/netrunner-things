@@ -2,6 +2,7 @@
 import argparse
 from lib.db import DB
 from lib.deck import Deck
+from collections import defaultdict
 
 
 def main(deck_paths, blacklist, columns, sort_by):
@@ -11,12 +12,14 @@ def main(deck_paths, blacklist, columns, sort_by):
     # turn all the deck files into decks
     decks = list(map(Deck.from_txt_deck, deck_paths))
 
+    # count up all card counts in all decks
+    big_deck = defaultdict(int)
+    for deck in decks:
+        for card, count in deck.cards.items():
+            big_deck[card] += count
+
     # map cards in deck to cards in db
-    cards = Deck(None, {
-        card: count
-        for deck in decks
-        for card, count in deck.cards.items()
-    })
+    cards = Deck(None, big_deck)
 
     # lookup for IDs of decks
     id_lookup = {
