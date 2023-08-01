@@ -22,16 +22,15 @@ def main(deck_paths, blacklist, columns, sort_by):
     cards = Deck(None, big_deck)
 
     # lookup for IDs of decks
-    id_lookup = {
-        card: deck.identity
-        for deck in decks
-        for card in deck.cards
-    }
+    id_lookup = defaultdict(set)
+    for deck in decks:
+        for card in deck.cards:
+            id_lookup[card].add(deck.identity)
 
     # lookup identity if needed
     def get_identity(deck, db, card):
-        identity = id_lookup[card]
-        return { 'display': identity, 'sort': (identity,) }
+        ids = id_lookup[card]
+        return { 'display': ', '.join(ids), 'sort': ids }
 
     all_columns = {
         'cycle': ('Cycle', Deck.card_cycle),
